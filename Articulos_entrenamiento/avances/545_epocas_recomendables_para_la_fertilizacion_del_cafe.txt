@@ -1,0 +1,138 @@
+
+Noviembre de 2022
+Gerencia Técnica /
+Programa de Investigación Científica
+Fondo Nacional del Café
+
+Épocas recomendables para la fertilización del café  antes y después de la zoca
+
+
+La renovación oportuna y la fertilización del cultivo del café son dos de las prácticas agronómicas que permiten incrementar y mantener la productividad y la rentabilidad (Arcila et al., 2007; Sadeghian, 2010). Con respecto a la fertilización, un aspecto importante para mejorar su eficiencia se relaciona con el momento oportuno de la labor, y en cuanto a la renovación, son relevantes los métodos que se emplean, siendo más comunes en Colombia la renovación por siembra y el zoqueo. 
+Cabe resaltar que este último método presenta ventajas comparativas, tanto en el marco agronómico como económico, ya que es una práctica útil para la administración adecuada de la plantación, y con un menor costo   respecto a la renovación por siembra (Arcila et al., 2007; Uribe & Salazar, 1984). El zoqueo se debe realizar en las épocas correctas, según los patrones de cosecha de cada zona, y debe coincidir con un período seco, luego de finalizada la cosecha principal (Rendón, 2019).
+
+En concordancia con lo descrito, una inquietud frecuente de los caficultores se relaciona con los momentos apropiados para realizar la última fertilización antes de la renovación por zoca y el primer abonamiento después de esta labor. Resultados previos de investigación de Uribe y Salazar (1984) demostraron que la producción de café después del zoqueo no se afecta por la fertilización realizada dos meses antes del zoqueo o cuando se lleva a cabo tres meses después del mismo. Cabe resaltar que, en Costa Rica (Alpízar, 1983) y Brasil (Biscaro et al., 2010), no se ha encontrado efecto de la fertilización en zocas con edad inferior a los 12 meses. Pese a lo anterior, en Colombia, aún hace falta comprender qué ocurre si no se ejecuta la fertilización del primer semestre previo al zoqueo o si se inicia la fertilización después de tres meses del mismo, aspecto que se quiere dar a conocer en este Avance Técnico. 
+Para responder a las inquietudes planteadas, se realizó una investigación en las Estaciones Experimentales de Cenicafé Naranjal (municipio de Chinchiná, Caldas) y Paraguaicito (municipio de Buenavista, Quindío), y en la finca La Arcadia (municipio de Líbano, Tolima), en cultivos de café variedad Colombia, de cuatro años de edad, desde la siembra en el campo. 
+Al quinto año después de la siembra y uno a dos meses después de la última cosecha, el cultivo se zoqueó, mediante el corte del tallo a 30 cm del suelo, y el material podado (hojarasca y ramas delgadas) se dejó sobre el suelo. 
+Las dosis de nutrientes se definieron con base en los resultados del análisis de suelos para cada localidad, así como enmiendas para la corrección de la acidez, según criterios definidos por Sadeghian (2008). Las épocas de fertilización, las cuales constituyeron los tratamientos, se presentan en la Tabla 1.
+Efecto del zoqueo en el sistema de raíces
+El zoqueo disminuyó la biomasa de raíces durante los primeros 12 meses después de la renovación (Figura 1); esta reducción fue de 65%, 60% y 58% en Naranjal, La Arcadia y Paraguaicito, respectivamente. Estos resultados sugieren que la planta de café durante el primer año después del zoqueo disminuye su capacidad para absorber los nutrimentos del suelo debido a la alta pérdida de raíces; de allí, la respuesta tardía a la fertilización después de la zoca.
+Efecto de la fertilización 
+antes del zoqueo 
+A continuación se presentan los resultados del efecto de la fertilización antes del zoqueo en la producción obtenida antes y después de esta labor.
+Efecto de la fertilización en la cosecha previa al zoqueo. En Paraguaicito y La Arcadia las producciones obtenidas con fertilización hasta 10 y 3 meses antes del zoqueo fueron iguales entre sí y mayores que la obtenida con la fertilización hasta los 16 meses antes de la zoca (Figura 2); en Naranjal no hubo efecto. En Paraguaicito hubo efecto de los tratamientos en el factor de rendimiento en trilla, en cuyo caso, el valor más alto se obtuvo con la fertilización hasta los 16 meses antes del zoqueo, pero este aspecto confirma que una nutrición deficiente puede afectar tanto la producción como la calidad física del café.
+A excepción de Naranjal, estos resultados permiten deducir que para las condiciones del estudio es necesaria la fertilización hasta los 10 meses antes del zoqueo con el fin de asegurar la calidad y el rendimiento del grano en el último ciclo de producción del cultivo anterior al zoqueo. Una explicación a la falta de respuesta a la fertilización tres meses antes del zoqueo, consiste en que durante los dos meses previos a la cosecha se presenta acumulación cercana al 25% de nutrientes en el fruto de café, lo cual sugiere que para una cosecha en formación tiene mayor influencia la fertilización que se realiza durante los primeros dos a tres meses a partir de la floración, que aquella que se realiza en los dos meses previos a la recolección (Sadeghian et al., 2013).
+Efecto de la fertilización en la producción. Bajo condiciones de Naranjal, la fertilización realizada hasta los 10 meses antes del zoqueo aumentó la producción acumulada del siguiente ciclo en 14% (Figura 3), y la fertilización hasta los 3 meses antes del zoqueo en 11% en comparación con la fertilización realizada hasta los 16 meses antes de la zoca. En La Arcadia y Paraguaicito la fertilización antes del zoqueo no afectó la producción acumulada de las cuatro cosechas del nuevo ciclo de producción. Parte de los anteriores resultados pueden atribuirse a las diferencias en la fertilidad de los suelos de las localidades; al respecto, en Naranjal, donde hubo respuesta, los suelos se caracterizan por  una menor capacidad para retener los nutrientes (Arias et al., 2009).
+Efecto de la fertilización 
+después del zoqueo
+El inicio de la fertilización después del zoqueo afectó las producciones anuales en los tres sitios; así: en Naranjal durante el cuarto año, en Paraguaicito en el primer año, y en La Arcadia en el primer y tercer año. En estas cosechas, la producción fue mayor al iniciar la fertilización a los 6 meses después del zoqueo frente al inicio de la fertilización 18 meses después del mismo.
+En Naranjal y Paraguaicito no hubo efecto de la época de inicio de la fertilización después del zoqueo en la producción acumulada de las cuatro cosechas, mientras que en La Arcadia la mayor producción se obtuvo cuando se inició la fertilización a los 6 meses después de la zoca (Figura 4). El factor de rendimiento en trilla sólo se afectó negativamente en La Arcadia, al iniciar la fertilización a los 18 meses después del zoqueo. De lo anterior, y con base en la Figura 4, se deduce que el inicio de la fertilización de manera tardía (18 meses después de la zoca) puede afectar en forma negativa la producción y la calidad del grano.
+Arcila et al. (2007) y Guarçoni et al. (2015) sugieren que después del zoqueo, el alto volumen de material vegetal dejado sobre el suelo puede ser suficiente para influenciar los mecanismos de liberación, retención y transporte de nutrientes en el suelo, y su consecuente absorción por las raíces, razón por la cual podría justificar la baja respuesta del café a la fertilización después de la zoca, especialmente en Naranjal y Paraguaicito. Con base en los resultados presentados, para condiciones similares a las del estudio se recomienda iniciar la fertilización entre 6 y 12 meses después del zoqueo, con una alta certeza que ni la producción ni la calidad del grano se afectarán negativamente.
+
+Autores
+Luis Fernando Salazar Gutiérrez
+Investigador Científico II
+https://orcid.org/0000-0003-2302-4825 
+Siavosh Sadeghian Khalajabadi
+Investigador Científico III
+https://orcid.org/0000-0003-1266-0885
+Disciplina de Suelos
+Centro Nacional de Investigaciones
+de Café - Cenicafé
+Manizales, Caldas, Colombia
+
+DOI (Digital Object Identifier)
+https://doi.org/10.38141/10779/0545
+
+Edición		
+Sandra Milena Marín López
+Fotografías	
+Archivo Cenicafé
+Diagramación	
+Ma. del Rosario Rodríguez Lara
+Imprenta		
+—
+
+Tabla 1. Épocas de fertilización antes y después de la zoca, evaluadas como tratamientos.
+Finalización de la fertilización antes del zoqueo
+ Inicio de la fertilización después 
+del zoqueo
+ 
+16 meses antes de la zoca
+ 3 meses después del zoqueo
+ 
+10 meses antes de la zoca
+ 6 meses después del zoqueo
+ 
+3 meses antes de la zoca
+ 12 meses después del zoqueo
+ 
+18 meses después del zoqueo
+ 
+
+
+
+ISSN-0120-0178
+ISSN-2145-3691 (En línea)
+Los trabajos suscritos por el personal técnico del Centro Nacional de Investigaciones de Café son parte de las investigaciones realizadas por la Federación Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad.
+
+Manizales, Caldas, Colombia
+Tel. (6) 8500707
+A.A. 2427 Manizales
+www.cenicafe.org
+
+
+Figura 1. Promedio de la biomasa seca de raíces de café a 25 cm y 50 cm del tallo, en diferentes períodos después del zoqueo. m.d.z. = meses después del zoqueo.
+
+
+Figura 2. Producción de café cereza, obtenida antes de la zoca, en respuesta a la época de la última fertilización antes del zoqueo. Letras distintas indican diferencias estadísticas entre los tratamientos. 
+m.a.z. = meses antes del zoqueo.
+
+
+
+Figura 3. Producción acumulada de cuatro cosechas de café cereza, obtenida después de la zoca, en respuesta a la última fertilización antes del zoqueo. Letras distintas indican diferencias estadísticas entre tratamientos (E.E.: Estación Experimental. F.A.: Finca de agricultor) (m.a.z.: meses antes del zoqueo).
+
+
+
+Figura 4. Producción acumulada de café cereza, obtenida después de la zoca, en respuesta a la fertilización después del zoqueo. Letras distintas indican diferencias estadísticas entre tratamientos. (E.E. Estación Experimental. F.A.: Finca de Agricultor). (m.d.z.= meses después del zoqueo).
+
+
+Recomendaciones de la época de fertilización antes y después del zoqueo
+Llevar a cabo la fertilización, teniendo en cuenta la disponibilidad de agua en el suelo. 
+Realizar la última fertilización 10 meses antes del zoqueo.
+Efectuar la primera fertilización entre los 6 a 12 meses después del zoqueo.
+
+
+Señor Caficultor: 
+La fertilización oportuna, antes y después del zoqueo de los cafetales, contribuye a mejorar la producción y la rentabilidad del cultivo; siga las recomendaciones del análisis de suelos.
+
+
+Agradecimientos: A la Caficultora Myriam Giraldo de la finca La Arcadia, a los responsables de las Estaciones Experimentales de Cenicafé Naranjal, La Trinidad y Paraguaicito.
+
+Literatura citada 
+
+Alpízar, J. M. (1983, noviembre 24-25). Efecto de la dosis de fertilizantes, según la edad de los ejes o ramas ortotrópicas. En Programa Cooperativo Regional para el Desarrollo Tecnológico y Modernización de la Caficultura (Organizador), VI Simposio Latinoamericano sobre caficultura (pp. 65–72). Ciudad de Panamá, Panamá.
+Arcila, J., Farfán, F., Moreno, A. M., Salazar, L. F., & Hincapié, E. (2007). Sistemas de producción de café en Colombia. Cenicafé. 
+http://hdl.handle.net/10778/720
+Arias, E., Sadeghian, S., Mejía, B., & Morales, C. S. (2009). Lixiviación del Nitrógeno en algunos suelos de la zona cafetera y su relación con la textura. Revista Cenicafé, 60(3), 239-252. http://hdl.handle.net/10778/154
+Bíscaro, L., Alvarenga, A. L., Guimarães, R. J., Padilha, L., & Siqueira, C. H. (2010). Ciclos de poda e adubaçao nitrogenada em lavouras cafeeiras conduzidas no sistema Safra zero. Coffee Science, 5(1), 28–37. http://www.coffeescience.ufla.br/index.php/Coffeescience/article/view/269
+Guarçoni, A., Moreira, F., & Tóffano, J. L. (2015, junio 24-26). Macronutrientes em solo e em folhas de café conilon submetido a diferentes manejos da poda de produção. En Consórcio Pesquisa Café e Desenvolvimento do Café (Organizador), IX Simpósio de Pesquisa dos Cafés do Brasil, Curitiba, Paraná, Brasil.
+Rendón S., J.R. (2019).  Recomendaciones para la renovación de café por medio de zocas. Avances Técnicos Cenicafé, 500, 1-8. 
+Sadeghian, S. (2008). Fertilidad del suelo y nutrición del café en Colombia: Guía práctica. Boletín Técnico Cenicafé, 32, 1–44. http://hdl.handle.net/10778/587 
+Sadeghian, S. (2010). Fertilización: una práctica que determina la producción de los cafetales. Avances Técnicos Cenicafé, 391, 1–8. http://hdl.handle.net/10778/377
+Sadeghian, S., Mejía, B., & González, H. (2013). Acumulación de nitrógeno, fósforo y potasio en los frutos de café. Avances Técnicos Cenicafé, 429, 1–8. http://hdl.handle.net/10778/407
+Uribe, A., & Salazar, J. N. (1984). Época de fertilización de las socas de café. Avances Técnicos Cenicafé, 117, 1–4. http://hdl.handle.net/10778/889
+
+
+
+
+
+
+
+
+
+
+
+©FNC - Cenicafé
+
+
+

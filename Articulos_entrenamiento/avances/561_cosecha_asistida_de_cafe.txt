@@ -1,0 +1,484 @@
+
+Marzo de 2024
+Gerencia Técnica /
+Programa de Investigación Científica
+Fondo Nacional del Café
+
+Cosecha asistida de café
+
+La cosecha de café ha sido, desde los inicios de la caficultura en Colombia, la labor con mayor participación en la estructura de costos de producción de café (Oliveros-Tascón y Sanz-Uribe, 2011). La razón principal es porque se ejecuta con mano de obra directa, recolectándose únicamente los frutos maduros de cada rama, en las que es común encontrar frutos en todos los estados de maduración, durante casi todas las semanas del año, dada la amplia distribución de las cosechas. Actualmente esta labor representa alrededor del 50% de los costos totales de producción.
+Así mismo, la disponibilidad de la mano de obra para realizar la cosecha de café ha sido muy dinámica en las últimas décadas. Uno de los aspectos más mencionados, es la preocupación por la disponibilidad de mano de obra para realizar la cosecha de café, por lo que cualquier esfuerzo para optimizar esta actividad es bien recibido no solamente por los caficultores, sino también por los recolectores.
+Con esa preocupación y de manera visionaria, en el año de 1997 se iniciaron las investigaciones en cosecha en Cenicafé con el fin de reducir los costos de esta labor (Oliveros-Tascón y Sanz-Uribe, 2011). No obstante, para cualquier tipo de mecanización, aumentar su eficiencia en las condiciones colombianas es un gran desafío, por la gran dispersión de la cosecha, las altas pendientes de los terrenos, la estructura y la fragilidad de los suelos, la coincidencia de la cosecha con la temporada lluviosa, sumados a componentes sociales como el apego a las costumbres de los caficultores y de los recolectores.
+Debido a los resultados y la experiencia durante años de investigación en cosecha, a observaciones recientes y a los nuevos desarrollos de la empresa privada, la Federación Nacional de Cafeteros de Colombia FNC, a través de la Gerencia Técnica creó el concepto de la Cosecha Asistida de Café que agrupa tres componentes: La retención de pases de cosecha, la cosecha manual de café con lonas en el suelo y la cosecha de café con una máquina portátil motorizada, denominada Derribadora Selectiva de Café. Estos componentes fueron seleccionados para brindar una contribución efectiva al problema de la cosecha de café en Colombia, de cara a una posible escasez de mano de obra.
+Retención de pases de cosecha
+Dentro de las razones por la cual caficultores envían a los recolectores a cada lote, con una periodicidad promedio de 17 días, son: 
+	
+En variedades de café como Caturra se percibía una menor fuerza de retención de los frutos al árbol y, por lo tanto, estos se caían fácilmente cuando se maduraban. 
+
+
+	
+La necesidad de flujo de caja disponible semanalmente. 
+
+
+	
+Control cultural de la broca del café.
+
+
+En épocas de escasez de mano de obra para la cosecha, los caficultores con variedades resistentes a la roya han reportado que pudieron extender el tiempo de espera entre pases sin observar alguna desventaja económica. Sanz-Uribe et al. (2018a) encontraron que las variedades resistentes a la roya del cafeto como Castillo® Regionales, Tabi o Cenicafé 1, tienen la capacidad de retener los frutos hasta un máximo de 35 días entre pases de cosecha, lo cual significa un aumento de la oferta de frutos cosechables, lo cual tiene incidencia positiva sobre el rendimiento de los recolectores. Sin embargo, esta práctica tiene una limitación fitosanitaria, que se soporta en que la retención de pases de cosecha puede hacerse siempre y cuando la infestación por broca no sea mayor o igual a 2,0% al inicio de la retención, pues pueden alcanzarse valores muy altos de infestación luego de 30 días (Figura 1). 
+La Figura 2 muestra la dinámica de la maduración de los frutos de café en la Finca El Edén (Líbano, Tolima), en el pase principal de la cosecha del segundo semestre del 2019 (Sanz-Uribe e Hincapié, 2020b), donde se observa que la oferta de frutos cosechables (incluyendo los pintones que despulpan) a los 17 días y a los 35 días, pasa de 17,14% a 53,99%, respectivamente, es decir, aumenta más de tres veces. También se observa que las pérdidas, representadas por los frutos secos y los frutos caídos es menor del 1,0%, lo que permite concluir que el método es efectivo. Una de las preguntas más frecuentes cuando se quiere realizar la retención de pases de cosecha es si tiene algún efecto adverso sobre la calidad física y en taza. En el mismo trabajo Sanz-Uribe e Hincapié (2020b), hicieron pruebas de calidad a cafés con y sin retención de pases de cosecha y encontraron que no había diferencia entre ellos. 
+Como el tiempo que transcurre entre la emergencia de la flor y el correspondiente fruto maduro de café, es en promedio 32 semanas, con una variación pequeña, es posible hacer un pronóstico acertado de la cosecha con base en las floraciones (Rendón et al., 2008). Por tal razón, para hacer retención de pases es importante llevar rigurosamente los registros de floración, estimar los pases de cosecha más importantes, hacer una correcta planeación de la cosecha y determinar las necesidades de mano de obra e implementos.
+Recolección manual de café con lonas
+Trabajos de tiempos y movimientos en la cosecha manual realizados por Vélez et al. (1999), mostraron que había movimientos ociosos o susceptibles de disminuir en la cosecha manual de café, y se dedujo que, si se contaba con un área más grande donde recibir los frutos desprendidos, el único micro-movimiento necesario para la cosecha de café era el desprendimiento de los frutos. Con esa premisa, se desarrollaron y evaluaron decenas de implementos desde pantallas en el coco, morrales con mangas y aros, trineos, mallas en el suelo, mallas guiadas sujetadas a la cintura de los operarios, todos con un área mayor para la recepción de frutos desprendidos. Con estos implementos se obtuvieron buenos resultados en cuanto a aumento de rendimiento para los recolectores, con menores pérdidas de frutos al suelo.
+Oliveros-Tascón et al. (2006) usaron una metodología para aumentar la capacidad de recolección de los trabajadores y disminuir las pérdidas de café durante esta labor, poniendo mallas sobre el suelo en las calles de los surcos de café.
+Posteriormente Sanz-Uribe e Hincapié (2020b) hicieron una evaluación en 150 fincas distribuidas en ocho municipios del departamento de Tolima, donde compararon el desempeño de recolectores con lonas y con cocos. La Tabla 1 muestra que en todos los casos hubo mayor rendimiento cuando se hizo la cosecha manual con lonas en el suelo, con un aumento en promedio del 101% de la capacidad de recolección, lo que corrobora la efectividad del método.
+Así mismo, en las pruebas se evaluaron la calidad de la recolección asociada al contenido de frutos verdes en la masa cosechada, las pérdidas asociadas con los frutos dejados en el suelo y la eficacia asociada con los frutos cosechables dejados en los árboles. El contenido de frutos verdes en la masa cosechada puede considerarse aceptable para los dos casos porque están por debajo del límite de 2,5%. Aunque las pérdidas al suelo estuvieron por debajo de cinco frutos por sitio para ambos métodos, las obtenidas con el sistema tradicional fueron casi tres veces las obtenidas con el sistema manual con lonas, lo que refuerza el argumento de menores pérdidas de frutos al suelo y se contribuye al manejo integrado de la broca. La eficacia también fue tolerable para los dos tipos de cosecha, ya que se admiten hasta cinco frutos por árbol. No se observó diferencia estadística en la variable frutos cosechables dejados en los árboles.
+Cosecha de café con la Derribadora DSC18
+Muchos investigadores que han trabajado la cosecha selectiva de los frutos de café por vibración, han tenido como hipótesis el desprendimiento selectivo de los frutos por resonancia mecánica1, sin embargo, no se han encontrado diferencias importantes entre las frecuencias naturales de los frutos maduros y verdes, que puedan ser usados para desprender los maduros sin que caigan los verdes. Cardona (2006) encontró que, con la aplicación de movimientos repetidos, los frutos de café se desprenden por acumulación de ciclos en el pedúnculo (falla por fatiga2), en lugar de resonancia mecánica, y encontró que el pedúnculo de los frutos maduros necesita una menor cantidad de ciclos para colapsar que el pedúnculo de los frutos verdes. No obstante, para que el desprendimiento sea en tiempos menores a un segundo, se necesitan vibraciones con frecuencias del orden de 200 Hz o superiores.
+Con base en estos resultados, el trabajo conjunto entre la empresa brasileña Brudden Equipamentos y Cenicafé concluyó con el desarrollo de la Derribadora Selectiva de Café, Brudden DSC 18 (Sanz-Uribe & Duque-Orrego, 2020a; Sanz-Uribe & Duque-Orrego, 2020). Para aplicar el principio de falla del pedúnculo por fatiga, la máquina tiene un mecanismo que termina en una horquilla que oscila a 220 Hz, con una pequeña amplitud (1,1°). Para que las ondas se propaguen de manera efectiva sobre la rama, el punto de contacto debe ser en el lugar donde ésta es rígida, lo cual ocurre a unos 5,0 cm de distancia desde la inserción de la rama al tallo principal. 
+Sanz-Uribe y Duque-Orrego (2020) evaluaron la derribadora DSC18 en tres Estaciones Experimentales de Cenicafé en Cauca, Antioquia y Santander, con características de concentración y carga por árbol, requeridas para la recolección de café con esa herramienta, entre los meses de abril y noviembre de 2019 (Tabla 2). Para hacer una comparación del rendimiento con respecto al método tradicional se tomó como referencia la distribución del rendimiento hallado por Duque-Orrego y Dussán (2004), quienes encontraron un rendimiento promedio de los recolectores de 82,6 kg día-1, es decir, un rendimiento promedio de 10,33 kg h-1a razón de 8,0 h de trabajo por día, con una desviación estándar de 4,19 kg h-1. Con el fin de hacer una comparación de la distribución, se construyó un histograma con intervalos de 5 kg h-1 con los datos de Duque-Orrego y Dussan (2004), y otro histograma con iguales intervalos con los datos hallados en el presente trabajo (Figura 3). 
+El promedio general del rendimiento con la máquina es de 28,53 kg h-1 por hombre, lo que es 2,8 veces más rápido que la cosecha con el método manual tradicional, es decir, 180% mayor capacidad. No obstante, el histograma del desempeño de la cosecha con derribadora DSC18 tiene una alta desviación estándar, lo cual se explica porque el equipo todavía está en proceso de aprendizaje de utilización y adopción.
+El promedio de los frutos verdes en la masa cosechada fue de 6,07%, el cual es aceptable para la cosecha semi-mecanizada de café, lo que hace resaltar el carácter selectivo de la máquina, pues se encuentra muy cerca del contenido de frutos verdes en la masa cosechada manualmente (2,5%), ya que no hay cuantificación de los frutos verdes que dejan los recolectores en los lotes para cumplir con los estándares de la recolección en las fincas. 
+El promedio de 6,67 unidades/sitio de frutos cosechables dejados en los árboles está ligeramente por encima del límite de 5,00 unidades/sitio para control de broca, lo cual se considera aceptable para cosecha semi-mecanizada.
+Las pérdidas promedio de 12,77 frutos/sitio es un valor que está lejos de ser aceptable, pues difiere de los valores obtenidos en otras evaluaciones, y no está relacionado con el desempeño de la máquina sino con el manejo de las lonas, lo cual es susceptible de mejora con la experiencia. Adicionalmente, las pérdidas de frutos al suelo en las pruebas realizadas en la Estación Experimental El Rosario (Venecia, Antioquia) estuvieron por encima de los 40 frutos/sitio, las cuales tuvieron gran incidencia en el alto valor del promedio general. 
+Así mismo, durante y posterior a las pruebas se ha hecho seguimiento a los árboles que fueron cosechados con la máquina, con el fin de observar posibles efectos adversos sobre las plantas. Se tienen plantaciones que han sido cosechadas en segunda oportunidad con la derribadora DSC18 y no se observan plantas afectadas por enfermedades que puedan entrar por los lugares donde se hace el contacto, por posible daño mecánico a los tejidos, ni disminuciones en la producción.
+Sanz-Uribe y Duque-Orrego (2020a) evaluaron el desprendimiento de otros órganos como hojas, botones florales y frutos verdes pequeños. Determinaron que las hojas que caen por el efecto de la vibración son aquellas que ya cumplieron su ciclo y siendo las mismas que se desprenden cuando se hace la cosecha manual. Las hojas sanas, flores, botones florales y frutos de café pequeños no se caen, porque tienen una masa muy pequeña que hace que vibren en menor medida y que no se afecten sus estructuras.
+Herramientas de apoyo para la cosecha asistida de café
+Con el objetivo de garantizar la buena calidad de la recolección del café (Guerrero et al. 2022) desarrollaron el método Mediverdes® (infografía), que consiste en un método rápido que se aplica durante la recolección para conocer el porcentaje de frutos verdes en su masa cosechada y de esta manera controlar la labor de recolección para evitar el incremento de frutos verdes en la masa cosechada. Este método es aplicable tanto en la recolección tradicional como en la recolección con lonas o con derribadora DSC18. Adicionalmente, Sanz-Uribe et al. (2022) desarrollaron la zaranda para separación de hojas y empaque de café en la cosecha asistida (infografía), este dispositivo permite clasificar eficaz y eficientemente las hojas que se acumulan con el café durante el proceso de recolección manual con lonas o con la derribadora DSC18, y al mismo tiempo, empacar los frutos de café recolectados en estopas, evitando las pérdidas de café al suelo.
+Aplicación práctica del concepto de la 
+cosecha asistida de café
+Se refiere a la combinación de diferentes prácticas de recolección y herramientas. Cuando el período de cosecha está iniciando, deben recogerse los pocos frutos maduros que hay en los árboles, con el fin de evitar una potencial infestación por broca. Aunque en esos momentos es posible realizar la retención de pases, el café puede recolectarse con coco debido al bajo volumen de frutos maduros presente (infografía).
+A medida que la masa de frutos maduros va aumentando, se continua con la retención de pases, absteniéndose de entrar a recolectar los lotes en períodos inferiores a 30 días, siempre y cuando al inicio de la retención la infestación por broca sea menor del 2,0%. Al momento de ingresar al cafetal retenido, se extienden las lonas y se procede a recolectar el café de manera manual, o si la carga de café maduro es muy alta, puede hacerse uso de la máquina DSC18. 
+Aspectos económicos
+Aplicando los componentes de la cosecha asistida puede obtenerse un mayor rendimiento en la mano de obra, que debería traducirse en la reducción del costo unitario de recolección, el cual beneficia al caficultor y al mismo tiempo permite aumentar el ingreso del recolector de acuerdo con el aumento del rendimiento y la tecnología utilizada. 
+Es así como utilizando la recolección manual con lonas, el caficultor puede obtener entre 17% y 30% de reducción del costo unitario de recolección, y al mismo tiempo el recolector por su aumento del rendimiento puede obtener entre 27% y 74% más de ingresos por su labor, todo esto teniendo en cuenta la inversión realizada por el caficultor en las lonas y la depreciación que sufren las lonas con el paso del tiempo.
+Por otra parte, con el uso de la derribadora selectiva de café DSC18, el caficultor puede obtener entre 15% y 33% de reducción del costo unitario de recolección, y al mismo tiempo, el recolector por su aumento del rendimiento puede obtener entre 12% y 160% más de ingresos por su labor, teniendo en cuenta la inversión realizada por el caficultor en las lonas, la derribadora, el consumo de combustible, la depreciación que sufren los equipos con el paso del tiempo y que el aumento del rendimiento de recolección sea superior al 80%, condición que se cumple en la mayoría de los casos
+
+
+
+
+
+Autores
+Juan Rodrigo Sanz Uribe 
+Investigador Científico III 
+https://orcid.org/0000-0001-9875-9426
+Hernando Duque Orrego
+Gerencia Técnica (hasta mayo de 2023)
+https://orcid.org/0000-0001-5284-3577
+Carlos Eugenio Oliveros Tascón
+Investigador Senior (hasta diciembre de 2019). 
+https://orcid.org/0000-0002-6432-2557
+César Augusto Ramírez Gómez 
+Investigador Científico I (hasta febrero de 2024) 
+https://orcid.org/0000-0002-4773-4090 
+Álvaro Guerrero Aguirre 
+Investigador Científico I 
+https://orcid.org/0000-0002-4986-4366 
+Disciplina de Poscosecha 
+Centro Nacional de Investigaciones de Café - Cenicafé, Manizales, Caldas, Colombia
+
+Edición
+Sandra Milena Marín López
+Fotografías
+Archivo Cenicafé
+Diagramación
+Carmenza Bacca Ramírez
+Imprenta
+—
+
+ISSN-0120-0178
+ISSN-2145-3691 (En línea)
+Los trabajos suscritos por el personal técnico del Centro Nacional de Investigaciones de Café son parte de las investigaciones realizadas por la Federación Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad.
+
+Manizales, Caldas, Colombia
+Tel. (6) 8500707
+A.A. 2427 Manizales
+www.cenicafe.org
+
+
+Figura 1. 
+ Porcentaje de infestación por broca en la retención de pases de cosecha.
+
+
+
+
+Figura 2. 
+Dinámica de la maduración de los frutos de café en la finca el Edén del municipio de Líbano (Tolima) en el pase principal de la cosecha de 2019. Dinámica de la maduración de los frutos de café en la finca el Edén del municipio de Líbano (Tolima) en el pase principal de la cosecha de 2019.
+
+
+
+1    	Resonancia mecánica es la tendencia de un sistema mecánico a absorber más energía, cuando la frecuencia de sus oscilaciones coincide con la 	    frecuencia natural de vibración del sistema que lo hace en otras frecuencias.
+2 	Colapso de una estructura cuando está sometida a una carga cíclica.
+
+Tabla 1. Indicadores de cosecha con recolección: con coco y manual con lonas en el suelo.
+
+Método
+ Rendimiento
+ Frutos verdes
+cosechados
+ Pérdidas
+ Eficacia
+ 
+(kg h-1 por operario)
+ (frutos/sitio)
+ (frutos/sitio)
+ 
+Fresno
+ 
+Lonas
+ 24,71
+ 1,85%
+ 0,64
+ 0,65
+ 
+Coco
+ 15,87
+ 1,17%
+ 0,75
+ 0,62
+ 
+Líbano
+ 
+Lonas
+ 27,10
+ 1,85%
+ 0,64
+ 0,65
+ 
+Coco
+ 10,95
+ 1,17%
+ 0,75
+ 0,62
+ 
+Ibagué
+ 
+Lonas
+ 17,64
+ 1,38%
+ 0,10
+ 0,60
+ 
+Coco
+ 9,21
+ 1,28%
+ 0,81
+ 0,64
+ 
+Rovira
+ 
+Lonas
+ 21,76
+ 1,38%
+ 0,33
+ 1,07
+ 
+Coco
+ 10,21
+ 1,63%
+ 1,03
+ 1,14
+ 
+San Antonio
+ 
+Lonas
+ 22,55
+ 1,88%
+ 0,17
+ 0,66
+ 
+Coco
+ 9,78
+ 1,71%
+ 1,17
+ 1,06
+ 
+Chaparral
+ 
+Lonas
+ 19,92
+ 1,54%
+ 0,35
+ 1,14
+ 
+Coco
+ 9,53
+ 1,93%
+ 1,84
+ 1,31
+ 
+Planadas
+ 
+Lonas
+ 19,16
+ 0,98%
+ 0,28
+ 1,06
+ 
+Coco
+ 9,87
+ 1,00%
+ 0,95
+ 1,46
+ 
+Dolores
+ 
+Lonas
+ 17,35
+ 0,98%
+ 0,33
+ 0,55
+ 
+Coco
+ 10,33
+ 0,70%
+ 1,03
+ 0,94
+ 
+
+
+
+
+
+Tabla 2. Resultados con el uso de derribadora DSC18 para cosecha de café.
+
+N°
+ R
+ V
+ M
+ P
+ Estación
+ Cosecha
+ Arreglo
+ Carga
+ 
+(kg h-1 hombre)
+ (%)
+ (ud/sitio)
+ (ud/sitio)
+ (kg/sitio)
+ 
+1
+ 24,61
+ 6,2
+ 2,0
+ 3,60
+ El Tambo
+ 5
+ 1,7x1,0
+ 2,60
+ 
+2
+ 29,14
+ 7,2
+ 2,8
+ 4,10
+ El Tambo
+ 5
+ 1,7x1,0
+ 2,60
+ 
+3
+ 27,48
+ 5,1
+ 3,0
+ 6,00
+ El Tambo
+ 2
+ 1,0x1,0
+ 2,44
+ 
+4
+ 49,39
+ 3,8
+ 6,2
+ 7,60
+ El Tambo
+ 2
+ 1,0x1,0
+ 2,44
+ 
+5
+ 46,77
+ 4,5
+ 3,6
+ 5,70
+ El Tambo
+ 2
+ 1,0x1,0
+ 2,44
+ 
+6
+ 40,04
+ 5,1
+ 4,3
+ 14,60
+ El Tambo
+ 2
+ 1,0x1,0
+ 2,44
+ 
+7
+ 33,64
+ 4,8
+ 5,8
+ 8,40
+ El Tambo
+ 2
+ 1,0x1,0
+ 2,44
+ 
+8
+ 25,25
+ 3,9
+ 3,2
+ 8,60
+ El Tambo
+ 2
+ 1,0x1,0
+ 1,28
+ 
+9
+ 20,25
+ 3,8
+ 2,2
+ 4,30
+ El Tambo
+ 2
+ 1,0x1,0
+ 1,28
+ 
+10
+ 20,92
+ 2,7
+ 4,2
+ 3,90
+ El Tambo
+ 2
+ 1,0x1,0
+ 1,28
+ 
+11
+ 15,08
+ 3,0
+ 2,0
+ 5,20
+ El Tambo
+ 2
+ 1,0x1,1
+ 1,28
+ 
+12
+ 14,65
+ 13,0
+ 10,0
+ 9,90
+ San Antonio
+ 2
+ 1,5x1,5
+ 1,16
+ 
+13
+ 20,68
+ 10,0
+ 11,8
+ 8,00
+ San Antonio
+ 2
+ 1,5x1,5
+ 1,38
+ 
+14
+ 26,53
+ 6,7
+ 26,1
+ 56,90
+ El Rosario
+ 2
+ 1,1x1,3
+ 1,53
+ 
+15
+ 33,50
+ 11,2
+ 12,9
+ 44,80
+ El Rosario
+ 2
+ 1,1x1,3
+ 1,64
+ 
+Prom.
+   28,53
+ 6,07
+ 6,67
+ 12,77
+ 
+D.E.
+ 10,50
+ 3,08
+ 6,44
+ 15,89
+ 
+
+
+
+Donde:  R es rendimiento en  por hombre; V contenido de frutos verdes en la masa cosechada en porcentaje; M promedio de frutos cosechables dejados en los árboles en unidades/sitio; P promedio de frutos dejados en el suelo en unidades/sitio.
+
+
+Figura 3. 
+ Distribución del rendimiento con derribadora DSC18 y con cosecha tradicional con coco.
+
+
+
+
+
+En este ejemplo pueden considerarse variaciones, como cosechar el mes 5 con la derribadora DSC18, debido a que los pases de cosecha que le siguen son de poca magnitud y los frutos verdes de la cosecha principal están todavía muy pequeños; o hacer la cosecha de manera manual con lonas para el pase del mes 10, si no se tiene la derribadora DSC18; finalmente, es posible efectuar el pase del mes 11 con cosecha manual con lonas, a pesar del poco café que habría en los árboles (Figura 4).
+
+
+Figura 4. 
+Ejemplo de la aplicación de la cosecha asistida a lo largo del año en una finca de la zona central cafetera.
+
+
+
+Ejemplo teórico de aplicación de la cosecha asistida de café en una finca de la zona central cafetera, a nivel de lote:
+
+	
+Retención de pases entre 30 y 31 días (Figura 4)
+
+	
+La mayoría de las veces se hace recolección de manera tradicional con coco, pagando la mayor cantidad de pases de esa cosecha por jornal. 
+
+	
+En los meses 4 y 5, donde se tienen los dos pases más importantes de la cosecha del primer semestre, se aplica el método de recolección manual de café con lonas. 
+
+	
+Hacia el mes 9 aparece un pase de cosecha de buenas proporciones que igualmente debe hacerse con lonas.
+
+	
+El pase del mes 10, el cual es el mayor de todo el año, es apropiado para la cosecha con la derribadora DSC18. 
+
+
+De esta manera, la proporción de frutos recolectados usando la máquina representaría el 42,46%, y con cosecha manual con lonas sumaría un total de 39,30%, es decir, el café recolectado con las ventajas de la cosecha asistida de café, totalizaría 81,77% del total producido en el año.
+
+
+Literatura citada
+
+Cardona, J. A. (2006). Diseño de una máquina portátil para la cosecha asistida de Café [Tesis Pregrado]. Universidad Tecnológica de Pereira.
+Duque-Orrego, H., & Dussan, C. (2004). Productividad de la mano de obra en la cosecha de café en cuatro municipios de la región cafetera central de Caldas. Revista Cenicafé, 55(3), 246–258. http://hdl.handle.net/10778/256
+Guerrero, A., Sanz-Uribe, J. R., Peñuela-Martínez, A. E., & Ramírez, C. A. (2022). Mediverdes®: un método para medir la calidad de la recolección del café en el campo. Avances Técnicos Cenicafé, 536, 1–8. https://doi.org/10.38141/10779/0536 
+Oliveros, C. E., Álvarez, J. A., Ramírez, C. A., Sanz, J. R., Moreno, E. L., & Peñuela, A. E. (2006). Cosecha manual de café utilizando mallas plásticas. Avances Técnicos Cenicafé, 354, 1–8. http://hdl.handle.net/10778/398 
+Oliveros-Tascón, C. E., & Sanz-Uribe, J. R. (2011). Ingeniería y café en Colombia. Revista de Ingeniería, 33, 99–114. https://doi.org/10.16924/revinge.33.10
+Rendón, J. R., Arcila, J., & Montoya, E. C. (2008). Estimación de la producción de café con base en los registros de floración. Revista Cenicafé, 59(3), 238–259. http://hdl.handle.net/10778/108 
+Sanz-Uribe, J. R., & Duque, H. (2020a). Cosecha con la Derribadora Selectiva de Café Brudden DSC18. Boletín Técnico Cenicafé, 43, 1–20. https://doi.org/10.38141/10781/043 
+Sanz-Uribe, J. R., & Duque, H. (2020b). Evaluación de la Derribadora Selectiva de Café Brudden DSC18. Revista Cenicafé, 71(2), 92–104. https://doi.org/10.38141/10778/71207
+Sanz-Uribe, J. R., & Hincapié, J. D. (2020). Aplicación de nuevas tecnologías para la cosecha asistida de café en el departamento del Tolima. Cenicafé. https://doi.org/10.38141/cenbook-0006 
+Sanz-Uribe, J. R., Oliveros-Tascón, C. E., Duque-Orrego, H., Mejía, C. G., Benavides Machado, P., & Medina-Rivera, R. (2018). Retención de pases: Una opción para mejorar la productividad de la mano de obra en la cosecha de café. Avances Técnicos Cenicafé, 488, 1–8. https://doi.org/10.38141/10779/0488 
+Sanz-Uribe, J. R., Duque–Orrego, H., Menza, H. D., Zamudio, G. E., Oliveros-Tascón, C. E., & Ramírez, C. A. (2018). Lonas para asistir la cosecha manual de café. Avances Técnicos Cenicafé, 487, 1–8. https://doi.org/10.38141/10779/0487 
+Sanz-Uribe, J. R., Guerrero, A., Velásquez-Henao, J., Tibaduiza, C. A., Henao Gómez, A. F., & Ramírez, C. A. (2022). Zaranda para la separación de hojas y empaque de café en la cosecha asistida. Avances Técnicos Cenicafé, 541, 1–12. https://doi.org/10.38141/10779/0541 
+Velez Zape, J. C., Montoya, E. C., & Oliveros Tascón, C. E. (1999). Estudio de tiempos y movimientos para el mejoramiento de la cosecha manual del café. Boletín Técnico Cenicafé, 21, 1–97. https://doi.org/10.38141/10781/021 
+
+
+©FNC - Cenicafé
+
+
+

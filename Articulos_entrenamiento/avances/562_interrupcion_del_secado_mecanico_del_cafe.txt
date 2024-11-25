@@ -1,0 +1,119 @@
+
+Abril de 2024
+Gerencia Técnica /
+Programa de Investigación Científica
+Fondo Nacional del Café
+
+Interrupción del secado mecánico del café
+
+El secado es una etapa fundamental durante el procesamiento de los granos de café, que permite la conservación de la calidad durante el almacenamiento. Independiente del tipo de beneficio elegido para los frutos: vía seca (naturales), vía semiseca (honey) o por vía húmeda (lavados), existe una etapa común y es el secado, donde los granos de café deben alcanzar un contenido de humedad entre el 10% y el 12%.
+En el beneficio de los frutos de café por vía húmeda, se obtienen granos de café con valores promedio de humedad de 53% (base húmeda) y valores de actividad de agua mayores a 0,7. La actividad de agua es un parámetro que está relacionado con la humedad del producto, composición química y temperatura de almacenamiento (Pardo et al., 2005). Cuando los valores de humedad y actividad de agua son mayores a 53% y 0,7 respectivamente, se tiene un ambiente que facilita el desarrollo de hongos que generan micotoxinas, afectando la inocuidad del grano, por lo que es necesario reducir la humedad y actividad de agua, por medio de procedimientos como el secado (Roa et al., 1999); la inocuidad es una característica que garantiza que cualquier producto que se consuma, no genera daños a la salud humana.
+Dentro de las estrategias de poscosecha asociadas al secado se tiene la disminución ininterrumpida del contenido de humedad del grano y la conservación de este nivel durante toda la cadena; sin embargo, en algunas ocasiones las condiciones de infraestructura y logística en la finca dificultan esta práctica. Este Avance Técnico aborda el efecto de la interrupción del secado en la calidad del grano de café.
+Secado del café
+El secado del café puede realizarse utilizando la energía solar y el aire, o por medios mecánicos con aireación generada por ventiladores.
+En el secado solar, en la primera etapa del proceso, idealmente la capa de café deber ser delgada para garantizar que todos los granos tengan la misma oportunidad de estar en contacto con el aire que retira la humedad. En la segunda etapa, cuando el café se encuentra con menor humedad, se utilizan capas de secado de máximo 2,0 cm de altura, para garantizar la uniformidad de contenido de humedad final del grano; como este tipo de secado depende de las condiciones ambientales, se emplean estructuras como las heldas, carros y secadores parabólicos (Oliveros et al., 2017).
+Los sistemas para realizar el secado mecánico en su mayoría están constituidos por una fuente de calor, intercambiador de calor, un ventilador y un espacio o plenum donde se deposita la masa de granos de café. El mecanismo más utilizado en Colombia es el conocido como silo de capa estática, que consta de uno o más compartimientos con piso de malla. Para el calentamiento del aire se han diseñado equipos que emplean como combustible electricidad, gas propano o cisco de café (Parra et al., 2017). Para obtener buena eficiencia en el proceso de secado y lograr una humedad final uniforme, Cenicafé recomienda utilizar un caudal de aire mínimo de 100 m3 min-1 t-1cps (cps: café pergamino seco). El secado mecánico es una alternativa empleada por medianos y grandes caficultores. Comercialmente existen silos mecánicos con capacidades desde 5,0 hasta 720 @ de cps. Además, es un sistema que utilizado adecuadamente logra disminuir el tiempo de secado independientemente de las condiciones ambientales y se obtiene un producto estable para el almacenamiento y comercialización.
+Prácticas del proceso de secado que afectan la calidad
+Para que el proceso de secado sea eficiente, sin afectar la calidad final del café, existen diferentes variables que deben controlarse; sin embargo, durante el secado mecánico pueden realizarse prácticas que tienen un efecto negativo en la calidad final del producto, como el empleo de elevadas temperaturas (superiores a 50°C), que ocasionan daños estructurales en el grano que pueden llevar al deterioro de la calidad (Borém et al., 2008; Coradi et al., 2007; Largo-Avila et al., 2023). Además, debe tenerse en cuenta que la temperatura del aire casi siempre es mayor que la temperatura del grano y en muchos secadores, durante la última etapa de secado, la masa de granos alcanza la temperatura del aire. Por el contrario, cuando no se reducen los contenidos de humedad requeridos, en el secado pueden tenerse granos flojos (aspecto oscuro y blando), que al tener mayor contenido de agua pueden generar sabores dentro del rango de tierra y madera, que afectan el sabor y sabor residual de la bebida (Figura 1).
+Otra práctica que puede afectar la calidad del grano es la interrupción del proceso, es decir, detener la continuidad del secado a través de la disminución completa del flujo de aire, especialmente en el secado mecánico donde se apaga todo el silo. Esta es una actividad que se emplea por diferentes razones: la primera está asociada a la logística de las fincas, cuando se superan los volúmenes de café o deben generarse pausas para completar la cantidad de café necesaria para utilizar el silo; otra razón está relacionada con el supuesto que esta actividad permitiría una distribución homogénea del agua dentro del grano, lo que contribuiría a mejorar la calidad del café (Isquierdo et al., 2012).
+Efecto de la interrupción en la calidad física y sensorial del café
+En este Avance Técnico se presentan los resultados del efecto de la interrupción del proceso de secado mecánico en café lavado. En este estudio se aplicaron nueve tratamientos que consistieron en someter el café a dos tiempos iniciales de secado (S), seguido de cuatro tiempos de interrupción (I) para posteriormente finalizar el proceso completo de secado y un testigo absoluto (secado sin interrupción). Los tiempos iniciales de secado fueron 6 y 12 horas y los períodos de interrupción fueron 12, 24, 36 y 48 horas (Pabón & Osorio, 2022). Se utilizó un silo de capa estática, con gas propano como combustible, con un caudal del aire de 100 m3 min-1 t-1cps. La temperatura del aire de secado utilizada fue de 37°C (±5,0°C) (Figura 2). Durante el desarrollo de las interrupciones la temperatura ambiental promedio fue de 21,4ºC y la humedad relativa fue en promedio de 86,08%.
+Duración del proceso de secado
+El promedio del tiempo utilizado en el secado mecánico continuo fue de 50,3 horas. Cuando se aplicaron 6,0 horas de secado (S6) y el mayor tiempo de interrupción (I48), la duración del proceso para alcanzar la humedad del 10% al 12% fue de 92 horas. Esta interrupción del secado significó un incremento del 83,4% del tiempo.
+Humedad del café
+El secado inicial de 12 horas redujo el contenido promedio de humedad a 42,29%, mientras que en los tratamientos donde el tiempo inicial de secado fue de 6,0 horas, la humedad se redujo a 47,26%; es decir, las 6,0 horas adicionales de secado generaron disminuciones de agua en el grano de 4,97%.
+Adicionalmente, se determinaron los valores de actividad de agua (aw) del café, antes y después de las interrupciones y al final, cuando el café estaba seco. Al iniciar las interrupciones el contenido de humedad del café se encontraba por encima del 40%, lo que correspondió a valores de actividad de agua mayores a 0,9. Lo anterior indica que cuando el café no se encuentra en el rango de humedad del 10% al 12%, tiene las condiciones que favorecen el deterioro de la inocuidad del mismo.
+Calidad física
+Los contenidos de merma, granos negros, vinagres y almendra defectuosa presentes en las muestras, no presentaron efecto por someter el café a interrupciones durante el secado. Así mismo, la proporción de almendra sana fue del 76,73%. La interrupción del proceso de secado mecánico no generó aumentos en los defectos físicos asociados a esta etapa, como son los granos flojos y cristalizados, debido a que el rango final de humedad se encontraba entre el 10% y 12%, y la temperatura utilizada durante el proceso no superó los 38°C. Adicionalmente, previo al secado, se realizaron todas las actividades de clasificación que aseguraron la obtención de café lavado de óptima calidad.
+Calidad sensorial
+Cuando se aplicaron 6,0 horas de secado inicial y tiempos de interrupción de 36 y 48 horas (S6 I36 y S6 I48), el 100% de las muestras obtenidas presentaron como defecto sensorial el terroso. El café que se secó de forma continua no presentó defectos, lo que indica que cuando se realiza el secado sin interrupciones, logra conservarse la calidad sensorial del café (Figura 3).
+El defecto sensorial terroso se encuentra dentro del grupo de los defectos moho y reposo. El terroso, se identifica por presentar fragancia y sabor a tierra húmeda, indeseable en el café (Pabón & Osorio, 2019). Malas prácticas de beneficio, como no realizar la clasificación de los frutos en las diferentes etapas, prácticas inadecuadas de secado y almacenamiento de café húmedo, han sido las principales causas que originan estos defectos (Osorio, 2021). Los tratamientos con secado de 6,0 horas inicialmente (S6), presentan un menor puntaje total, asociado a una mayor frecuencia de muestras con defectos sensoriales (Figura 4). Los valores promedio de puntaje total disminuyen a medida que aumenta el tiempo de interrupción y está relacionado con un contenido de humedad del grano superior antes de suspender el secado. Cuando el café no fue sometido a interrupciones (testigo), no hubo defecto sensorial y se obtuvo una calificación en promedio de 81,15 puntos.
+Las muestras que no presentaron defectos alcanzaron en promedio un puntaje total de 81,58, que clasifica el café como especial según la escala SCA.
+Inocuidad del café
+Se observó que cuando los granos de café tienen una humedad mayor al 40% se alcanzan contenidos altos de hongos y levaduras del orden de 106 Unidades Formadoras de Colonia por gramo (UFC/g) que indican contaminación. Cuando el café se secó hasta una humedad entre el 10% y 12%, se redujeron los hongos y levaduras a 103 UFC/g, y una actividad de agua de 0,60 (Pabón et al., 2023), lo que indica que cuando el grano de café se seca hasta una humedad entre el 10% al 12% se asegura la inocuidad del producto al disminuir las cantidades de microorganismos que pueden afectarla. El promedio para OTA (ocratoxina A) fue de 3,8 a 6,9 µg kg-1 para café verde. El valor mínimo correspondió al café que no se sometió a interrupciones. La norma vigente para contenidos de ocratoxina A (EU1370/2022) contempla valores hasta 5,0 µg kg-1 en café tostado.
+El proceso de secado es una etapa fundamental en la conservación de la inocuidad y calidad sensorial del café. Cuando el café lavado con contenidos de humedad mayores a 40%, se somete a interrupciones durante el secado, se obtienen promedios de actividad de agua de 0,95, lo que establece condiciones de riesgo para la calidad. Además, si el café lavado se somete a menores tiempos iniciales de secado y elevados tiempos de interrupción, tiene mayores probabilidades de presentar defectos sensoriales, específicamente el defecto terroso.
+
+
+Autores
+Jenny Paola Pabón Usaquén 
+Asistente de Investigación 
+https://orcid.org/0000-0003-1576-2297 
+Valentina Osorio Pérez 
+Investigador Científico I
+https://orcid.org/0000-0002-1166-0165
+Disciplina de Calidad
+Centro Nacional de Investigaciones
+de Café, Cenicafé
+Manizales, Caldas, Colombia
+DOI (Digital Object Identifier)
+https://doi.org/10.38141/10779/0562
+
+Edición
+Sandra Milena Marín López
+Fotografías
+Archivo Cenicafé
+Diagramación
+Luz Adriana Álvarez Monsalve
+Imprenta
+—
+
+ISSN-0120-0178
+ISSN-2145-3691 (En línea)
+Los trabajos suscritos por el personal técnico del Centro Nacional de Investigaciones de Café son parte de las investigaciones realizadas por la Federación Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad.
+
+Manizales, Caldas, Colombia
+Tel. (6) 8500707
+A.A. 2427 Manizales
+www.cenicafe.org
+
+
+Figura 1. Defectos del café generados en el proceso de secado.
+
+Un equipo de secado apagado durante la época de cosecha puede llegar a significar la acumulación de café procesado que genera el riesgo de almacenamiento de café húmedo
+
+Valores de actividad del agua mayores a 0,7 indican un riesgo para la inocuidad durante el almacenamiento de los granos de café
+
+
+
+b.
+
+
+a.
+
+
+Figura 2. Silo mecánico de capa estática (a) y café sometido a interrupciones (b).
+
+
+Figura 3. Proporción de muestras con defectos sensoriales, según el tiempo de secado y períodos de interrupción.
+
+
+Figura 4. Valores de puntaje total SCA por tiempos de secado y de interrupción.
+
+Para disminuir el riesgo de generar defectos en la etapa del secado, se recomienda no someter el café a interrupciones
+
+
+7
+
+
+Familias caficultoras: 
+Recuerden que el proceso de secado debe realizarse de forma continua, para conservar la calidad del café y evitar los defectos sensoriales en la bebida
+
+Literatura citada
+Borém, F. M., Marques, E. R., & Alves, E. (2008). Ultrastructural analysis of drying damage in parchment Arabica coffee endosperm cells. Biosystems Engineering, 99(1), 62–66. https://doi.org/10.1016/j.biosystemseng.2007.09.027
+Coradi, P. C., Borém, F. M., Saath, R., & Marques, E. R. (2007). Effect of drying and storage conditions on the quality of natural and washed coffee. Coffee Science, 2(1), 38–47. http://www.coffeescience.ufla.br/index.php/Coffeescience/article/view/37
+Isquierdo, E. P., Borém, F. M., Oliveira, P. D. de, Siqueira, V. C., & Alves, G. E. (2012). Quality of natural coffee subjected to different rest periods during the drying process. Ciência e Agrotecnologia, 36(4), 439–445. https://doi.org/10.1590/S1413-70542012000400008
+Largo-Avila, E., Suarez-Rodríguez, C. H, Latorre Montero, J., Strong, M., & Osorio-Arias, J. (2023). The influence of hot-air mechanical drying on the sensory quality of specialty Colombian coffee. AIMS Agriculture and Food, 8(3), 789–803. https://doi.org/10.3934/agrfood.2023042
+Oliveros, C. E., Ramírez, C. A., Tibaduiza-Vianchá, C. A., & Sanz-Uribe, J. R. (2017). Construcción de secadores solares tipo túnel con nuevos materiales. Avances Técnicos Cenicafé, 482, 1–8. https://doi.org/10.38141/10779/0482
+Osorio, V. (2021). La calidad del Café. En Centro Nacional de Investigaciones de Café, Guía más agronomía, más productividad, más calidad (3a ed., pp. 219–234). Cenicafé. https://doi.org/10.38141/10791/0014_12
+Pabón, J., Osorio, V., & Gallego, C. P. (2023). Inocuidad del café durante la interrupción del secado mecánico. Revista Cenicafé, 74(2), e74205. https://doi.org/10.38141/10778/74205
+Pabón, J., & Osorio, V. (2019). Factores e indicadores de la calidad física, sensorial y química del café. En Centro Nacional de Investigaciones de Café (Ed.), Aplicación de ciencia tecnología e innovación en el cultivo del café ajustado a las condiciones particulares del Huila (pp. 162–187). Cenicafé. https://doi.org/10.38141/10791/0005_7
+Pabón, J., & Osorio, V. (2022). Efecto de la interrupción del secado mecánico en la calidad física y sensorial del café. Revista Cenicafé, 73(2), e73201. https://doi.org/10.38141/10778/73201
+Pardo, E., Marín, S., Ramos, A. J., & Sanchis, V. (2005). Effect of Water Activity and Temperature on Mycelial Growth and Ochratoxin A Production by Isolates of Aspergillus ochraceus on Irradiated Green Coffee Beans. Journal of Food Protection, 68(1), 133-138. https://doi.org/10.4315/0362-028X-68.1.133
+Parra, A., Roa, G., Oliveros, C. E., & Sanz, J. R. (2017). Optimización operacional de secadores mecánicos para café pergamino. Cenicafé. https://www.cenicafe.org/es/publications/librosecado.pdf
+Roa, G., Oliveros, C. E., Álvarez, J., Ramírez, C. A., Sanz, J. R., Álvarez, J. R., Dávila, M. T., Zambrano, D. A., Puerta, G. I., & Rodríguez, N. (1999). Beneficio ecológico del café. Cenicafé. http://hdl.handle.net/10778/882 
+
+
+©FNC–Cenicafé
+
+
+

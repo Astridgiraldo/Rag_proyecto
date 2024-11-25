@@ -1,0 +1,113 @@
+
+Enero de 2024 
+Gerencia Técnica / Programa de Investigaci Científica Fondo Nacional del Café 
+
+
+
+Reconozca los factores que pueden causar deslizamientos en su finca y establezca acciones para su  prevencion 
+
+Los movimientos en masa o deslizamientos se definen como el desplazamiento de porciones de suelo, roca o de ambos materiales a lo largo y ancho de una pendiente (Sassa, 2007). Aunque se trata de procesos naturales, en regiones de monta habitadas por el hombre son más recurrentes y generan mayor impacto debido a la intervenci de las laderas por la acci humana (Figura 1). El impacto social y econico causado por los movimientos en masa es severo y se refleja en la pérdida de vidas humanas, reduccin de la productividad, obstrucci de carreteras y caminos, afectaci de viviendas, acueductos rurales y plantas de tratamiento de aguas residuales, entre otros. 
+Una forma simple de saber si un terreno es susceptible a deslizamientos de tierra es observar si en el pasado se han presentado con frecuencia, es decir, entender si hay antecedentes de ocurrencia recientes o antiguos que los pobladores recuerden. Lo anterior, se justifica debido a que la interacci de las condiciones ambientales específicas de cada sitio permanece en el tiempo (Guzzetti et al., 2005) y, por lo tanto, si en el pasado reciente ocurrieron movimientos en masa, puede inferirse que el terreno es susceptible a este tipo de fenenos. Por ejemplo, si la finca cafetera se encuentra cerca o en un área donde los deslizamientos histicamente han sido frecuentes, existe mayor posibilidad de que el terreno de esta finca sea más susceptible a este problema, si las condiciones ambientales son similares. Es así como en regiones cafeteras de Colombia surge la necesidad de conocer los factores que pueden causar remociones en masa para tomar medidas en el uso y manejo del suelo. 
+
+
+Autores Luis Fernando Salazar Gutiérrez 
+Investigador Científico II https://orcid.org/0000-0003-2302-4825 
+Disciplina de Suelos Centro Nacional de Investigaciones de Café, Cenicafé Manizales, Caldas, Colombia 
+Juan Carlos Menjívar Flores 
+Universidad Nacional de Colombia https://orcid.org/0000-0002-0985-7778 
+
+Hernán Eduardo Martínez-Carvajal 
+Universidad Nacional de Colombia https://orcid.org/0000-0001-7966-1466 
+DOI (Digital Object Identifier) https://doi.org/10.38141/10779/0559 
+
+Edici 
+Sandra Milena Marín Lez 
+
+Fotografías 
+Archivo Cenicafé 
+
+Diagramaci 
+Luz Adriana Álvarez Monsalve 
+
+Imprenta 
+— 
+ISSN-0120-0178 ISSN-2145-3691 (En línea) Los trabajos suscritos por el personal técnico del Centro Nacional de Investigaciones de Café son parte de las investigaciones realizadas por la Federaci Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad. 
+Manizales, Caldas, Colombia Tel. (6) 8500707 A.A. 2427 Manizales www.cenicafe.org 
+
+El objetivo del presente Avance Técnico es presentar los factores de susceptibilidad a movimientos en masa, al tomar como ejemplo, un estudio de caso en una cuenca hidrográfica1 de la regi Noroccidental del departamento de Caldas, para contribuir a la comprensi de la susceptibilidad a los deslizamientos en regiones cafeteras con condiciones afines y proponer acciones para su prevenci. 
+
+Área de estudio 
+La investigaci se realizen el municipio de Pácora (Caldas), en la cuenca hidrográfica La Mica (Figuras 2 y 3), afluente del río Pácora, y del río Cauca. La cuenca hidrográfica La Mica se ubica en la vertiente Occidental de la cordillera Central, con altitudes que oscilan desde 1.175 m hasta 2.400 m, precipitaci anual de 2.874 mm, un área de 12,6 km² y está cubierta por bosques y cultivos de pasto, frutales, café y plátano. 
+
+Inventario de deslizamientos 
+Este inventario consiste en la ubicaci y dibujo en un mapa, del contorno o cicatriz del terreno que evidencia la ocurrencia anterior o actual de movimientos en masa, que puede realizarse al nivel de finca, cuenca hidrográfica, vereda y municipio, entre otros, y sirve para su estudio en diferentes escalas geográficas a través del tiempo. Por medio de imágenes aéreas y con verificaci en el campo, en el a 2018, se identificaron y ubicaron en un mapa 356 movimientos en masa actuales e histicos, que cubrían el 4% del área de la cuenca hidrográfica, condici que evidencia su alta susceptibilidad a los deslizamientos, raz por la cual fue seleccionada para el estudio (Figura 4). 
+1 Una cuenca hidrográfica, es un territorio delimitado por líneas divisorias de aguas, donde el agua fluye en forma natural hacia un mismo río, quebrada o corriente principal. 
+
+3 
+
+
+
+Evaluaci de la susceptibilidad adeslizamientos 
+Se evalula susceptibilidad a deslizamientos mediante herramientas de sistemas de informaci geográfica (SIG) (Salazar et al., 2021). La calificacin de la susceptibilidad en la escala, nula, muy baja, baja, media, alta o muy alta, fue obtenida a partir del índice de susceptibilidad IS2 (van Westen et al., 1997). Cuando el IS es superior a cero significa que el factor tiene mayor relaci con los movimiento en masa. Además, por medio del método estadístico de regresi logística se determinla probabilidad de ocurrencia de deslizamientos mediante la intervenci de diferentes factores; la probabilidad se refiere a la mayor o menor oportunidad de ocurrencia de movimiento en masa en la presencia del factor estudiado (Park et al., 2013). 
+
+
+Factores relacionados con los deslizamientos 
+Con base en las metodologías expuestas, se presentan los factores que explican la susceptibilidad a deslizamientos en la cuenca hidrográfica cafetera La Mica. La Tabla 1 presenta la relaci de las variables analizadas y sus respectivas calificaciones en términos de su aporte a la susceptibilidad a movimiento en masa del terreno en la zona estudiada. 
+1) Material parental y tipo de suelo
+La presencia de rocas de origen metamfico y basaltos débiles constituyuno de los factores principales que permitieron explicar los deslizamientos en el área del estudio. La naturaleza de las rocas metamficas, caracterizadas por presentar caras lisas, dispuestas en láminas, y las de los basaltos débiles, fácilmente deleznables, tienden a generar partículas que ejercen muy baja resistencia al movimiento. Como resultado, se presentan suelos sueltos y cascajosos. Las condiciones mencionadas son comunes en algunas regiones cafeteras de Nari, Cauca, Valle del Cauca, Risaralda, Quindío, Caldas y Antioquia (Álvarez, 1995). 
+Sumado a lo anterior, las capas de cenizas volcánicas con espesores entre 3,0 m y 6,0 m, depositadas sobre material rocoso antes descrito, así como en las rocas metamrficas, dieron lugar a suelos con alta susceptibilidad a los movimientos en masa (suelos del complejo Chinchiná–Pácora 1) (Figura 4). Feneno que puede explicarse, debido a que el horizonte superficial derivado de las cenizas volcánicas, y con alto contenido de materia orgánica, por lo general es más permeable al agua que los horizontes subyacentes, esto conduce a que en condiciones de alta pluviosidad el subsuelo se sature por el agua y, por consiguiente, causa debilitamiento del terreno y mayor susceptibilidad al deslizamiento (Terlien, 1996). 
+2 Es una medida numérica que permite entender el efecto de los factores ambientales en la susceptibilidad a deslizamientos. El índice IS se calcula partir del Sistema de Informaci Geográfica (SIG), como el logaritmo natural de la relaci entre las áreas de movimiento en masa y el área total para cada factor estudiado. 
+5 
+
+
+3) Fallas geolicas
+Hacen referencia a zonas de fractura natural de la corteza terrestre, a lo largo de la cual ha habido un desplazamiento relativo de los bloques resultantes. Las fallas geolicas constituyeron otro de los factores determinantes en la manifestaci de los deslizamientos. En la cuenca hidrográfica La Mica la susceptibilidad a los deslizamientos con relaci a las fallas geolicas se clasificentre media a baja. De esta forma, fue evidente que la frecuencia de los movimientos en masa disminuycuando el terreno se encontraba a una distancia mayor de 400 m de las fallas geolicas y aumenta distancias entre menos de 25 m a 400 m de las fallas geolicas. Feneno que puede explicarse debido a que, por lo general, la debilidad de las rocas aumenta cerca de estas estructuras geolicas y como resultado, puede promoverse la ocurrencia de deslizamientos (Álvarez, 1995). 
+
+4) Drenajes naturales
+Son cauces por donde fluye el agua en forma permanente o esporádica (ríos, quebradas y peques cauces afluentes). En la cuenca hidrográfica del estudio, la calificaci de la susceptibilidad a los deslizamientos con respecto de los drenajes naturales estuvo entre media a nula, la mayor cercanía con los drenajes naturales (0–110 m) se relacioncon la mayor susceptibilidad a los deslizamientos. Mientras que entre 111 a 305 m disminuyla susceptibilidad. Estas áreas pueden estar asociadas a zonas de debilidad de los materiales geolicos (Álvarez, 1995). Lo anterior sustenta la recomendaci que por varias décadas ha realizado la Federaci Nacional de Cafeteros sobre la protecci de drenajes naturales con vegetaci arbea natural, bosques de galería o bosque ripario, la cual es una práctica fundamental para la prevencin de los movimientos en masa. El bosque ripario o de galería conforma ecosistemas que se encuentran aledas a ríos, quebradas, nacimientos de agua, humedales y zonas de inundaci, los cuales protegen el cauce en épocas de crecientes o inundaciones (Figura 5). 
+
+
+5) Vías o carreteras
+La susceptibilidad a los deslizamientos de la cuenca La Mica seg la distancia a las vías o carreteras fue de media a muy baja, a mayor distancia de las vías o carreteras disminuye la susceptibilidad a los deslizamientos. Lo anterior puede explicarse porque los caminos o carreteras modifican el curso natural del agua de la ladera y conllevan a la concentraci de aguas sobre porciones inestables de los taludes. Por otro lado, los cortes realizados para la construcci de los caminos o carreteras afectan la estabilidad del terreno, porque se remueve el soporte de la ladera y se causa sobrecarga de los taludes inferiores por el depito con el material extraído en su construcci (Sidle, 2019). 
+
+
+
+
+Acciones para la prevenci de deslizamientos 
+Con base en los factores encontrados, más relacionados con los deslizamientos de tierra, se presentan las siguientes recomendaciones generales para la prevencin de movimientos en masa en las fincas cafeteras, que se fundamentan en los resultados de investigaci de Cenicafé (Cenicafé, 1975; Gez & Rivera, 1993; Lince et al., 2018; Salazar & Hincapié, 2013). 
+
+Cuando el sistema de producci de café se ubica en regiones con historial de deslizamientos o en zonas geolicamente inestables, deben ejecutarse al máximo las medidas de conservaci de suelos, manejo del agua e implementar áreas de conservaci, protecci forestal y sistemas agroforestales con café. 
+En suelos derivados de cenizas volcánicas, con espesores profundos y que presenten disminuci abrupta de permeabilidad a través del perfil, localizados en pendiente superior al 40% o 20°, en las partes 
+7 
+
+
+Federaci Nacional de Cafeteros de Colombia, Manual del cafetero colombiano: Investigaci y tecnología para la sostenibilidad de la caficultura 
+(Vol. 1, pp. 285–320). Cenicafé. https:// doi.org/10.38141/cenbook-0026_13 
+Salazar, L. F., Menjivar, J. C., & Martínez, 
+H. E. (2021). Susceptibility factors of drainage basins to shallow landslides in coffee-growing areas in the Department of Caldas, Colombia. Environmental Earth Sciences, 80(4), 145. https:// doi.org/10.1007/s12665-021-09428-6 
+Sassa, K. (2007). Landslide Science as a New Scientific Discipline. En K. Sassa, 
+H. Fukuoka, F. Wang, & G. Wang (Eds.), Progress in Landslide Science (pp. 3–11). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-540­70965-7_1 
+Sidle, R. C. (2019). Deslizamientos a lo largo de carreteras, caminos y autopistas en zonas montasas. En M. Casamitjana & 
+R. C. Sidle (Eds.), Movimientos en Masa (pp. 265–274). Fondo Editorial EIA. 
+Terlien, M. T. J. (1996). Modelling spatial and temporal variations in rainfall-triggered landslides: The integration of hydrologic models, slope stability models and geographic information systems for the hazard zonation of rainfall-triggered landslides with examples from Manizales, Columbia [Tesis de Doctorado, Utrecht University]. https://research.utwente. nl/en/publications/modelling-spatial­and-temporal-variations-in-rainfall­triggered-l 
+Westen, C. J. V., Rengers, N., Terlien, M. 
+T. J., & Soeters, R. (1997). Prediction of the occurrence of slope instability phenomenal through GIS-based hazard zonation. Geologische Rundschau, 86(2), 404–414. https://doi.org/10.1007/ s005310050149 
+Walker, B., Davies, W., & Wilson, G. (2007). Practice Note guidelines for landslide risk management. Australian Geomechanics, 42(1), 63–114. https:// australiangeomechanics.org/papers/ practice-note-guidelines-for-landslide­risk-management/ 
+
+
+Agradecimientos 
+Al Servicio de Extensi del Comité Departamental de Cafeteros de Caldas, a la Universidad Nacional de Colombia, a la Universidad de Brasilia. Al Proyecto Gesti Inteligente del Agua de la Federaci Nacional de Cafeteros. Al equipo de investigadores y colaboradores de la Disciplina de Suelos de Cenicafé. A Minciencias - Convocatoria 617-2013. 
+
+Literatura citada 
+Álvarez, J. (1995). Geología del Complejo Ofiliolítico de Pácora y secuencias relacionadas de Arco de Islas (Complejo quebrada Grande), Colombia. Boletín Geolico, 35(1), 5–49. https:// doi.org/10.32685/0120-1425/ bolgeol35.1.1995.87 
+Gez, A., Grisales, A., & Suarez, J. (1975). Manual de conservaci de suelos de ladera. Cenicafé. 
+Gmez, A., & Rivera, H. (1993). La conservaci de los suelos y la sostenibilidad de la productividad en la zona cafetera. Avances Técnicos Cenicafé, 190, 1–8. https://doi. org/10.38141/10779/0190 
+Guzzetti, F., Reichenbach, P., Cardinali, M., Galli, M., & Ardizzone, F. (2005). Probabilistic landslide hazard assessment at the basin scale. Geomorphology, 72(1– 4), 272–299. https://doi.org/10.1016/j. geomorph.2005.06.002 
+Lince, L. A., Castro, W. A., Casta, W. A., & Bedoya, M. M. (2018). Conservaci de suelos y aguas. Cenicafé. 
+Park, S., Choi, C., Kim, B., & Kim, J. (2013). Landslide susceptibility mapping using frequency ratio, analytic hierarchy process, logistic regression, and artificial neural network methods at the Inje area, Korea. Environmental Earth Sciences, 68(5), 1443–1464. https:// doi.org/10.1007/s12665-012-1842-5 
+Salazar, L., & Hincapié, E. (2013). Conservaci de suelos y aguas. En 
+8 
+
+
+
+

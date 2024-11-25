@@ -1,0 +1,161 @@
+
+
+Febrero de 2023
+Gerencia Técnica /
+Programa de Investigación Científica
+Fondo Nacional del Café
+
+Filtros verdes para el manejo 
+y tratamiento de las aguas 
+residuales del café con 
+cero descargas
+ 
+
+Los filtros verdes son un sistema de tratamiento natural del agua, de baja carga, que se basan en la aplicación controlada del agua residual pretratada a un cultivo forestal o herbáceo, y que aprovecha la capacidad autodepuradora de la zona no saturada del suelo y la captación de nutrimentos por parte de la vegetación. El uso de especies arbóreas o pastos de rápido crecimiento, con grandes requerimientos hídricos y cuyas raíces son tolerantes a condiciones parcialmente saturadas y anaerobias permiten la aplicación de altos volúmenes de agua residual, logrando su evapotranspiración total, alcanzando el objetivo de cero descargas (Rodríguez et al., 2022).
+A continuación, se describen y dimensionan cada uno de los componentes de un filtro verde con cero descargas para las aguas residuales del café.
+
+
+1.	
+Unidad para el tratamiento primario de las aguas residuales del café 
+
+
+Tiene como objetivo eliminar una parte del material sólido presente en el agua residual del café para disminuir la carga orgánica y facilitar el riego en el  área con vegetación del filtro verde, disminuyendo los riesgos de taponamiento de las tuberías de aplicación y espaciando su frecuencia de mantenimiento. Su capacidad debe ser el doble del volumen de agua generada en el día pico, para evitar derrames. Por durabilidad y costo se recomienda que sea un tanque en polietileno.Si en una finca cafetera se determina que la mayor cantidad de agua residual generada en el día pico de cosecha es de 2.500 L, se recomienda que la capacidad del tanque de tratamiento primario sea de 5 m3.
+
+
+
+2.	
+Unidad de aplicación del agua pretratada 
+
+
+Tiene como finalidad recibir el agua pre-tratada (proveniente del tratamiento primario) y las aguas provenientes del tanque de drenados, ubicado en la parte baja del filtro verde, con el fin de realizar la aplicación, mediante riego, sobre el área cultivada del filtro verde. Su capacidad debe ser, como mínimo, igual al volumen de agua generada en el día pico. Se recomienda que sea un tanque en polietileno.  
+Si en una finca cafetera se determina que la mayor cantidad de agua residual generada en el día (pico de cosecha) es de 2.500 L, se recomienda que la capacidad del tanque de aplicación de agua residual pretratada sea de 2,5 m3 . En caso de no disponer de un tanque con este volumen, se recomienda adquirir un tanque comercial de 3 m3 .
+
+
+
+3.	
+Área para la aplicación del agua residual y el desarrollo de la vegetación  
+
+
+El área necesaria de un filtro verde tipo cero descargas, se calcula en función del volumen de agua residual del café generada en el día pico, incluida el agua de transporte, clasificación, lavado del grano y lavado de equipos, en litros (L), en función de las tasas promedio de retención de humedad del suelo y de evapotranspiración de la vegetación sembrada, que para el caso de suelos de la zona cafetera y pasto vetiver sembrado bajo invernadero tiene un valor de 24 L m2-d-1 (Rodríguez et al., 2022).
+Una vez delimitada y aplanada el área del filtro verde debe realizarse una excavación de 0,70 m de profundidad, para almacenar el agua residual y permitir su evapotranspiración (Figura central). Se recomienda mantener el perfil original del suelo, dado que después de retirar el suelo e impermeabilizar la excavación, es necesario volver a incorporar el suelo para la siembra de la vegetación. Una vez instalado el material impermeabilizante, cubriendo totalmente el área de la excavación, se adiciona a la misma, primero el suelo que se retiró de las capas más profundas y luego el suelo que se retiró de las capas superficiales.
+Para impermeabilizar la excavación del filtro verde y evitar la infiltración del agua residual se recomienda utilizar geomembrana de 20 mils, por los aspectos técnicos y económicos. Luego, debe construirse un canal, en el cual se ubica la tubería de aireación y recolección de drenados, los cuales serán conducidos a un tanque de recolección, para posteriormente ser llevados a la unidad de aplicación, en la cual se mezclan con el agua residual pretratada para ser incorporados de nuevo al suelo sembrado con vegetación.
+Después de realizado el canal central, se impermeabiliza la excavación (fondo y paredes), la cual debe estar libre de piedras o de algún material punzante que pueda ocasionar ruptura a la geomembrana; el personal que la manipule debe estar en calcetines para evitar algún tipo de daño.
+Para facilitar la aireación del suelo del filtro verde se recomienda instalar, en la tubería de aireación y drenaje, tramos verticales de tubería de 1,5 m, separados cada 3 m, para permitir el ingreso del aire desde la parte superior del filtro verde. Para evitar el taponamiento de la tubería de aireación y conducción de drenados se recomienda cubrirla con polisombra y aplicar gravilla, sólo en el ancho del canal central (Figura central). Adicionalmente, se recomienda incorporar tubos de aireación de 1,5 m (perforando, cubriendo con polisombra y enterrando 60 cm), a una distancia de 1,25 m de- cada orilla y separados entre sí cada 3 m.
+Durante el llenado de la excavación deben instalarse las columnas que sirvan de soporte para la instalación del techo, y que estarán ubicadas en el área con vegetación. Se recomienda utilizar tramos de 1,0 m de longitud de tubería a la cual se le fija en el extremo inferior un tapón que descansa sobre el fondo del filtro verde, luego se adicionan dentro del tubo 10 cm de arena y sobre esta base se ubica la guadua, con la longitud requerida para el soporte del techo, adicionando arena para rellenar el espacio vacío entre el tubo y la guadua (Figura central). 
+Para el manejo de las aguas residuales del café se recomienda sembrar el pasto vetiver, por lo menos 6 meses antes de iniciar con la operación del filtro verde (Figura central). Los esquejes se siembran en cuadro cada 30 cm, tres esquejes por sitio (un esqueje es una parte de la planta que tiene 10 cm de tallo y 5 cm de raíz). Con el objetivo de facilitar el manejo de la vegetación, realizando cortes periódicos cada dos o tres meses, a una altura de 50 cm, se recomienda dejar un camino central sin siembra, que sirva para el desplazamiento del personal para realizar la poda del pasto, eliminar el material del corte, el material seco presente y el mantenimiento a la tubería de riego (Figura central). 
+4.	
+Cobertura plástica, tipo invernadero 
+
+
+Sirve para impedir el ingreso del agua lluvia al filtro verde y facilitar el incremento de la temperatura al interior del mismo, y así favorecer la evapotranspiración del agua residual. Se recomienda una altura de 2,0 m.
+Una vez establecido el pasto vetiver, el filtro verde debe techarse con plástico agrolene calibre 7 o superior, con cerramiento completo en plástico del área sembrada, dejando una pestaña libre de 20 cm en la parte superior de las paredes para permitir la salida del aire húmedo y caliente, presente en el interior del área sembrada (Figura central).
+5.	
+Sistema de aplicación del agua residual 
+
+
+El sistema sirve para distribuir uniformemente el agua residual sobre el área cultivada del filtro verde. A partir de la unidad de aplicación debe canalizarse el agua (Figura central). Deben instalarse cuatro líneas de riego, levantadas del suelo, utilizando soportes para asegurar su nivelación. Al principio de cada línea debe colocarse una llave de paso con el fin de controlar el caudal de salida hacia el área con vegetación.
+El filtro verde debe permanecer inundado para favorecer los procesos de evapotranspiración. Por lo tanto, a la salida de la tubería de aireación y drenaje, se instala la unidad de control de inundación que está conformada por dos llaves, una instalada a nivel de piso y otra a 60 cm de altura. La primera sirve para realizar mantenimiento y eliminar lodos adheridos en la tubería de descarga de drenados y, la segunda sirve para mantener el nivel de inundación dentro del filtro verde a 60 cm de altura (Figura central). El agua drenada que supera el nivel de inundación se conduce a un tanque de drenados para ser incorporada a la unidad de aplicación. Durante la operación del filtro verde la primera llave debe permanecer cerrada y la segunda llave debe permanecer abierta.
+6.	
+Unidad de drenados 
+
+
+Esta unidad recibe los drenados que puedan generarse en el área cultivada. Aunque el diseño del filtro verde se realiza considerando la evapotranspiración completa del agua residual aplicada, este proceso varía según la temperatura ambiente. Para días fríos, lluviosos o con poco sol, es probable que no se pueda evapotranspirar toda el agua aplicada y que una parte sea drenada, por lo que es necesario recogerla para volverla a aplicar al área cultivada del filtro verde y así alcanzar el objetivo de cero descargas. Se recomienda que su capacidad de almacenamiento sea igual al volumen de agua generado en el día pico. Puede disponerse de un solo tanque con esta capacidad o de varios tanques más pequeños, conectados en serie, y cuyos volúmenes sumados sean equivalentes. Se recomienda utilizar tanques en polietieleno, por costos y durabilidad. El agua recolectada en la unidad de drenados deberá ser llevada por acarreo o mediante bombeo a la unidad de aplicación para ser incorporada nuevamente al área con vegetación del filtro verde, hasta agotamiento total.
+Mantenimiento de los 
+filtros verdes
+.	Está relacionado con actividades frecuentes como la poda periódica del material vegetal, la limpieza de la tubería de aplicación del agua residual, la descarga de lodos de las unidades de tratamiento primario, aplicación y recibo de drenados, la construcción de canales de escorrentía para el manejo de las aguas lluvias y limpieza de la cubierta plástica.
+.	Se recomienda realizar un corte periódico al pasto vetiver (bimensual o trimestral) a 50 cm del nivel del suelo. Este corte busca controlar el crecimiento del pasto, mejorar su apariencia, retirar las hojas secas, incrementar el flujo de aire al interior del cultivo, favorecer su circulación en el perfil del suelo a través de los tubos de aireación instalados y facilitar la salida del vapor de agua por los procesos de evaporación que se dan en la superficie del suelo y en los primeros centímetros de profundidad del mismo (Figuras 1 a y b).
+.	Con el tiempo, se acumula material sólido en la tubería de aplicación del agua residual tratada, taponando los orificios para el riego y limitando el volumen de agua que ingresa al área cultivada. Por lo tanto, es necesario realizar un mantenimiento periódico (bimensual o trimestral) de la tubería de riego o cuando se presenten obstrucciones. Después de destaponar los orificios de descarga del agua residual se aplica agua limpia a presión, en los diferentes ramales de la tubería, con el fin de realizar la evacuación del material sólido acumulado en el interior de la tubería (Figuras 1 c y d).
+.	Durante los procesos de depuración y manejo de las aguas residuales se forman lodos que se acumulan en el fondo de los tanques y que deben ser eliminados periódicamente para evitar su ingreso a la tubería de riego. Es por ello que los tanques de manejo de las aguas residuales deben tener un dispositivo para la descarga de lodos. Para el caso de la unidad de tratamiento primario del agua residual, los lodos generados deben descargarse con una periodicidad bimensual o trimestral, y disponer en el procesador de pulpa o en un lecho de secado de  lodos (Rodríguez et al., 2022). Para el caso de la unidad de aplicación, si el nivel de lodos es bajo, pueden incorporarse al suelo del filtro verde, en caso contrario estos deben ser llevados al procesador de pulpa o a un lecho de secado de lodos (Figura 1e).
+.	Deben construirse y mantener en funcionamiento canales que desvíen y eviten que las aguas lluvias ingresen all interior del filtro verde, debido que el agua lluvia puede interferir con las tasas de evapotranspiración del agua residual. 
+.	Mantenga limpia la cubierta plástica del filtro verde, para mantener el proceso fotosintético y la productividad del pasto vetiver, debido a que la sombra afecta su crecimiento (Figura 1 f).
+Usos del pasto vetiver cosechado. Usos del pasto vetiver cosechado. El pasto vetiver cosechado se puede utilizar, entre otros usos, en la alimentación animal, para la extracción de aceites esenciales (con aplicación en perfumería), en la elaboración de artesanías y la producción de abonos verdes.
+
+Autores
+Nelson Rodríguez Valencia 
+Investigador Científico III
+https://orcid.org/0000-0003-0897-4013
+Samuel Antonio Castañeda
+Auxiliar de investigación
+Laura Vanessa Quintero Yepes
+Investigador Científico I
+https://orcid.org/0000-0002-9982-7790
+Disciplina Poscosecha
+Centro Nacional de Investigaciones de Café - Cenicafé, Manizales, Caldas, Colombia
+DOI (Digital Object Identifier)  
+https://doi.org/10.38141/10779/0548 
+
+Edición
+Sandra Milena Marín López
+Fotografías
+Archivo Cenicafé
+Diagramación
+Carmenza Bacca Ramírez
+Imprenta
+—
+
+ISSN-0120-0178
+ISSN-2145-3691 (En línea)
+Los trabajos suscritos por el personal técnico del Centro Nacional de Investigaciones de Café son parte de las investigaciones realizadas por la Federación Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad.
+
+Manizales, Caldas, Colombia
+Tel. (6) 8500707
+A.A. 2427 Manizales
+www.cenicafe.org
+
+
+
+Si en una finca cafetera se determina que la mayor cantidad de agua residual generada en el día (pico) es de 2.500 L, se recomienda que la capacidad del tanque de la unidad de drenados sea de 2,5 m3. En caso de no disponer de un tanque con este volumen, se recomienda adquirir un tanque comercial de 3 
+
+Diseños alternativos y complementarios para optimizar el tamaño de los filtros verdes
+
+A continuación, se presentan algunas alternativas de manejo de las aguas residuales del beneficio del café que permiten implementar filtros verdes de menor tamaño.
+Diseños alternativos para usuarios de las tecnologías 
+Becolsub y Ecomill®
+Los productores que realicen el beneficio ecológico del café utilizando las tecnologías Becolsub y Ecomill®, pueden adicionar el mucílago del café o las mieles del Ecomill® en el procesador de pulpa, buscando retener los sólidos suspendidos y parte del volumen del agua residual en la pulpa. Los lixiviados generados pueden adicionarse nuevamente sobre la pulpa hasta agotamiento, o llevarlos a la unidad de tratamiento primario (a esta unidad también deben conducirse las aguas de la clasificación y transporte del fruto y del café lavado y el agua de lavado de equipos) para que luego lleguen a la unidad de aplicación de un sistema de filtros verdes. El tamaño del filtro verde se calcula con base a los volúmenes de lixiviados, aguas de clasificación, transporte del fruto, del café lavado y de lavado de equipos generados en el día pico.
+Diseño alternativo para usuarios de la tecnología tanque tina
+Los productores que realicen el beneficio ecológico del café utilizando la tecnología del tanque tina, pueden adicionar en el procesador de pulpa los dos primeros enjuagues (con un volumen aproximado de 2,2 L y que representan cerca del 89% de la contaminación total de las aguas mieles), buscando retener los sólidos suspendidos y parte del volumen del agua residual. Los lixiviados generados pueden adicionarse sobre la pulpa hasta agotamiento o llevarlos a la unidad de tratamiento primario (a esta unidad también deben conducirse los dos últimos enjuagues, las aguas de la clasificación, transporte del fruto, del café lavado y de lavado de equipos) y luego llevarlos a la unidad de aplicación de un sistema de filtros verdes para ser incorporados al área sembrada. El tamaño del filtro verde se calcula con base a los volúmenes de lixiviados, los dos últimos enjuagues, las aguas de la clasificación y transporte del fruto, del café lavado y del lavado de equipos generados en el día pico.
+Diseño complementario para productores con sistemas de tratamiento
+Los productores que ya tengan instalados sistemas de tratamiento de las aguas residuales del café y deseen eliminar los costos legales ambientales implementando un filtro verde con cero descargas, pueden llevar directamente las aguas tratadas a la unidad de aplicación del filtro verde. 
+El tamaño del filtro verde se calcula con base a los volúmenes de agua tratada.
+
+
+
+
+a
+
+
+c
+
+
+b
+
+
+
+
+
+d
+
+
+e
+
+
+f
+
+
+Figura 1. 
+Mantenimiento de los filtros verdes - Mayor información para la construcción de los filtros verdes:https://www.cenicafe.org/es/index.php/nuestras_publicaciones/libros/publicaciones_tecnologia_de_filtros_verdes
+
+
+
+
+
+Literatura citada
+
+Rodríguez-Valencia, N., Quintero-Yepes, L., & Castañeda, S. A. (2022a). Construya y opere su sistema séptico para el tratamiento de las aguas residuales de la vivienda de su finca cafetera. Cenicafé. https://doi.org/10.38141/cenbook-0012
+Rodríguez-Valencia, N., Quintero-Yepes, L., & Castañeda, S. A. (2022b). Tecnología de filtros verdes para el manejo, tratamiento y cero descargas de las aguas residuales de la finca cafetera. Cenicafé. https://doi.org/10.38141/cenbook-0029
+
+
+©FNC–Cenicafé
+
+
+

@@ -1,0 +1,332 @@
+
+Agosto de 2023
+Gerencia Técnica /
+Programa de Investigación Científica
+Fondo Nacional del Café
+
+Métodos de fermentación modificados y su influencia en la calidad de la bebida
+
+En años recientes, el consumo de café se ha dirigido hacia nuevas percepciones sensoriales motivando la búsqueda de factores diferenciadores que sean bien valorados por el mercado. En esa búsqueda, tanto caficultores como investigadores de diferentes partes del mundo, han recurrido a modificaciones en la etapa de fermentación. El punto de partida para estas modificaciones es el conocimiento tradicional a partir de los métodos de procesos poscosecha básicos, como son: seco, semiseco y húmedo. En cualquier caso, es fundamental conocer la calidad del café que se produce en las fincas, y aplicar las recomendaciones técnicas para la variedad, el clima y las prácticas agronómicas, complementarias a las del proceso 7P®, las cuales deben garantizar una calidad mínima, a partir de la cual se realicen las modificaciones.
+Las variaciones como prolongar el tiempo, modificar la temperatura de fermentación, la adición de agua o la restricción de oxígeno, o de una manera más compleja la adición de pulpa de café o microorganismos entre otros, han sido algunos de los métodos más explorados. Para su aplicación, debe tenerse una estandarización previa, para evitar implicaciones negativas en la calidad y lograr el mejoramiento en el perfil sensorial deseado.
+Este Avance Técnico tiene como propósito informar acerca de los Métodos de Fermentación Modificados (MFM), los resultados de la evaluación de algunos de ellos y su efecto sobre la calidad del café.
+Aspectos a considerar para desarrollar métodos de fermentación 
+modificados (MFM)
+Composición de la masa de 
+frutos de café 
+Para lograr la estandarización de los métodos de fermentación modificados, el primer paso para obtener café de buena calidad y la primera práctica del proceso 7P® es garantizar que más del 80% de los frutos recolectados tengan una madurez compuesta por los colores 4, 5 y 6, según la escala de color Cromacafé® (Peñuela et al., 2022), disminuyendo el riesgo de defectos por cantidades de frutos verdes y pintones mayores a 2,5%, colores 1 y 2 en la masa de café según Cromacafé®. Para procesos modificados es de especial cuidado evitar el uso de masas cuya madurez se concentre en frutos sobremaduros (color 7), debido a que este tipo de frutos incrementa la presencia del defecto fermento, especialmente cuando se realizan fermentaciones prolongadas (Osorio et al., 2022) o cuando el café se somete a secado con aire forzado a 50°C (Peñuela-Martínez et al., 2023b). 
+Clasificación de 
+frutos y granos
+La clasificación hidráulica y por tamaño del café despulpado tiene como finalidad disponer de una materia prima homogénea y de mejor calidad para la producción de café con taza limpia. La ausencia de estas clasificaciones permite el ingreso al tanque de fermentación de frutos secos, brocados, afectados por enfermedades y gran cantidad de trozos de pulpa, que alteran la composición de la masa, influyendo en el tipo y cantidad de microorganismos presentes, y a su vez en su actividad sobre el mucílago, lo cual se traduce en un incremento de la temperatura durante la fermentación. Este incremento reduce el tiempo de proceso y genera riesgo de sobrefermentación, que finalmente deteriora la calidad con notas ásperas, astringentes, leñosas, no agradables, que conllevan a una menor calificación en la impresión global respecto al café con clasificación previa al despulpado (Peñuela-Martínez et al., 2010). 
+Temperatura del 
+ambiente
+Es uno de los factores que más afecta el desarrollo de la fermentación, ya que varía entre el día y la noche, dependiendo de la ubicación geográfica y de las condiciones del lugar donde se realiza el proceso, si hay ventilación o no, si está bajo techo o a cielo abierto, entre otros. 
+La temperatura de fermentación se deja afectar por la temperatura del ambiente, sobre esta variable inciden factores como: 
+	
+El calor de campo de los frutos al momento de la recolección, el cual genera mayor temperatura a menor altitud del cultivo.
+
+	
+El uso de la clasificación hidráulica de los frutos, ya que sumergir los frutos en agua permite disminuir la temperatura generada por el calor de campo e iniciar la fermentación a menor valor.
+
+	
+La cantidad de café utilizada para las fermentaciones, mayores volúmenes de café tienden a concentrar calor, mientras que en menores cantidades la temperatura es similar a la del ambiente (Peñuela-Martínez et al., 2010).
+
+	
+El momento del día en el que inicie la fermentación, si ocurre en horas de la noche tendrá temperaturas más bajas, contrario a lo que sucede si las primeras horas de la fermentación ocurren durante el día. 
+
+	
+En fermentaciones espontáneas la temperatura puede incrementar desde 4°C hasta 14°C o más dependiendo de la condición al final del proceso (Peñuela et al., 2010, 2018). Por lo anterior, es recomendable mantener condiciones estables de temperatura del ambiente durante la fermentación. Es necesario disponer de adecuada ventilación en el lugar donde se realice el proceso y mantener alejados los tanques o recipientes de los rayos del sol para evitar el calentamiento de la masa.
+
+
+Punto final de 
+la fermentación
+Una buena fermentación se obtiene cuando se conoce de manera precisa el momento en el cual ha finalizado la degradación del mucílago; es así como el método Fermaestro®, utilizado en el proceso estándar, sirve como referencia para la determinación de este punto. Independiente de la modificación a la fermentación que se realice, es necesario conocer el momento en el que se obtiene este punto, ya que fermentaciones incompletas conllevan a una disminución de la calidad. El 66% de las muestras de café obtenidas de fermentaciones con 25% del mucílago sin remover, presentaron defecto en taza (Sanz & Velásquez, 2022). Por consiguiente, se recomienda el uso de un tratamiento de control con el método Fermaestro®, que sirva como indicador de la finalización de la fermentación. Además, este proceso será testigo de la calidad que se obtiene con el proceso estándar.
+Métodos de Fermentación Modificados (MFM)
+El propósito de utilizar fermentaciones modificadas es el de producir café con características de calidad sensorial únicas y diferenciadas del café estándar. Dentro de estos métodos se incluyen:
+Fermentaciones prolongadas
+Consiste en dejar el mucílago fermentado en contacto con el grano por un tiempo adicional después de la degradación completa, con el propósito de permitir la formación de compuestos que mejoren la calidad sensorial. Este tiempo adicional, al igual que en el proceso estándar, depende de varios factores, por lo que para llegar a una estandarización es necesario partir de la información generada con el método Fermaestro®.
+ 
+	
+Con 6 horas adicionales, a partir de Fermaestro®, se obtuvo el 100% de las muestras con taza limpia y calificación superior al testigo en el 56% de ellas (Sanz & Velásquez, 2022). 
+
+
+	
+Con la adición de 8 horas se obtuvieron calificaciones superiores al testigo (Peñuela-Martínez et al., 2018). 
+
+
+	
+La extensión por 10 y 20 horas no mejoró la calidad sensorial (Osorio et al., 2022). 
+
+
+Fermentación con 
+adición de agua
+Este es uno de los MFM más tradicionales, ya que se puede realizar sin necesidad de grandes cambios en la infraestructura de beneficio. Se aplica para lograr homogeneidad en la masa y evitar la concentración de calor en puntos específicos de la misma. Al adicionar agua limpia se genera una dilución de los azúcares del mucílago y se facilita el proceso de difusión de compuestos hacia el grano (Pereira et al., 2020). Este método consiste en la adición de agua limpia en proporciones conocidas y el uso del Fermaestro® para identificar el punto final de la fermentación. Con el uso de agua limpia en proporción de 30 L por cada 100 kg de café despulpado se obtuvieron buenas calificaciones en la calidad sensorial (Puerta Quintero & Echeverry-Molina, 2015), en amplios rangos de tiempo y temperaturas. Para el lavado se recomienda utilizar el agua de la fermentación como parte del primer enjuague, para mantener el agua residual bajo los niveles recomendados, con mínima afectación del medio ambiente. 
+Fermentación con mezclas 
+de café despulpado
+Este método consiste en la adición de café recién despulpado a masas de café con un avanzado estado de fermentación, con el fin de renovar el sustrato y la carga microbiana inicial, y así prolongar el tiempo de fermentación. Recientemente, se ha explorado el uso de este método para mejorar la calidad sensorial; es así como para la estandarización se controla la calidad de la recolección y se realizan las clasificaciones necesarias para obtener una masa de café despulpado homogénea y de buena calidad. Este método se aplicó con ventajas sobre la calidad en fermentaciones realizadas bajo procesos estandarizados con y sin agua (Peñuela-Martínez et al., 2018). Sin embargo, es importante considerar que toma largos tiempos, lo que implica cuellos de botella en el uso de infraestructura de beneficio. Adicionalmente, esta práctica no es recomendada en épocas de inicio o fin de cosecha, porque reduce la calidad sensorial, debido a las características de baja calidad del café recolectado.
+Fermentación 
+en fruto
+También conocido como reposo en tolva, doble fermentación o cereza previa. Consiste en dejar los frutos un tiempo de reposo antes del despulpado, para continuar con la fermentación normal. Durante este tiempo ocurre una fermentación al interior del fruto, que puede mejorar o reducir la calidad sensorial del café, dependiendo de la condición dada. El uso de este método implica un proceso riguroso de eliminación de frutos de inferior calidad e impurezas mediante la clasificación hidráulica; también requiere la estandarización del tiempo de reposo antes del despulpado, con el fin de disminuir la variabilidad, considerando tiempos desde 24 horas. Después del despulpado no es posible utilizar el Fermaestro® dentro de la masa de café, debido a la degradación de mucílago en los frutos (Peñuela-Martínez et al., 2018). Es necesario realizar simultáneamente una fermentación con Fermaestro® como referencia para establecer el tiempo máximo de fermentación. Este proceso se caracteriza por tomar largos períodos de tiempo y dependiendo de la forma como se realice puede requerir infraestructura adicional para el almacenamiento de los frutos.
+Fermentación con 
+control de temperatura
+Este método se basa en conseguir la homogeneidad entre la temperatura de control y la temperatura de la masa para permitir que la fermentación ocurra bajo el parámetro de temperatura deseado (Peñuela-Martínez et al., 2023). Los resultados obtenidos en este método han mostrado que es más favorable manejar temperaturas inferiores al ambiente para elevar la calidad de la bebida. Para su implementación se requiere de infraestructura complementaria a la tradicional, generando la necesidad de realizar inversiones, lo que dificulta su aplicación.
+Fermentación con 
+restricción de oxígeno
+La fermentación implica una ausencia de oxígeno para generar las reacciones de transformación; sin embargo, en los tanques usados para este proceso se presentan condiciones aerobias en la parte superficial y microaerobias en los intersticios o espacios entre los granos, y en capas inferiores en los cuales hay oxígeno al inicio de la fermentación. Estas condiciones van cambiando a medida que avanza el proceso, ya que en estos espacios el oxígeno es desplazado por el dióxido de carbono (CO2) que se forma como subproducto en la fermentación de los azúcares. Este MFM consiste en acelerar este desplazamiento, restringiendo el oxígeno de la capa superficial desde el inicio de la fermentación, permitiendo la acumulación acelerada de CO2. No obstante, el tiempo adecuado para este MFM es desconocido. Tampoco es posible monitorear la fermentación con el Fermaestro® debido a la perturbación de las condiciones anaerobias. En consecuencia, este método requiere de mayor información práctica para su implementación en fincas, así como de infraestructura adicional a la tradicional, ya que es necesario el uso de contenedores especiales que generen la condición anaerobia y la evacuación del CO2.
+Fermentación con 
+adiciones o suplementaciones
+Este MFM tiene varios enfoques; uno es acelerar el tiempo de degradación de mucílago mediante la adición de microorganismos, otro es enriquecer el sustrato para mejorar la actividad microbiana a partir de la adición de azúcares y el aumento de la carga de microorganismos. Para este último, una de las fuentes más usadas es la adición de pulpa de café (Pereira et al., 2020). Estos procesos son más complejos que los anteriormente descritos, ya que se debe tener especial cuidado de las concentraciones utilizadas y el procedimiento empleado. En la adición de microorganismos, los grupos microbianos más utilizados han sido levaduras y bacterias ácido lácticas, en los que se ha identificado que sería posible mejorar las características de un café con baja calidad (Elhalis et al., 2023). Para la aplicación de este método se requieren procedimientos rigurosos y uso de infraestructura complementaria. 
+Resultados de la evaluación de algunos Métodos de Fermentación Modificados
+En Cenicafé se llevó a cabo una investigación dirigida a evaluar diferentes métodos de fermentación modificados, como parte de las actividades del proyecto “Desarrollo experimental para el mejoramiento de la competitividad del sector cafetero del departamento de Cesar”, cofinanciado por el Sistema General de Regalías en Convenio con la Federación Nacional de Cafeteros. Durante la ejecución se contempló una primera fase en la que se tuvieron condiciones controladas de la materia prima y del ambiente en el que se realizaron las fermentaciones, en cuarto con temperatura controlada entre 18°C y 20°C. Adicionalmente, se usaron proporciones definidas de café despulpado, adición de agua y pulpa, así como el tiempo de reposo de los frutos antes del despulpado (Figura 1). Del mismo modo, fue importante conocer la finalización de los métodos evaluados, partiendo de la determinación de la degradación de mucílago mediante método enzimático (Peñuela-Martínez et al., 2010), con el fin de establecer un tiempo de referencia, para la aplicación en otros lugares de producción. 
+Las pruebas iniciales correspondientes a tratamientos de fermentación en un cuarto con temperatura controlada, se realizaron en el laboratorio de Poscosecha de Cenicafé. Se utilizó café variedad Cenicafé 1®, procedente de la Estación Experimental Naranjal, durante la cosecha 2021 y 2022. De acuerdo con la escala Cromacafé® (Peñuela et al., 2022), los frutos utilizados para la investigación se concentraron en los siguientes rangos: colores 4, 5 y 6 de 87,02% ± 8,17% y colores 1 y 2 de 2,0% ± 1,87%.
+Se utilizó un diseño experimental de bloques al azar (DBA) con seis tratamientos correspondientes a cinco MFM y un testigo, con el fin de seleccionar el mejor de ellos, respecto a la calidad sensorial, para así continuar con la siguiente etapa de la investigación en la Estación Experimental Pueblo Bello. Los seis tratamientos fueron: fermentación en fruto previa al despulpado (FFFD), fermentación con mezclas de café despulpado (FMCD), Fermentación con agua (FCA), Fermentación en café despulpado con pulpa de café (FCDP), Fermentación sin oxígeno (FSO), y como testigo la Fermentación con Fermaestro® en el proceso 7P® que fue la base para realizar las modificaciones (Figura 1).
+Tiempo de fermentación
+Los métodos de fermentación modificados mostraron que, para obtener la degradación del mucílago, más del 95%, se requieren entre 23 a 53 horas, mientras que para el testigo (Fermaestro®) se requirió un tiempo menor a 19 horas (Figura 2). Los tiempos de fermentación entre los MFM probados presentaron diferencias de 3,5 a 33,0 horas. Los procesos previos a la fermentación del café despulpado, como la fermentación en fruto (FFFD) y cuando se aplicaron mezclas de café despulpado (FMCD) presentaron las mayores diferencias en el tiempo. Las fermentaciones sin oxígeno (FSO) tomaron entre 5,0 y 6,5 horas más que el proceso testigo (Fermaestro®), ya que cuando este último indicó punto de lavado, la FSO presentó un 89,17% ± 5,32% de degradación de mucílago. La fermentación anaeróbica tiene el riesgo de ser una fermentación insuficiente o excesiva, lo que puede conducir a la producción de cantidades excesivas de ácido acético, ácido butanoico o ácido propiónico que producirán un sabor y aroma indeseables en el café (Elhalis et al., 2023), por lo que es importante conocer el momento en el que el mucílago se encuentra degrado.
+Características físicas 
+y químicas
+La evolución de los procesos de fermentación puede observarse a partir de los cambios que se generan en la temperatura, acidez a través del pH y el consumo de azúcares, principalmente glucosa, y la formación de ácidos orgánicos como el láctico (Tabla 1). Debido a las condiciones del ambiente donde se llevaron a cabo las fermentaciones, la temperatura de todos los métodos evaluados presentó tendencia a disminuir hacia el final de la fermentación entre 1,0 y 4,5°C. El método de fermentación en fruto (FFFD) fue el que menor cambio presentó, e inició con menores valores de pH, sólidos solubles totales (°Brix) y glucosa en el mucílago. El uso de agua en la fermentación (FCA) permitió un mayor equilibrio entre la temperatura de la masa y el ambiente, a la vez que presentó la menor disminución del pH, indicando probablemente que, aunque la degradación de mucílago fue mayor del 95%, la fermentación puede prolongarse.
+Por otra parte, la concentración de ácido láctico fue mayor para el método (FSO), debido a que las condiciones anaerobias son favorables para la actividad de microorganismos productores de este ácido, como las bacterias acido lácticas. Estas condiciones pueden ser también generadas parcialmente en los métodos con adición de agua (FCA) o pulpa de café (FCDP), el cual presentó mayor contenido de glucosa al final de la fermentación, dada la adición de pulpa de café.
+Calidad sensorial
+Debido a las condiciones cuidadosas en las que se realizaron los procesos, se obtuvo el 100% de las muestras con taza limpia, y con puntajes superiores a 83 puntos SCA (Figura 3). Lo anterior, relacionado también con características intrínsecas de la variedad Cenicafé 1®, la cual presenta buena calidad sensorial sin realizar variaciones en el proceso, dados los resultados de la fermentación con Fermaestro®. Solamente la fermentación en fruto (FFCD) presentó un promedio descriptivamente mayor al testigo y con menor variabilidad, a la vez que fue diferente a la fermentación con agua (FCA). Otro criterio considerado para la evaluación, fue la probabilidad de obtener puntajes superiores al testigo (Fermaestro®) que fue del 66% para FFFD. 
+Debido a que la aplicación de este tipo de métodos busca además de mejorar los puntajes en taza, obtener descriptores sensoriales que generen un perfil diferente del obtenido con el café estándar, en la Tabla 2 se realiza una representación mediante la intensidad del color de la frecuencia de cada descriptor en las muestras de café de cada método de fermentación, un color más oscuro representa la mayor cantidad de la presencia del descriptor o sin color en caso de no presentarse. Descriptores como dulce y frutal, se presentaron con mayor frecuencia en la fermentación FFFD, mientras que herbal predominó en la fermentación sin oxígeno (FSO). La fermentación con agua (FCA) fue la que menor cantidad de descriptores recibió y la fermentación en mezcla (FMCD) resaltó descriptores como el chocolate. Las sensaciones percibidas por los catadores pueden provenir de la variedad y del proceso de fermentación con Fermaestro® y los MFM tienden a elevar algunos de ellos, así como a disminuir la astringencia o resaltar las notas herbales o secas.
+Dado el mayor puntaje en taza y probabilidad de superar la calidad del testigo, en el departamento del Cesar se realizaron las fermentaciones FFFD y con Fermaestro®, para lo cual se utilizaron 200 kg de frutos clasificados de café variedad Castillo®, que fueron divididos en dos partes iguales para asignar a cada fermentación. Las condiciones de experimentación fueron diferentes, ya que el promedio de la temperatura ambiente fue de 23,3°C, en un rango entre 18,40 y 31,6°C, que incidió en la temperatura de los frutos durante el reposo, los cuales presentaron un promedio de 26,3°C en un rango desde 21,3 hasta 39,1°C.
+Debido a la mayor concentración de la cosecha en el Cesar, se garantizó la calidad de la recolección con un promedio de 90,2% ± 1,86% de frutos maduros en colores 4, 5 y 6 del Cromacafé® y una cantidad inferior a 3,7% ± 1,90% de frutos en colores 1 y 2. Con menores tiempos de fermentación para los dos procesos, el principal cambio respecto a las evaluaciones realizadas bajo condiciones controladas en Cenicafé, se observó en la temperatura (Tabla 3), ya que presentó incremento hacia el final de la fermentación, con valores que estuvieron entre 1,5 y 3,7°C para el testigo y entre 0,8 y hasta 8,8°C para la FFFD. Los valores de pH y de contenido de glucosa al final de la fermentación fueron menores, indicando mayor avance de la fermentación. 
+El café de la variedad Castillo® producido en la Estación Experimental Pueblo Bello, es de buena calidad sensorial, con la aplicación de las prácticas de la estrategia “Más Agronomía, Más productividad, Más calidad”, lo mismo que por la concentración de la cosecha, por lo que el MFM evaluado no generó diferencias significativas en la calificación promedio de las muestras provenientes de las dos fermentaciones, las cuales presentaron valores promedio de 83,0 para el testigo y 83,4 para la FFFD. Sin embargo, la tendencia descriptiva indica valores máximos de 84,25 puntos SCA y mediana de 83,75 puntos SCA para FFFD. La probabilidad de superar la calidad del testigo se mantuvo en el 66,6%, como en la etapa anterior, con puntajes superiores entre 0,25 y 1,25 puntos SCA. Además, una de las muestras correspondiente al MFM presentó defecto, con notas calificadas como “sucio”, y coincidió con la mayor temperatura alcanzada al final de la fermentación (34,2°C) con un delta de temperatura de 8,8°C y el mayor tiempo de fermentación después de despulpado (17,0 horas).
+
+
+Autores
+Aída Esther Peñuela-Martínez
+Investigador Científico II 
+Disciplina de Poscosecha, Cenicafé
+https://orcid.org/0000-0003-4454-9778
+Jhoan Felipe García-Duque
+Asistente de Investigación hasta junio 30 de 2023. 
+Disciplina de Poscosecha, Cenicafé
+https://orcid.org/0000-0002-0339-1620
+Centro Nacional de Investigaciones de Café - Cenicafé, Manizales, Caldas, Colombia
+DOI (Digital Object Identifier)  
+https://doi.org/10.38141/10779/0554 
+
+Edición
+Sandra Milena Marín López
+Fotografías
+Archivo Cenicafé
+Diagramación
+Carmenza Bacca Ramírez
+Imprenta
+—
+
+ISSN-0120-0178
+ISSN-2145-3691 (En línea)
+Los trabajos suscritos por el personal técnico del Centro Nacional de Investigaciones de Café son parte de las investigaciones realizadas por la Federación Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad.
+
+Manizales, Caldas, Colombia
+Tel. (6) 8500707
+A.A. 2427 Manizales
+www.cenicafe.org
+
+
+FIgura 1. Diagrama de proceso de los MFM evaluados en la investigación.
+
+
+Figura 2. 
+Tiempo de proceso en diferentes MFM para obtener degradación de mucílago mayor al 95%.
+
+ * Fermentación en fruto previa al despulpado (FFFD), fermentación con mezclas de café despulpado (FMCD), Fermentación con agua (FCA), Fermentación en café despulpado con pulpa de café (FCDP), Fermentación sin oxígeno (FSO).
+
+Tabla 1. Valores promedio y desviación estándar para temperatura, pH, sólidos solubles totales, contenido de glucosa y ácido láctico obtenidos al inicio y final de diferentes métodos de fermentación realizados en condiciones controladas en Cenicafé
+
+Método
+ Temperatura (°C)
+ pH
+ SST (°Bx)
+ Glucosa (g L-1)
+ Ácido láctico            (g L-1)
+ 
+Inicial
+ Final
+ Inicial
+ Final
+ Inicial
+ Final
+ Inicial
+ Final
+ Final
+ 
+FFFD
+ 23,2±1,2
+ 22,19±1,9
+ 4,34±0,45
+ 3,39±0,10
+ 12,9±1,5
+ 13,3±1,2 
+ 22,95±2,44
+ 7,45±6,34
+ 0,89±0,46
+ 
+FMCD
+ 22,9±0,6
+ 20,5±1,9
+ 5,48±0,17
+ 3,46±0,18
+ 14,4±1,0
+ 13,9±1,2
+ 27,37±1,70
+ 6,74±3,89
+ 0,98±0,51
+ 
+FCA
+ 23,0±1,3
+ 18,5±1,18
+ 5,85±0,19
+ 4,26±0,33
+ 6,16±0,9
+ 18,63±1,45
+ 2,32±1,29
+ 
+FCDP
+ 23,2±0,9
+ 21,6±1,8
+ 5,36±0,16
+ 3,63±0,18
+ 14,6±1,1
+ 20,24±1,56
+ 2,34±1,84
+ 
+FSO
+ 23,0±0,7
+ 20,9±1,7
+ 5,43±0,14
+ 4,07±0,17
+ 15,4±1,9
+ 17,79±9,88
+ 4,57±2,24
+ 
+Fermaestro®
+ 23,1±1,0
+ 19,5±1,1
+ 5,47±0,12
+ 3,67±0,15
+ 14,7±1,8
+ 16,05±6,45
+ 0,85±0,09
+ 
+
+
+
+* Fermentación en fruto previa al despulpado (FFFD), fermentación con mezclas de café despulpado (FMCD), Fermentación con agua (FCA), Fermentación en café despulpado con pulpa de café (FCDP), Fermentación sin oxígeno (FSO).
+
+
+Figura 3. 
+Promedios e intervalos de confianza al 95% para el puntaje total SCA de las muestras obtenidas en MFM y fermentación con Fermaestro® (A) y Probabilidad de obtener puntajes en taza superiores al testigo (Fermaestro®) (B).
+
+* Fermentación en fruto previa al despulpado (FFFD), fermentación con mezclas de café despulpado (FMCD), Fermentación con agua (FCA), Fermentación en café despulpado con pulpa de café (FCDP), Fermentación sin oxígeno (FSO).
+
+Tabla 2. Descriptores organolépticos otorgados a las muestras provenientes de diferentes métodos de fermentación. 
+
+Métodos de
+fermentación
+modificados
+ Dulces
+ Panela
+ Azúcar morena
+ Caramelo
+ Chocolate
+ Miel
+ Frutal
+ Cítrico
+ Frutos rojos
+ Frutos amarillos
+ Ligero Floral
+ Vino
+ Frutos secos
+ Cereal
+ Herbal
+ Seco
+ Astringente
+ 
+Fermaestro®
+  
+ 
+FSO
+ 
+FCA
+ 
+FCDP
+ 
+FMCD
+ 
+FFFD
+ 
+
+
+
+* Fermentación en fruto previa al despulpado (FFFD), fermentación con mezclas de café despulpado (FMCD), Fermentación con agua (FCA), Fermentación en café despulpado con pulpa de café (FCDP), Fermentación sin oxígeno (FSO).
+
+Tabla 3. Valores promedio y desviación estándar para temperatura, pH, contenido de glucosa y ácido láctico obtenidos al inicio y final de dos métodos de fermentación realizados en la Estación Experimental Pueblo Bello.
+
+Método
+ Tiempo
+(h)
+ Temperatura
+(°C)
+ pH
+ Glucosa
+(g L-1)
+ Ácido láctico          final        (g L-1)
+ 
+Inicio
+ Final
+ Inicio
+ Final
+ Inicio
+ Final
+ 
+FFFD
+ 45,2±1,8
+ 26,2±1,6
+ 29,5±2,4
+ 4,33±0,09
+ 3,75±0,14
+ 20,76±2,76
+ 5,92±2,59
+ 1,64±0,13
+ 
+Fermaestro®
+ 18,1±1,3
+ 23,7±0,2
+ 25,9±0,6
+ 5,65±0,02
+ 3,43±0,05
+ 23,13±1,69
+ 11,04±3,28
+ 0,98±0,20
+ 
+
+
+
+* Fermentación en fruto previa al despulpado (FFFD).
+
+
+
+Agradecimientos
+Al Comité Departamental de Cafeteros de Cesar-Guajira, proyecto Desarrollo Experimental para el Sector Cafetero de Cesar código BPIN 2017000100036, financiado por El Sistema General de Regalías por la Gobernación de Cesar en convenio firmado con la Federación Nacional de Cafeteros de Colombia Contrato N° 2019 02 1486. A John Espitia, Especialista de Calidades, Oficina de Calidad de Café, Almacafé-Manizales, al Laboratorio de Calidad del Comité de Cafeteros de Cesar-Guajira y al personal de las Estaciones Experimentales Naranjal y Pueblo Bello.
+
+Literatura citada 
+Elhalis, H., Cox, J., & Zhao, J. (2023). Coffee fermentation: Expedition from traditional to controlled process and perspectives for industrialization. Applied Food Research, 3(1), 100253. https://doi.org/10.1016/j.afres.2022.100253
+Osorio Pérez, V., Álvarez-Barreto, C. I., Matallana, L. G., Acuña, J. R., Echeverri, L. F., & Imbachí, L. C. (2022). Effect of Prolonged Fermentations of Coffee Mucilage with Different Stages of Maturity on the Quality and Chemical Composition of the Bean. Fermentation, 8(10), 519. https://doi.org/10.3390/fermentation8100519
+Peñuela-Martínez, A. E., Moreno-Riascos, S., & Medina-Rivera, R. (2023a). Influence of Temperature-Controlled Fermentation on the Quality of Mild Coffee (Coffea arabica L.) Cultivated at Different Elevations. Agriculture, 13(6), 1132. https://doi.org/10.3390/agriculture13061132
+Peñuela-Martínez, A. E., Sanz-Uribe, J. R., & Medina-Rivera, R. D. (2023b). Influence of drying air temperature on coffee quality during storage, 76(3) Revista Facultad Nacional de Agronomía Medellín. https://doi.org/10.15446/rfnam.v76n3.104115 
+Peñuela-Martínez, A. E., Guerrero, A., & Sanz-Uribe, J. R. (2022). Cromacafé® Herramienta para identificar los estados de madurez de las variedades de café de fruto rojo. Avances Técnicos Cenicafé, 535, 1–8. https://doi.org/10.38141/10779/0535
+Peñuela-Martínez, A. E., Zapata-Zapata, A. D., & Durango-Restrepo, D. L. (2018). Performance of different fermentation methods and the effect on coffee quality (Coffea arabica L.). Coffee Science, 13(4), 465–476. http://www.coffeescience.ufla.br/index.php/Coffeescience/article/view/1486
+Peñuela-Martínez, A. E., Oliveros-Tascón, C. E., & Sanz-Uribe, J. R. (2010). Remoción del mucílago de café a través de fermentación natural. Revista Cenicafé, 61(2), 159–173. http://hdl.handle.net/10778/494 
+Pereira, L. L., Guarçoni, R. C., Pinheiro, P. F., Osório, V. M., Pinheiro, C. A., Moreira, T. R., & ten Caten, C. S. (2020). New propositions about coffee wet processing: Chemical and sensory perspectives. Food Chemistry, 310, 125943. https://doi.org/10.1016/j.foodchem.2019.125943
+Puerta Quintero, G. I., & Echeverry-Molina, G. (2015). Fermentación controlada del café: Tecnología para agregar valor a la calidad. Avances Técnicos Cenicafé, 454, 1–12. https://doi.org/10.38141/10779/0454 
+Sanz-Uribe, J. R., & Velásquez-Henao, J. (2022). Producción de café con fermentaciones incompletas y fermentaciones prolongadas utilizando el Fermaestro®. Revista Cenicafé, 73 (1), e73105. https://doi.org/10.38141/10778/73105
+
+
+
+©FNC - Cenicafé
+
+
+
+
