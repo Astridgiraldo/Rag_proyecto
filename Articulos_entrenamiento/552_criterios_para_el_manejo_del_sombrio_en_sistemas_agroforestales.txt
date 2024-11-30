@@ -1,0 +1,190 @@
+
+Junio de 2023 
+Gerencia Técnica / Programa de Investigaci Científica Fondo Nacional del Café 
+
+Criterios para elmanejo del sombrío en Sistemas Agroforestalescon Café 
+
+En las regiones cafeteras colombianas con condiciones limitantes de clima y suelo, el establecimiento de árboles en asocio con café es una estrategia que garantiza una mayor productividad (Farfán, 2014a; Koutouleas et al., 2022a). Los árboles de sombrío regulan la cantidad y calidad de la radiacin solar, las fluctuaciones de la temperatura del aire, así como la disponibilidad de agua en el suelo, para optimizar los procesos de crecimiento y desarrollo de las plantas (Farfán, 2017; Koutouleas et al., 2022b). El establecimiento de árboles también influye en varios procesos clave para el desarrollo del cultivo de café bajo condiciones de campo, como el ciclaje, la absorcin de nutrientes, la respuesta a dosis de fertilizantes, el almacenamiento del agua en el suelo, entre otros servicios ecosistémicos (Farfán, 2014a; Sauvadet et al., 2019; de Carvalho et al., 2021). Sin embargo, es necesario tener en cuenta que, para asegurar una buena productividad, el manejo agronmico debe planificarse de manera oportuna y adecuada, tanto en el cultivo de café como en los árboles de sombrío, para evitar que el exceso de sombra reduzca la produccin de café. 
+
+Autores 
+Andrés Felipe Le-Burgos 
+Asistente de Investigaci https://orcid.org/0000-0002-9765-0223 
+
+José Ra Rend Sáenz 
+Investigador Científico I https://orcid.org/0000-0002 5676-4670 
+
+Alexander Jaramillo Jiménez 
+Auxiliar de Investigaci https://orcid.org/0000-0003-4580-1613 
+Disciplina de Fitotecnia 
+
+Hugo Mauricio Salazar Echeverry 
+Investigador Científico II https://orcid.org/0000-0003-4580-1613 Disciplina de Economía 
+Centro Nacional de Investigaciones de Café - Cenicafé Manizales, Caldas, Colombia 
+DOI (Digital Object Identifier) https://doi.org/10.38141/10779/0552 
+Edici 
+Sandra Milena Marín Lez 
+
+Fotografías 
+Archivo Cenicafé 
+
+Diagramaci 
+Óscar Jaime Loaiza Echeverri 
+
+Imprenta 
+— 
+ISSN-0120-0178 ISSN-2145-3691 (En línea) Los trabajos suscritos por el personal técnico del Centro Nacional de Investigaciones de Café son parte de las investigaciones realizadas por la Federaci Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad. 
+Manizales, Caldas, Colombia Tel. (6) 8500707 www.cenicafe.org 
+La regulacin del exceso de sombra en los sistemas agroforestales con café (SAF), se realiza a través de podas, las cuales mantienen la estructura del dosel de los árboles de sombrío a lo largo del ciclo productivo del café (Farfán, 2020). Esta práctica de manejo agronmico es la más eficiente para regular la radiacin solar que incide en el cultivo de café y a su vez el exceso de sombra producido por los árboles, por lo tanto, es una labor clave en la estrategia de la FNC “Más Agronomía, Más Productividad, Más Calidad”, para garantizar la rentabilidad de los caficultores colombianos (Farfán, 2020; Cenicafé, 2021). 
+En consecuencia, para el mantenimiento del sombrío, se han definido como criterios técnicos el porcentaje de sombra y las épocas recomendadas para iniciar las podas de mantenimiento (Farfán, 2014b, 2020). Otro aspecto de obligatorio cumplimiento, corresponde a la seguridad de los operarios en la labor de poda o raleo, considerada de alto riesgo, debido al desplazamiento mayor de 2,0 m con relacin del plano de los pies del trabajador, y de esta manera, para su planificacin se requiere de personal capacitado en el uso de las herramientas adecuadas y la aplicacin de estándares de trabajo seguro, segn la normativa colombiana (Resolucin 1409 del 2012 y Resolucin 4272 del 2021, MinTrabajo). 
+Adicionalmente, desde el enfoque ambiental, antes de iniciar las podas de formacin y mantenimiento o raleos en los árboles de sombrío establecidos en el sistema agroforestal con café, es necesario tener en cuenta la normativa ambiental vigente que regula lo referente al aprovechamiento de los recursos forestales (registro del SAF o permisos de aprovechamiento), con el fin de evitar alguna sancin legal 
+o econmica por parte de las entidades encargadas de administrar y vigilar el cumplimiento de todos los requisitos, como son el Instituto Colombiano Agropecuario-ICA o las Corporaciones Automas Regionales -CARs. 
+Este Avance Técnico tiene como finalidad: i) resaltar la importancia de la regulacin del sombrío y su efecto sobre la produccin de café; y 
+ii) dar a conocer de manera detallada, el proceso de planificacin del mantenimiento de los árboles de sombrío, con alcance al cumplimiento de los requisitos legales que hoy el caficultor debe considerar al momento de realizar el manejo de los sistemas agroforestales con café en Colombia. 
+
+
+Importancia del mantenimiento de los árboles de sombrío en la productividad del cultivo de café 
+En un estudio realizado en la zona central cafetera colombiana, en un sistema agroforestal establecido con Inga edulis (guamo santafereo), en densidades de 70 árboles y 4.500 plantas de café por hectárea, de la variedad Colombia, con 3 aos de edad, se registruna produccin promedio anual de 1.500 kg de café pergamino seco (c.p.s) correspondiente a un sombrío del 25% en funcin del brillo solar (> 1.300 horas). En ausencia de mantenimiento de los árboles de sombrío, se constatque la produccin de café disminuygradualmente en un 10% (alrededor de 150 kg de café pergamino seco), con el incremento en los porcentajes de sombra entre 25% hasta 45% (Figura 1). Así mismo, la produccin se redujo entre 650 a 850 kg de c.p.s, cuando el porcentaje de sombra superel 50% y alcanzhasta un 65%, respectivamente, es decir, casi dos veces más del recomendado para la localidad (Farfán, 2014a). 
+Con base en lo anterior, es fundamental realizar el mantenimiento de los árboles de sombrío en los sistemas agroforestales con café por medio de podas. Esta práctica permite disminuir el porcentaje de sombra a los niveles recomendados (< 45%), tal como se muestra en la Figura 2, luego de ejecutar las podas de mantenimiento en cuatro especies de árboles de sombrío. Con esto se garantiza que en el sistema de produccin mejore las condiciones del sitio de siembra del cultivo de café, particularmente, la disponibilidad de radiacin solar e incrementos en la absorcin de agua y nutrientes (Farfán, 2014b, 2020). 
+
+Etapas para el mantenimiento de los árboles de sombrío 
+La descripcin de las etapas para el mantenimiento de los árboles de sombrío tiene como base el análisis realizado en las Estaciones Experimentales Naranjal (Caldas) y El Rosario (Antioquia), donde fueron seleccionados dos lotes establecidos en sistemas agroforestales estratificados. En Naranjal el sistema de produccin correspondia un lote programado para renovacin del cultivo de café por siembra, con árboles de sombrío entre 13 y 14 aos de edad y una distancia de siembra de 12 x 12 m (70 árboles/ha). En la Estacin El Rosario, los lotes estaban establecidos con árboles de sombrío entre 7 y 8 aos de edad, asociados con café variedad Tabi, en etapa de produccin (entre 3 a 4 aos) y una distancia de siembra de 6 x 6 m (278 árboles/ha). Los árboles de sombrío fueron Erythrina fusca L. (bcaro), Inga edulis M (guamo santafereo), Inga densiflora B (guamo macheto) y Cordia alliodora R & P. O (nogal cafetero), comnmente establecidos en sistemas agroforestales con café en Colombia (Farfán, 2020). Adicionalmente, la seleccin de estos árboles se realizpor ser especies con diferentes formas del dosel; esparcido para guamo santafereo, guamo macheto y bcaro, y dosel cnico para nogal cafetero (Farfán, 2007). 
+Con el fin de dar cumplimiento a las regulaciones ambientales y de seguridad para el trabajo seguro en la 
+Producci (kg ha-1 c.p.s.)
+1.600 
+Porcentaje de sombra (%)
+100 90 
+
+
+1.400 
+1.200 
+1.000 
+800 
+600 
+400 
+200 
+0 
+
+Porcentaje de sombra (%) 
+
+Figura 1. Producci promedio anual de café pergamino seco (c.p.s) por hectárea en un sistema agroforestal con café, de acuerdo con el porcentaje de sombra (Farfán, 2014a). 
+80 70 60 
+50 
+40 30 20 
+10 
+0 
+
+Guamo Guamo Baro Nogal santafere macheto cafetero 
+
+
+Especies de árboles de sombrío 
+Figura 2. Efecto de las podas de mantenimiento en el porcentaje de sombra medido en la cobertura del dosel de los árboles de sombrío. La línea roja denota el valor de referencia para el porcentaje de sombra. Cada barra representa la media (n=10) ± error estándar. 
+
+actividad del mantenimiento de los árboles de sombrío, se consideraron las siguientes etapas: 
+
+1. Cumplimiento de los aspectos ambientales 
+En esta etapa se gestionel registro de los lotes objeto de estudio establecido en sistemas agroforestales con café, considerando los aspectos relacionados en la Tabla 
+1. Para la investigacin, el registro se realizante el ICA, de acuerdo con el Decreto 2398 del 2019-MADR, entidad encargada de administrar y vigilar los registros y permisos de movilizacin y aprovechamiento de recursos maderables de las plantaciones comerciales establecidas por el agricultor, y la Resolucin 071641 del 2020- ICA, que establece los requisitos y procedimientos para el 
+registro de las plantaciones forestales comerciales o sistemas agroforestales. Así mismo, se tuvo en cuenta el Decreto 1791 de 1996-MMADS, en el cual se establece que toda plantacin forestal, sistema agroforestal y árboles en asocio con cultivos debe considerar el registro, así como los permisos de aprovechamiento. También, el Decreto 1076 del 2015-MMADS, donde se determina que las autoridades ambientales regionales-CARs son las encargadas del registro y permisos de movilizacin y aprovechamiento de las áreas forestales establecidas de manera natural, es decir, sin intervenci por el agricultor. 
+2. Planificación del mantenimiento de los árboles de sombrío 
+En el desarrollo de esta etapa, se establecieron los criterios técnicos y operativos para garantizar la seguridad del personal y la ejecucin de las podas de mantenimiento de manera oportuna y adecuada (Figura 3). Con el fin de regular la radiacin solar y garantizar una mayor disponibilidad de agua en el suelo, para los procesos de crecimiento y desarrollo de las plantas de café, la recomendacin técnica para los sistemas agroforestales, consiste en realizar las podas una vez inicia el período de lluvias y con base en el porcentaje de sombra, el cual puede determinarse a través del método de estimacin visual con el aplicativo HabitApp (Farfán, 2014a). Por otro lado, las podas son actividades de alto riesgo para 
+Tabla 1. Aspectos ambientales a considerar al momento de realizar el registro de los sistemas agroforestales con café. 
+Nº  Aspectos  Entidades*  
+Registro del SAF  CARs  ICA  
+1.1  Normativa  Decreto 1791 del 1996-MMADS  Decreto 2398 del 2019-MADR  
+Decreto 1076 del 2015-MMADS  Resoluci 071641 del 2020-ICA  
+1.3  Procedencia de los árboles  Plantaci natural  Plantaci establecida por el caficultor  
+1.4  Solicitud del formato de registro  NA  X  
+1.4.1  Diligenciar informaci de tenencia del predio y propietario  X  X  
+1.4.2  Informaci técnica de lote  X  X  
+1.4.2.1  Especies de árboles  X  X  
+1.4.2.2  A de establecimiento  X  X  
+1.4.2.3  Distancias y densidad de siembra de los árboles  NA  X  
+1.4.2.4  Nero de árboles  X  X  
+1.4.2.5  Volumen actual de los árboles en pie (m3)  NA  X  
+1.4.2.6  Registro fotográfico del lote  NA  X  
+1.5  Archivo de georreferenciaci  X  X  
+1.6  Visita técnica  X  X  
+1.7  Plazo del trámite  30 a 80 días  365 días  
+1.8  Costos  X  NA  
+
+*CARS: Corporaciones Automas Regionales, ICA: Instituto Colombiano Agropecuario, MMADS: Ministerio de Ambiente y Desarrollo Sostenible, MADR: Ministerio de Agricultura y Desarrollo Rural, NA: No aplica 
+
+Técnicos Operativos Técnicos Operativos 
+
+1. Corte de ramas secas o 1. Ubicación de escalera e enfermas instalación de línea de vida 
+2. 
+Corte de ramas 2. El personal debe estar entrelazadas anclado y sujeto a la línea 
+
+3. 
+Aplicación de pintura de vida anticorrosiva o 3. Posición opuesta al corte sellantes de las ramas. 
+
+4. 
+Nuevamente determinar 4. Precauciones para el el porcentaje de sombra descenso. 
+
+
+5. Repique y disposición de madera 
+
+Figura 3. Criterios para la planificación y ejecución de las podas de mantenimiento de los árboles de sombrío. 
+las personas, por lo tanto, debe garantizarse el uso de los equipos de seguridad y las herramientas de trabajo (Tabla 2), así como la verificacin e inspeccin detallada de cada elemento. Lo anterior, para dar cumplimiento a la resolucin 1409 del 2012-Ministerio del Trabajo, por la cual se establece el reglamento de seguridad para proteccin contra caídas en trabajo en alturas y la resolucin 4272 del 2021 de la misma entidad, donde se establecen las condiciones mínimas de seguridad para el desarrollo de trabajo en alturas. 
+De esta manera, con el propsito de tomar decisiones correctas para la ejecuci de prácticas agronmicas seguras y eficientes (Figura 3), se describen los aspectos puntuales que el caficultor colombiano debe considerar al momento de realizar el mantenimiento de los árboles de sombrío. 
+
+3. Ejecución de las podas de mantenimiento 
+En la realizacin de las labores de poda, se empleun estándar de trabajo seguro en alturas, en el cual se consideraron todos los aspectos operativos para garantizar la seguridad del personal durante la labor (Figura 3). Entre estos se consideraron: la ubicacin e instalacin de la escalera con puntos fijos de amarre, que van desde el tronco del árbol hacia las escaleras (Figura 4); instalacin de la línea de vida, específicamente en una rama gruesa con un buen estado fitosanitario ubicada en el tercio superior del árbol; posiciones de anclaje en dos puntos; posici opuesta durante el corte de las ramas (Figura 5); aplicacin de pintura anticorrosiva (Figura 6); y el descenso del árbol. Durante el corte de ramas se recomienda realizar la poda de ramas secas o enfermas, y principalmente aquellas entrelazadas, las cuales generan autosombreamiento. Por ltimo, se realizel repique de los productos maderables y su disposicin sobre la base del tallo de los árboles (Figura 7). 
+Es necesario considerar que, por cada equipo de operarios con certificacin de trabajo en alturas, slo una persona debe realizar la ejecucin de las podas en el árbol y otra debe apoyar desde el suelo la labor; adicionalmente, el coordinador de trabajo en alturas debe inspeccionar en detalle toda la labor, con el fin de evitar cualquier accin de riesgo al personal en la ejecucin de las tareas. Por otra parte, para garantizar el ajuste del nivel de sombrío de los árboles, es indispensable nuevamente determinar el porcentaje de sombra para comparar con el recomendado segn la localidad (< 45%), tal como se muestra en la Figura 2. 
+Tabla 2. Equipos, materiales y elementos de seguridad empleados para el 
+mantenimiento de los árboles de sombrío en Sistemas Agroforestales con café. 
+Equipos y materiales de trabajo  Elementos de seguridad  
+Equipo cortadora de altura  Certificado de Coordinador de trabajo en alturas  
+Equipo motosierra-210-250  Certificado de trabajo en alturas vigente (competencia)  
+Escalera dieléctrica  Casco de seguridad dieléctrico, con barbuquejo de cuatro puntos de apoyo y sistema de suspensi escualizable  
+Machete  Monogafa de seguridad  
+Lima triangular  Protectores auditivos de copa  
+Lima redonda motosierra  Arnés de cuerpo entero dieléctrico cuatro argollas  
+Lazos  Eslinga en Y con absorbedor regulable con gancho dieléctrico y argolla en reata IN 8021-2RD  
+Brochas  Eslinga de posicionamiento regulable para arco eléctrico en cuerda NOMEX/KEVLAR de 14 mm IN 8040-R-ARC  
+Pintura anticorrosiva  Cuerda 13 mm elongaci 300 libras, 100% polyester  
+Thinner  Mosquet de aluminio large TG automático 30 km  
+Aceite  Guante multiflex  
+Gasolina  Bota ultra liviana dieléctrico con puntera  
+
+
+Figura 4. Forma de ubicación y aseguramiento de la escalera para garantizar la seguridad del personal. 
+
+
+
+
+Figura 5. Ubicaci del personal para el corte de las ramas en los árboles de sombrío. 
+Figura 7. Disposición y repique de 
+
+la madera procedente de la labor Figura 6. Aplicaci de pintura después de realizar el corte en las ramas. 
+de poda. 
+
+
+
+Familias caficultoras: 
+Realicen el mantenimiento de los árboles de sombrío de acuerdo con los criterios técnicos y operativos, para garantizar la seguridad del personal, el cumplimiento de los aspectos ambientales, y la ejecucin adecuada de las podas. 
+Recuerden mantener los porcentajes de sombra en los sistemas agroforestales con café por debajo de los valores de referencia indicados segn la localidad, para evitar pérdidas en la produccin del cultivo de café. 
+8©FNC - Cenicafé requisitos y los procedimientos para el registro ante el ICA de plantaciones forestales comerciales y la expedici de certificados de movilizaci de productos de transformaci primaria obtenidos de las plantaciones forestales comerciales registradas en el territorio nacional. https://www.ica.gov.co/servicios_linea/ forestalesprincipal/resolucion-71641-del-15-de-julio-2020-forestales.aspx Koutouleas, A., Sarzynski, T., Bertrand, B., Bordeaux, M., Bosselmann, A. S., Campa, C., Etienne, H., Turreira-García, N., Léran, S., Markussen, B., Marraccini, P., Ramalho, J. C., Vaast, P., & Ræbild, A. (2022a). Shade effects on yield across different Coffea arabica cultivars — how much is too much? A meta-analysis. Agronomy for Sustainable Development, 42(4), 55. https://doi.org/10.1007/ s13593-022-00788-2 Koutouleas, A., Sarzynski, T., Bordeaux, M., Bosselmann, A. S., Campa, C., Etienne, H., Turreira-García, N., Rigal, C., Vaast, P., Ramalho, J. C., Marraccini, P., & Ræbild, A. (2022b). Shaded-Coffee: A Nature-Based Strategy for Coffee Production Under Climate Change? A Review. Frontiers in Sustainable Food Systems, 6. https://doi.org/10.3389/ fsufs.2022.877476 Ministerio de Agricultura y Desarrollo Rural. (2019). Decreto 2398. Por el cual se sustituye el Título 3 de la Parte 3 del Libro 2 del Decreto Único Reglamentario del Sector Agropecuario, Pesquero y de Desarrollo Rural 1071 de 2015, relacionado con el certificado de movilizaci de plantaciones forestales comerciales. https://www. minagricultura.gov.co/Normatividad/ Decretos/Decreto%202398%20del%20 2019.pdf Ministerio de Ambiente y Desarrollo Sostenible. (1996). Decreto 1791 de 1996. Por medio del cual se establece el régimen de aprovechamiento forestal. https://www.funcionpublica.gov.co/eva/ gestornormativo/norma.php?i=1296 Ministerio de Ambiente y Desarrollo Sostenible. (2015). Decreto 1076 de 2015. Esta versi incorpora las modificaciones introducidas al Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible a 
+
+Literatura citada 
+Centro Nacional de Investigaciones de Café. (2021). Guía más agronomía, más productividad, más calidad (3a ed.). Cenicafé. https://doi.org/10.38141/ cenbook-0014 
+de Carvalho, A. F., Fernandes-Filho, E. I., Daher, M., Gomes, L. de C., Cardoso, I. M., Fernandes, R. B. A., & Schaefer, C. 
+E. G. R. (2021). Microclimate and soil and water loss in shaded and unshaded agroforestry coffee systems. Agroforestry Systems, 95(1), 119-134. https://doi. org/10.1007/s10457-020-00567-6 
+Farfán, F. F. (2007). Producci de café en sistemas agroforestales. En J. Arcila, 
+F.F. Farfán, A. M. Moreno, L.F. Salazar, & E. Hincapié (Eds.), Sistemas de producci de café en Colombia (pp. 161-200). Cenicafé. http://hdl.handle. net/10778/720 
+Farfán, F. F. (2014a). Agroforestería y sistemas agroforestales con café. Cenicafé. http://hdl.handle. net/10778/4213 
+Farfán, F. F. (2014b). Mantenimiento del componente arbreo en sistemas agroforestales con café. Avances Técnicos Cenicafé, 440, 1–8. http://hdl.handle. net/10778/486 
+Farfán, F. F. (2017). Sistemas de producci con café a libre exposici 
+o en sistemas agroforestales. Avances Técnicos Cenicafé, 485, 1–8. https:// doi.org/10.38141/10779/0485 
+Farfán, F. F. (2020). Administracin del cultivo del café en sistemas agroforestales – SAF. En Centro Nacional de Investigaciones de Café (Ed.), Manejo Agronico de los Sistemas de Producci de Café (pp. 72–123). Cenicafé. https://doi. org/10.38141/10791/0002_3 
+Instituto Colombiano Agropecuario. (2020). 
+Por medio de la cual se establecen los partir de la fecha de su expedici. 
+https://www.funcionpublica.gov.co/eva/ gestornormativo/norma.php?i=78153 
+Ministerio de Trabajo. (2012). Resoluci 1409 de 2012. Por la cual se establece el reglamento de seguridad para proteccin contra caídas en trabajo en alturas. https://www.mintrabajo. gov.co/documents/20147/45107/ resolucion_00001409_de_2012.pdf 
+Ministerio de Trabajo. (2021). Resoluci 4272 de 2021. Por la cual, se establecen los requisitos mínimos de seguridad para el desarrollo de trabajo en alturas. https:// www.apccolombia.gov.co/sites/default/ files/2022-03/Resolucion%204272­2021%20Reglamenta%20Trabajo%20 en%20Alturas%20%281%29.pdf 
+Sauvadet, M., den Meersche, K. V., Allinne, C., Gay, F., de Melo Virginio Filho, E., Chauvat, M., Becquer, T., Tixier, P., & Harmand, J.-M. (2019). Shade trees have higher impact on soil nutrient availability and food web in organic than conventional coffee agroforestry. Science of The Total Environment, 649, 1065–1074. https://doi.org/10.1016/j. scitotenv.2018.08.291 
+
+
+
+
+

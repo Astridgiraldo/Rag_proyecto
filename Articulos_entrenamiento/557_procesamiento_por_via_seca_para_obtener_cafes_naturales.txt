@@ -1,0 +1,164 @@
+
+Noviembre de 2023 
+Gerencia Técnica / Programa de Investigaci Científica Fondo Nacional del Café 
+
+
+
+
+Procesamiento por vía seca
+para obtener cafés naturales 
+El proceso de poscosecha en el café tiene como objetivo convertir los frutos en granos de café seco, disminuyendo los altos contenidos de agua del fruto, manteniendo las características de calidad, influyendo en los descriptores sensoriales y evitando pérdidas del producto. Básicamente se identifican tres vías para el procesamiento de los frutos: seca, hmeda y semi-seca. Estas dan como resultado los cafés denominados naturales, lavados y honey, respectivamente. 
+En Colombia el beneficio más frecuente es el realizado por vía hmeda, que da origen a cafés suaves lavados; este implica un mayor nmero de etapas en el beneficio y menor tiempo de proceso, contrario al procesamiento por vía seca. Actualmente existen variaciones y mezclas de estos tipos de procesos que buscan generar perfiles sensoriales diferenciados de la bebida. El café natural presenta unas características sensoriales particulares, asociadas al secado que es realizado con todos los componentes constitutivos del fruto. La respuesta a este proceso puede ser diferencial dependiendo del tipo de secado empleado, por tal razn en este Avance Técnico se presenta el efecto y las combinaciones del secado en la calidad del café natural. 
+
+
+Autores 
+Valentina Osorio Pérez 
+Investigador Científico I https://orcid.org/0000-0002-1166-0165 
+
+Jenny Paola Pab Usaquén 
+Asistente de Investigaci https://orcid.org/0000-0003-1576-2297 
+
+Claudia Patricia Gallego 
+Asistente de Investigaci https://orcid.org/0000-0002-1532-8055 
+Disciplina Calidad Centro Nacional de Investigaciones de Café - Cenicafé Manizales, Caldas, Colombia 
+DOI (Digital Object Identifier) https://doi.org/10.38141/10779/0557 
+Edici 
+Sandra Milena Marín Lez 
+
+Fotografías 
+Archivo Cenicafé 
+
+Diagramaci 
+Óscar Jaime Loaiza Echeverri 
+
+Imprenta 
+— 
+ISSN-0120-0178 ISSN-2145-3691 (En línea) Los trabajos suscritos por el personal técnico del Centro Nacional de Investigaciones de Café son parte de las investigaciones realizadas por la Federaci Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad. 
+Manizales, Caldas, Colombia Tel. (6) 8500707 www.cenicafe.org 
+
+
+
+Características del proceso vía seca 
+El secado es el proceso en donde se realiza una disminucin del contenido y actividad del agua (aw), logrando la conservacin y la estabilidad necesaria para el almacenamiento del grano de café. La actividad de agua puede expresarse como la disponibilidad potencial del agua para participar en reacciones bioquímicas y su valor varía de 0,0 a 1,0; alimentos con valores inferiores a 0,7 se definen como poco susceptibles para las diferentes causas de deterioro. 
+Durante el secado, en cafés lavados el contenido inicial de agua en el grano disminuye de valores entre 50% - 55% hasta 10% - 12% obteniendo el denominado café pergamino seco (cps). En los frutos de café utilizados para los cafés naturales el contenido inicial de humedad puede encontrarse en valores entre el 68% al 72% y al final del proceso el contenido es similar al del café lavado, obteniéndose el denominado café cereza seca (ccs) (Osorio et al., 2022). El proceso de secado puede realizarse de dos maneras, vía solar (aprovechando la energía solar y los gradientes de humedad del aire) y vía mecánica; para este ltimo, en Colombia los equipos más utilizados son los silos de capa estática (Parra et al., 2017). 
+El procesamiento de los frutos vía seca implica, posterior a la recoleccin del café, una clasificacin y una seleccin hidráulica para retirar los frutos defectuosos e impurezas y, posteriormente, el fruto completo es sometido al proceso de secado (Borém et al., 2008). El procedimiento de secado de cafés naturales, más ampliamente difundido consta de una primera etapa de secado solar donde se disminuye la humedad a valores comprendidos entre el 30% - 35%, seguido de una finalizacin en secado mecánico alcanzando valores finales del 13,0% de humedad (Guimarã et al., 1998). Durante el proceso de secado de capa estática (sin movimiento de la masa), se recomienda la rotacin del café a intervalos regulares de 3,0 horas, debido a que este procedimiento reduce la humedad en la masa del grano (Finzer et al., 2007). Las recomendaciones más frecuentes durante esta etapa son el uso de alturas de capa de secado inferiores a 50 cm y temperaturas del aire de secado máximo de 50°C, controlando que la temperatura de la masa no sea superior a 40°C. 
+
+Procesos y tiempos de secado 
+Durante el proceso de secado de café natural se producen cambios que se reflejan en las características de calidad del grano y de la bebida. Por esta razn, se realizaron dos investigaciones asociadas a la obtencin de cafés naturales, en las instalaciones del Beneficiadero Experimental de Cenicafé, ubicado en Manizales (Caldas) y en las cuales se utilizcafé variedad Cenicafé 1. 
+En la primera investigacin se evaluaron cinco tipos de secado hasta finalmente alcanzar una humedad entre el 10% - 12%. El primero consistien 100% secado solar (S), el segundo 100% secado mecánico (M) con capa estática y en los siguientes tres tipos de secado, se realizuna disminucin inicial del contenido de humedad, mediante secado solar finalizando con secado mecánico. De esta manera se configuraron tres tratamientos, secado solar hasta alcanzar humedades del 45% (S45M), 50% (S50M) y 55% (S55M). El testigo correspondia café procesado vía hmeda para obtener café lavado (CL) y secado mecánicamente. En los tratamientos evaluados la humedad inicial promedio del fruto correspondi a 68,9% (b.h). A partir de dicho porcentaje, el tiempo de secado promedio para el secado solar (S) fue de 19 días, con un máximo de 27 y un mínimo de 11 días, y para el café lavado (testigo) el tiempo promedio de secado fue de 4 días, siendo este tiempo diferente estadísticamente a los obtenidos en los demás tratamientos (Gallego et al., 2023). 
+La segunda investigacin tuvo como objetivo conocer el efecto del cambio del orden del tipo de secado en la calidad del café natural. Para esto se evaluaron cuatro tratamientos: secado solar 100% (S); secado mecánico 100% (M); secado solar hasta obtener un porcentaje de humedad del 40% y finalizando con secado mecánico (S40M); y café con secado mecánico hasta obtener una humedad del 40% finalizando con secado solar (M40S). Todos los tratamientos finalizaron cuando se alcanzuna humedad final del 10% al 12%. La duracin del tiempo de secado entre los tratamientos evaluados, no presentdiferencias significativas. Lo anterior estuvo asociado al empleo de una menor temperatura del aire de secado mecánico (40°C±5,0°C), lo que prolonglos tiempos de secado de los tratamientos. 
+El secado al sol con disminucin del porcentaje inicial de humedad al 40% y finalizando con secado mecánico (S40M) gastun 9,5% menos de tiempo que el secado mecánico con disminucin del porcentaje inicial de humedad al 40% finalizando con secado solar (M40S). Esta reduccin de tiempo a favor del S40M podría estar asociada a la naturaleza del proceso de secado, pues en la etapa final se necesita un mayor gradiente entre la temperatura del aire y del grano, para facilitar la migracin del agua del grano (Osorio et al., 2022). Durante la ltima etapa de secado este gradiente es mayor en el tratamiento asociado a la finalizacin con secado mecánico. En la Tabla 1 se presenta la duracin del secado para obtener café natural con una humedad del 10% al 12%. 
+
+
+Contenido de humedad y actividad de agua 
+El fruto de café iniciel proceso de secado con un contenido de humedad aproximado del 68% y con actividad de agua (aw) promedio de 0,9848, el secado finaliz una vez se alcanz un porcentaje de humedad en el rango del 10% al 12% y actividad de agua promedio de 0,5857. Después del secado, el promedio de la diferencia de humedad entre el café cereza seco (ccs) y su respectiva almendra fue de 2,2% a favor del café cereza seco, con un intervalo entre 1,3% y 3,1%. Esta diferencia en humedad se debia un mayor contenido de humedad en la cáscara seca (16,8%), cuando el café cereza seco se encontraba en el intervalo del 10% al 12% (Figura 1), explicado por la alta higroscopicidad de la cáscara debido principalmente a su contenido de pectina y azcares. 
+
+
+Tratamientos  Investigaci  Tipo de secado  Humedad inicial (%)  Tiempo (días)  
+Mínimo  Promedio  Máximo  
+100% S  Secado de cafés naturales  Solar  68,9  11  19,0  27  
+100% M  Mecánico  68,9  8  10,0  12  
+S45M  Solar y Mecánico  45,0%  9  12,0  16  
+S50M  Solar y Mecánico  50,0%  9  12,0  15  
+S55M  Solar y Mecánico  55,0%  9  12,0  16  
+Testigo (CL)  Mecánico  54,0%  3  4,0  5  
+S40M  Combinaci de los procesos de secado  Solar y Mecánico  40,0%  8  11,4  15  
+M40S  Mecánico y Solar  40,0%  9  12,6  17  
+100%S  Solar  68,9%  9  14,0  17  
+100%M  Mecánico  68,9%  5  8,6  11  
+
+Fruto: 68% - 72% CCS: 10% - 12% 
+
+
+
+
+Calidad física 
+
+Los valores de algunas variables de calidad física determinadas para el café natural, son diferentes a los recomendados para café obtenido por un proceso de lavado. El porcentaje de merma se refiere a la cantidad de pergamino que tiene el grano seco. Para este tipo de procesamiento, donde la cáscara (conocida como pulpa) queda adherida al grano de café almendra, presenta valores mayores a los que se reportan para el café lavado (Figura 2). El café lavado tiene un porcentaje promedio de merma del 18%. En general, para los cafés naturales de esta investigacin, con doble clasificacin previa al secado, se obtuvo un valor promedio de merma de 54,94%. En el caso del café natural, el color general de la muestra presentun ligero cambio en las tonalidades del verde característico del café lavado y en ocasiones se tornligeramente amarillento y/o rojizo, lo que no podría definirse como un defecto físico si no como una característica propia del proceso, debido probablemente a la migracin de antocianinas desde el exocarpio al endospermo (Puertas-Mejía et al., 2012). 
+
+Calidad sensorial 
+
+La evaluacin sensorial del café natural obtenido se realizsiguiendo el protocolo SCA (Specialty Coffee Association SCA, 2003). En la primera investigacin asociada a la obtencin de cafés naturales iniciando con secado solar y finalizando con secado mecánico, en los tratamientos S y S45M se evidenciel defecto fermento en una sola repeticin (5,5%). En los tratamientos evaluados no se presentaron diferencias en la calidad sensorial expresada como puntaje total SCA (Tabla 2). El atributo sensorial Fragancia/Aroma y sus respectivos descriptores presentaron diferencias estadísticas mediante el análisis de minería de texto (Gallego et al., 2023). 
+
+Para el tratamiento S, el descriptor que presentuna mayor frecuencia (22%) fue el frutal, que tiene una correspondencia directa con los descriptores vinosos, malta, uvas y pasas, que representan en conjunto el 60,6%. 
+.	En el tratamiento S45M el descriptor sobresaliente fue el chocolate con 16,7% y una correspondencia directa con el caramelo y frutal con un 40,1%. 
+.	Para el tratamiento S50M el principal descriptor fue frutal con una frecuencia del 11,4% con una correspondencia con arazá y manzana, que representan en conjunto el 31,4%. 
+.	En el tratamiento S55M su mayor descriptor fue caramelo con un 26,3% y sus correspondencias a miel y cereza, con un 42,1%. 
+.	El secado M el descriptor característico fue miel, con una correspondencia con pasas y uvas, que representa en conjunto el 20,5% de frecuencia. 
+.	Para el café lavado, el descriptor que se presentcon mayor frecuencia fue al 12% (Figura 1), explicado por la alta higroscopicidad de la cáscara debido principalmente a su contenido de pectina y azcares. almendra con 20% y su correspondencia directa fue con miel y dulce con un 50%. 
+
+Es importante resaltar que en los tratamientos evaluados los descriptores característicos del café procesado vía seca fueron frutales, chocolate, caramelo y miel (Figura 3). Los colores y el grosor de las líneas interpretan una correspondencia directa con los descriptores de mayor relacin. 
+En la segunda investigacin que evaluel efecto del cambio en el orden del tipo de secado de cafés naturales, las muestras de todos los tratamientos presentaron calidad sin defectos sensoriales y no se encontrincidencia de la combinacin del secado mecánico y solar en el puntaje total SCA (Tabla 2). Los atributos sabor, sabor residual, acidez, balance y cuerpo no presentaron diferencias por tratamientos; lo anterior puede ser explicado por la seleccin y clasificacin previa de la materia prima, en todos los tratamientos y a las temperaturas utilizadas, que para el caso de los que incluían secado mecánico no fueron superiores a 40°C, lo que evitdaos en el grano que se reflejaran en la calidad sensorial (Osorio et al., 2022). El atributo Fragancia/Aroma fue mayor en el tratamiento 100% secado mecánico diferenciándose estadísticamente del secado solar 100% (S). 
+
+
+Composici química 
+Los diferentes compuestos químicos del café almendra tienen incidencia en la configuracin de los atributos sensoriales de la bebida. Los cafés naturales con una disminucin inicial del contenido de humedad a valores del 45%, 50% y 55% vía secado solar finalizando con secado mecánico (S45M, S50M y S55M) no mostraron diferencias en los compuestos químicos como lípidos, ácidos grasos libres (palmítico, linoleico, oleico, esteárico y araquídico), ácidos orgánicos (acético, cítrico, láctico, málico, oxálico, quínico y tartárico), cafeína, trigonelina, teobromina, ácidos clorogénicos totales y proteína. Sin embargo, se observaron diferencias significativas por tipo de procesamiento (café lavado versus café natural), con relacin a los azcares reductores. 
+Las concentraciones promedio de glucosa fueron de 1,42 g kg-1 en los tratamientos asociados al procesamiento 
+
+Investigaci 1: Secados de café naturales  
+Tratamiento  Puntaje total SCA  
+Promedio  Desv. Est.  
+Secado de cafés naturales  
+S: 100 % Solar  83,52  1,2  
+S45M: Solar y mecánico  84,09  1,0  
+S50M: Solar y mecánico  83,90  0,9  
+S55M: Solar y mecánico  83,65  0,7  
+M: 100 % mecánico  82,92  0,8  
+CL: Café lavado  82,93  0,8  
+Investigaci 2: Combinaci de los procesos de secado  
+S: 100 % solar  82,82  0,82  
+M: 100 % mecánico  83,38  1,13  
+S40M: Solar y mecánico  82,70  1,06  
+M40S: Mecánico y solar  82,68  0,98  
+
+
+S: 100% secado solar S45%+M 
+
+S50%+M S55%+M 
+
+M: 100% secado mecánico CL: Café lavado 
+
+vía seca. Estos valores alcanzaron a triplicar los valores hallados en el tratamiento testigo de café lavado de 0,6 g kg-1. Este comportamiento se observtambién para los contenidos de fructosa, cuyos valores fueron superiores en todas las modalidades de secado de los cafés naturales, con respecto a los promedios encontrados para el café lavado (Gallego et al., 2023). De los azcares, la sacarosa es el compuesto más abundante (Koshiro et al., 2015) y acta como precursor del aroma, originando varias sustancias en el proceso de tueste, debido a las reacciones de caramelizacin que afectan el sabor y aroma de la bebida. 
+La determinacin de la composicin química para las muestras obtenidas del tipo de secado de cafés naturales, se realizmediante el método de espectroscopia de infrarrojo cercano (NIRS), estimando los contenidos de cafeína, ácidos clorogénicos totales, lípidos totales, sacarosa y trigonelina presentes en el café verde de las muestras obtenidas. El contenido del ácido graso palmítico fue mayor en el secado 100% solar (S) en comparacin con el 100% mecánico (M), disminuyendo de valores del 40,11% al 38,69%. La presencia de lípidos y de los ácidos grasos se asocia con el aroma y el cuerpo de la bebida. Los ácidos grasos tienen un papel fisiolgico fundamental, dado que constituyen y garantizan las propiedades de las membranas celulares. El palmítico se configura como uno de los ácidos grasos mayoritarios y una mayor concentracin en el secado solar podría estar asociado a la necesidad de proteccin de las membranas celulares como respuesta a condiciones de secado más fluctuantes, en comparacin con el secado mecánico donde estas son más homogéneas y constantes (Osorio et al., 2022). 
+
+
+Condiciones del proceso para la obtenci de café natural 
+Los procesos de secado solar tienen una mayor dependencia de las condiciones de clima y esto genera mayores tiempos de duracin del secado, que a su vez implican mayores áreas de secado en la finca. En Colombia, los caficultores con promedios de produccin inferiores a 2.500 kg ha-1 de cps al ao pueden realizar el secado del café lavado de manera solar. Para secar 60 kg de café lavado se requiere un área de 3,3 m2 solar (Oliveros et al., 2006). 
+Cuando se realiza el proceso para obtener cafés naturales se lleva al área de secado un peso adicional promedio de 58,2%, asociado a la pulpa y al mucílago (Osorio et al., 2022). Un estimado inicial de área de secado para obtener la misma cantidad de almendra sana proveniente de 54,9 kg de ccs es de 5,2 m2 (2,3 veces más). Esta área fue calculada realizando una correccin por densidad del fruto y por el tiempo adicional de secado, que es aproximadamente un 50% más, comparado con la duracin del secado de un café lavado, bajo las condiciones climáticas en las que se desarrollla investigacin y en el tipo de secadores solares utilizados. Con el empleo de secado mecánico, que es recomendable para la obtencin de naturales, debe garantizarse que el aire recorra toda la capa de café (invirtiendo los flujos) y que el ventilador tenga la capacidad de suministrar caudal de aire durante el secado. 
+
+
+Recomendaciones para la obtenci de cafés naturales 
+.	Clasifique los frutos de café, eliminando 
+aquellos de baja calidad. 
+.	Procese frutos 100% maduros. 
+.	Asegure la integridad de los frutos, evitando secar aquellos que no estén completos. 
+.	Durante el secado, mezcle el café para 
+contribuir a la uniformidad final del grano. 
+.	No interrumpa el proceso de secado. 
+.	Realice operaciones de seguimiento para 
+asegurar el porcentaje de humedad final 
+de grano. 
+.	Recuerde que la humedad de la almendra será menor a la humedad del café con la cáscara seca (ccs). 
+.	Para el secado solar utilice capas de secado de 2,0 cm y revuelva el café cuatro veces al día. 
+.	En el secado mecánico utilice temperaturas 
+del aire inferiores a 40°C y el caudal de aire adecuado, además invierta el flujo del aire en las capas en el secador. 
+
+
+
+
+Literatura citada 
+
+Borém, F. M., Coradi, P. C., Saath, R., & Oliveira, J. A. (2008). Qualidade do café natural e despolpado ap secagem em terreiro e com altas temperaturas. Ciência e Agrotecnologia, 32(5), 1609– 1615. https://doi.org/10.1590/S1413­
+70542008000500038 
+Finzer, J. R. D., Sfredo, M. A., Sousa, G. D. B., & Limaverde, J. R. (2007). Dispersion coefficient of coffee berries in vibrated bed dryer. Journal of Food Engineering, 79(3), 905–912. https://doi.org/10.1016/j. jfoodeng.2006.03.011 
+Gallego, C. P., Imbachí, L. C., & Osorio, V. (2023). Influencia del proceso de secado del café natural en las características 69(1), 53–62. https://doi.org/10.1006/ jaer.1997.0222 
+Oliveros, C., Ramírez, C. A., Sanz, J. R., & Peela, A. E. (2006). Secador solar de tel para café pergamino. Avances Técnicos Cenicafé, 353, 1–8. http://hdl. handle.net/10778/402 
+Osorio, V., Pab, J., Shuler, J., & Fernández-Alduenda, M. R. (2022). Efecto de la combinaci de procesos de secado en la calidad del café natural obtenido vía seca. Revista Cenicafé, 73(1), e73101. https://doi.org/10.38141/10778/73101 
+Parra, A., Roa, G., Oliveros, C. E., & Sanz, J. 
+R. (2017). Optimizaci operacional de 
+
+
+
+
+
+

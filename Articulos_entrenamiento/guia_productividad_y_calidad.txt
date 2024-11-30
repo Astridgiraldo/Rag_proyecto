@@ -1,0 +1,1705 @@
+
+
+
+COMITÉ NACIONAL 
+Ministro de Hacienda y Crédito Público José Manuel Restrepo Abondano 
+Ministro de Agricultura y Desarrollo Rural Rodolfo Enrique Zea Navarro 
+Ministro de Comercio, Industria y Turismo María Ximena Lombana Villalba 
+Director del Departamento Nacional de Planeación Luis Alberto Rodríguez Ospino 
+Representante del Gobierno en Asuntos Cafeteros Marcela Urueña Gómez 
+Período 1° enero/2019 - 31 diciembre/2022 José Eliecer Sierra Tejada (Antioquia) José Alirio Barreto Buitrago (Boyacá) Eugenio Vélez Uribe (Caldas) Danilo Reinaldo Vivas Ramos (Cauca) Juan Camilo Villazón Tafur (Cesar Guajira) Javier Bohórquez Bohórquez (Cundinamarca) Ruber Bustos Ramírez (Huila) Javier Mauricio Tovar Casas (Magdalena) Jesús Armando Benavides Portilla (Nariño) Armando Amaya Álvarez (Norte de Santander) Carlos Alberto Cardona Cardona (Quindío) Luis Miguel Ramírez Colorado (Risaralda) Héctor Santos Galvis (Santander) Luis Javier Trujillo Buitrago (Tolima) Camilo Restrepo Osorio (Valle) 
+Gerente General Roberto Vélez Vallejo 
+Gerente Administrativo y Financiero Juan Camilo Becerra Botero 
+Gerente Comercial Juan Camilo Ramos Mejía 
+Gerente Técnico Hernando Duque Orrego 
+Director Investigación Científica y Tecnológica Álvaro León Gaitán Bustamante 
+Los trabajos suscritos por el personal técnico del Centro Nacional de Investigaciones de Café son parte de las investigaciones realizadas por la Federación Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad. 
+© FNC - Cenicafé - 2021 
+Comité Editorial Cenicafé 
+Pablo Benavides M. Ph.D. Ing. Agrónomo. Entomología, Cenicafé 
+Carmenza Esther Góngora B. Ph.D. Microbióloga. Entomología, Cenicafé 
+José Ricardo Acuña Z. Ph.D. Biólogo. Fisiología Vegetal, Cenicafé 
+Diana María Molina V. Ph.D. Bacterióloga. Mejoramiento Genético, Cenicafé 
+Luis Fernando Salazar G. Ph.D. Ing. Agrónomo. Suelos, Cenicafé 
+Secretaría Técnica Comité Editorial, revisi de textos y correcci de estilo 
+Sandra Milena Marín L. M.Sc. Esp. Ing. Agrónoma. Divulgación y Transferencia, Cenicafé 
+Dise y diagramaci
+Luz Adriana Álvarez M. Manuela Valencia R. 
+Fotografías 
+Archivo Cenicafé 
+Impreso por 
+Editorial Blanecolor S.A.S. 1168.11.21 - Manizales 
+ISBN: 978-958-8490-49-6 DOI 10.38141/cenbook-0014 
+Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0) 
+Primera edición: 2016 Segunda edición: 2018 Tercera edición: 2021 
+CITACIÓN DEL LIBRO 
+Centro Nacional de Investigaciones de Café. (2021). Guía más agronomía, más productividad, más calidad (3a ed.). Cenicafé. https://doi.org/10.38141/cenbook-0014 
+
+
+
+
+
+RENTABILIDAD 
+Hernando Duque Orrego 
+
+Claudia Patricia Flórez Ramos Julio Quiroga Cardona Juan Carlos Arias Suárez 
+
+
+DEL CAFÉ EN COLOMBIA 
+Álvaro Jaramillo Robledo 
+
+prácticas clave para la producción de café en Colombia 
+Carlos Gonzalo Mejía Mejía 
+
+José Raúl Rendón Sáenz 
+
+INTERCALADOS CON CAFÉ 
+Santiago Jaramillo Cardona 
+
+Siavosh Sadeghian Khalajabadi 
+
+
+
+Siavosh Sadeghian Khalajabadi 
+
+
+
+Fernando Farfán Valencia 
+Pablo Benavides Machado Carlos Ariel Ángel Calle Carlos Alberto Rivillas Osorio 
+
+
+Luis Fernando Salazar Gutiérrez Fabio Alexis Torres Angarita 
+
+
+Aída Esther Peñuela Martínez Juan Rodrigo Sanz Uribe 
+
+
+Valentina Osorio Pérez 
+
+
+Contenido 
+
+
+Colombia ha experimentado una mejora continua en todos los indicadores de su caficultura, aumentando densidades de siembra, disminuyendo edad promedio de las plantaciones, incrementando la proporción de áreas sembradas con variedades resistentes a la roya, y adecuando los sistemas de producción a la oferta climática prevalente en las diversas zonas donde se produce café en el país. Esta evolución en la estructura de los cafetales ha traído como consecuencia un aumento en la productividad, expresada como el número de arrobas por hectárea, así como también una estabilización en los volúmenes de café producido a nivel nacional por año. 
+A pesar de tratarse de un cultivo perenne, estos cambios han sido evidentes en un plazo de tiempo muy corto. Es así como en el 2018, y de acuerdo con las áreas productivas del país, la productividad promedio nacional fue de 18,6 sacos de café verde por hectárea, equivalentes a 111,6 arrobas de café pergamino seco por hectárea al año. Para el 2020, a pesar de experimentar el efecto del fenómeno de La Niña, la productividad promedio nacional alcanzó un valor histórico de 19,4 sacos de café verde por hectárea, que correspondieron a 119 arrobas de café pergamino seco por hectárea al año. Aun así, cuando se referencian las producciones del Plan 2000 fincas, una iniciativa que acompaña a caficultores que hacen seguimiento minucioso a sus costos de producción, se aprecia que mediante la adopción de prácticas agronómicas fundamentales se pueden lograr producciones promedio de 29 sacos por hectárea, que corresponden a más de 170 arrobas de café pergamino seco por hectárea año, valores similares a los reportados en fincas de Brasil. 
+
+LA PRODUCTIVIDAD DE LA CAFICULTURA ES LA BASE DE LA RENTABILIDAD 
+Impulsando este cambio técnico está la estrategia “Más Agronomía, Más Productividad, Más Calidad” formulada desde la Gerencia Técnica de la Federación Nacional de Cafeteros, que ha enfatizado la toma de decisiones correctas basadas en conceptos agronómicos estudiados en Cenicafé y difundidos por el Servicio de Extensión de una manera consistente y homogénea, a lo largo y ancho de los departamentos cafeteros, enfocándose en estas ocho prácticas: 
+1. 
+Sembrar variedades mejoradas con resistencia durable a la roya 
+
+2. 
+Utilizar colinos de café de origen conocido 
+
+3. 
+Sembrar o renovar los cultivos en las épocas correctas 
+
+4. 
+Establecer la densidad de siembra óptima 
+
+5. 
+Definir los ciclos de renovación para mantener los cultivos jóvenes 
+
+6. 
+Conocer la acidez del suelo y corregirla para el cultivo del café 
+
+7. 
+Nutrir apropiadamente los cultivos 
+
+8. 
+Manejar la luminosidad del cultivo 
+
+
+Para reducir las brechas entre productividades actuales y las que ya se logran por parte de caficultores que adoptan las tecnologías, es prioritario seguir de manera correcta la implementación de las prácticas de la estrategia en la conformación de los sistemas de producción, entendiendo que estos sistemas funcionan como un conjunto de componentes que están unidos o relacionados por alguna forma de interacción e interdependencia, y que operan en el marco de un límite para lograr el objetivo de producir y generar ingresos para sus beneficiarios. En esa conformación es importante que cada lote de la finca sea ajustado a las condiciones de siembra y manejo agronómico que le permitan aproximarse a su potencial productivo particular. En este sentido se debe evitar que las plantas se expongan a condiciones de estrés que afecten los procesos de fotosíntesis y de formación de las cosechas. Es así como las prácticas agronicas deben enfocarse en funci de las 
+condiciones ambientales de cada región, finca o lote, de 
+manera que haya certeza de que sean las más adecuadas para el cultivo. 
+
+En la estructura de los sistemas de producción de café, las variedades cultivadas son su columna vertebral, y aunque por sí mismas ellas no están en capacidad de garantizar una productividad exitosa, son la primera y más importante decisión que debe tomar el caficultor. A pesar de que genéticamente es posible obtener incrementos en la productividad mediante el mejoramiento de variedades con mayor carga, la expresión de este potencial en un lote determinado no depende únicamente de la selección correcta por su estado fitosanitario, sino que se necesita brindarles una condición adecuada desde el establecimiento del lote y en las prácticas de manejo posteriores, es decir, desde la fase de crecimiento hasta llegar a la etapa productiva. Por estas razones, las prácticas de manejo 
+o agronicas, en conjunto, pueden llegar a tener un peso mayor en la productividad que icamente la variedad cultivada. 
+De igual manera, la calidad en taza no depende exclusivamente de la variedad, sino que resulta de la sumatoria de múltiples factores, incluyendo el clima, el manejo del cultivo, la cosecha selectiva y las buenas prácticas de beneficio del café, que finalmente se traducirá en ingresos significativos al caficultor si se acompaña de buenas productividades. 
+Siendo el café un cultivo perenne, cada decisión tiene implicaciones en el mediano y largo plazo y, por lo tanto, al examinar las opciones relacionadas con la estructura del sistema de producción, deben escogerse desde el principio las correctas, ya que enmendar errores en los lotes es difícil y muy costoso. 
+La Gerencia Técnica de la Federación Nacional de Cafeteros continúa enviando este mensaje a los caficultores de Colombia, con el objetivo de ilustrarlos para fortalecer la toma de decisiones sobre prácticas agronómicas efectivas, eficientes en sus costos, favorables para la calidad del grano y ajustadas a las diversas condiciones de cultivo en el país, que son las más importantes para promover la productividad del café y mejorar así la rentabilidad de los productores. 
+LA PRODUCTIVIDAD DE LA CAFICULTURA ES LA BASE DE LA RENTABILIDAD 
+HERNANDO DUQUE ORREGO Gerente Técnico 
+
+Flórez, C. P., Quiroga-Cardona, J., & Arias, J. C. (2021). Variedades del Café. En Centro Nacional de Investigaciones de Café, Guía más agronomía, más productividad, más calidad (3a ed., pp. 11–29). Cenicafé. https://doi.org/10.38141/10791/0014_1 
+ORCID Flórez, C. P.  https://orcid.org/0000-0003-2859-3496 Quiroga-Cardona, J.  https://orcid.org/0000-0002-2418-2318 Arias, J. C. https://orcid.org/0000-0002-5004-2423 
+
+* Ph.D. Fitomejoramiento. Claudia.Florez@cafedecolombia.com ** M.Sc. Ciencias Agrarias. Julio.Quiroga@cafedecolombia.com *** M.Sc. Ciencias Agrarias. Juan.Arias@cafedecolombia.com 
+destacan por tener en sus respectivos ambientes una productividad mayor a la variedad Castillo® General, porte intermedio, resistencia durable a la roya, tolerancia a la enfermedad de las cerezas del café (CBD) y alta calidad en taza. 
+En 2016, conscientes de los requerimientos de los caficultores colombianos, se liberó la variedad Cenicafé 1, que se caracteriza por presentar porte tipo Caturra, adaptación general a las condiciones de la zona cafetera colombiana, alta productividad, resistencia a la roya del cafeto y al CBD, y porcentaje de café supremo superior al de la Variedad Castillo®. En las progenies componentes de la variedad Cenicafé 1, el proceso de colonización y esporulación de la roya es reducido y demorado pero observable, por lo cual podrán verse niveles de afectación en el campo, pero sin que se llegue a ocasionar daño económico. 
+En 2017, teniendo presentes las evaluaciones históricas de incidencia y severidad por roya en las 48 progenies que conforman la Variedad Castillo® general y sus regionales, Cenicafé modificó su composición. De manera anticipatoria, sin que se haya presentado una afectación por la roya, Cenicafé entregó a los caficultores del país las variedades Castillo® zonales (zona Norte, zona Centro y zona Sur), que se caracterizan por presentar las mismas características agronómicas de la Variedad Castillo®, en cuanto a mayor productividad, y con un mayor nivel de resistencia contra esta enfermedad. No obstante, al igual que Cenicafé 1, en las selecciones de las variedades Castillo® zona Norte, zona Centro y zona Sur, los procesos de infección de la roya son reducidos y con tasas de esporulación lenta, pero que en el campo pueden llegar a ser visibles, sin que esto represente una afectación económica para el caficultor. 
+En términos generales, al ser una recomposición de la Variedad Castillo® y sus regionales, las variedades Castillo® zonales conservan las características agronómicas como producción, tamaño de grano, calidad en taza y porte. 
+A continuación, se describen las características de las variedades mejoradas Cenicafé 1 y las variedades Castillo® zona Norte, zona Centro y zona Sur. 
+Variedad  Progenies  Rango de producción por ciclo de cuatro cosechas (kg de café cereza/árbol)  Café supremo (%)  
+Cenicafé 1  8  16,7 – 18,6  83,7 – 85,0  
+Castillo® zona Norte  11  19,1 – 21,2  75,9 – 78,6  
+Castillo® zona Centro  11  20,2 – 22,1  73,9 – 77,0  
+Castillo® zona Sur  11  22,2 – 24,5  78,5 – 81,0  
+
+*
+ Producción experimental con una densidad de 5.000 árboles/ha. 
+
+*
+ Las variedades no superan los valores permitidos de granos vanos y caracol (<10%). 
+
+
+A continuación, se describen las áreas de influencia de las variedades Castillo® zona Norte, zona Centro y zona Sur. 
+Todas las variedades desarrolladas que hacen parte del portafolio de la FNC están al servicio de los colombianos. Son variedades compuestas, conformadas por líneas mejoradas que no presentan necesariamente similitud en su apariencia, lo que significa que en el campo pueden observarse distintos tipos de arquitectura de planta y colores de brote (verde y bronce), sin que ello constituya una limitante en el desarrollo de su potencial agronómico y productivo. 
+
+
+Cenicafé 1 
+Castillo® zona Norte  
+Departamento  Municipios de influencia  
+Bolívar  Morales, Santa Rosa del Sur.  
+Boyacá  Almeida, Berbeo, Campo Hermoso, Chinavita, Chitaraque, Garagoa, Guateque, Guayatá, Labranza Grande, Macanal, Miraflores, Moniquirá, Páez, Pachavita, Pajarito, Paya, Pisba, Rondón, San Eduardo, San José de Pare, San Luis de Gaceno, Santa María, Santana, Somondoco, Togüí, Zetaquirá.  
+Caquetá  El Doncello, El Paujil, Florencia, Montañita, Puerto Rico, San Vicente del Caguán.  
+Casanare  Chámeza, La Salina, Monterrey, Nunchía, Recetor, Sácama, Támara, Tauramena, Yopal.  
+Cesar  Aguachica, Agustín Codazzi, Becerril, Chimichagua, Chiriguaná, Curumaní, El Copey, González, La Gloria, La Jagua de Ibirico, La Paz, Manaure Balcón del Cesar, Pailitas, Pelaya, Pueblo Bello, Río de Oro, San Alberto, San Martín, Valledupar. Cáqueza, Choachí, Fómeque, Fosca, Gachalá, Gachetá, Gama, Guayabetal, Gutiérrez, Junín, Machetá, Manta, Medina, Paratebueno, Quetame, Tibiritá, Ubalá, Ubaque.  
+Cundinamarca  
+
+Continúa... 
+...continuación 
+La Guajira  Barrancas, Dibulla, El Molino, Fonseca, Hato Nuevo, La Jagua del Pilar, Riohacha, San Juan del Cesar, Urumita, Villanueva.  
+Magdalena  Aracataca, Ciénaga, Fundación, Santa Marta.  
+
+Acacias, Cubarral, Cumaral, El Castillo, El Dorado, Meta 
+Lejanías, Mesetas, Restrepo, San Juan de Arama, Villavicencio. 
+Norte de Santander Ábrego, Arboledas, Bochalema, Bucarasica, Cáchira, Cácota, Chinácota, Chitagá, Convención, Cúcuta, Cucutilla, Durania, El Carmen, El Tarra, El Zulia, Gramalote, Hacarí, Herrán, La Esperanza, La Playa, Labateca, Los Patios, Lourdes, Ocaña, Pamplona, Pamplonita, Ragonvalia, Salazar, San Calixto, San Cayetano, Santiago, Sardinata, Teorama, Toledo, Villa Caro, Villa Del Rosario. 
+
+
+Aguada, Albania, Aratoca, Barbosa, Barichara, Betulia, Bolívar, Bucaramanga, Cabrera, Capitanejo, Cepitá, Charalá, Charta, Chima, Chipatá, Confines, Contratación, Coromoro, Curití, El Carmen de Chucurí, El Guacamayo, El Peñón, El Playón, Encino, Enciso, Florián, Floridablanca, Galán, Gámbita, Girón, Guaca, Guadalupe, Guapotá, Guavatá, Güepsa, Hato, Jesús María, Jordán, La Belleza, La Paz, Landázuri, Lebrija, Los Santos, Málaga, Matanza, Mogotes, Molagavita, Ocamonte, Oiba, Onzaga, Palmas del Socorro, Páramo, Piedecuesta, Pinchote, Puente Nacional, Rionegro, San Andrés, San Benito, San Gil, San Joaquín, San José de Miranda, San Miguel, San Vicente de Chucurí, Santa Bárbara, Santa Helena del Opón, Simacota, Socorro, Suaita, Sucre, Suratá, Tona, Valle De San José, Vélez,  Villanueva, Zapatoca. 
+Continúa... 
+...continuación 
+
+Antioquia 
+Abejorral, Abriaquí, Alejandría, Amagá, Amalfi, Andes, Angelópolis, Angostura, Anorí, Anzá, Argelia, Armenia, Barbosa, Bello, Betania, Betulia, Briceño, Buriticá, Caicedo, Caldas, Campamento, Cañasgordas, Caracolí, Caramanta, Carmen de Viboral, Carolina, Cisneros, Ciudad Bolívar, Cocorná, Concepción, Concordia, Copacabana, Dabeiba, Don Matías, Ebéjico, Envigado, Fredonia, Frontino, Giraldo, Girardota, Gómez Plata, Granada, Guadalupe, Guatapé, Heliconia, Hispania, Itagüí, Ituango, Jardín, Jericó, La Ceja, La Estrella, Liborina, Maceo, Marinilla, Medellín, Montebello, Nariño, Olaya, Peñol, Peque, Pueblo Rico, Remedios, Retiro, Sabanalarga, Sabaneta, Salgar, San Andrés de Cuerquia, San Carlos, San Francisco, San Jerónimo, San Luis, San Rafael, San Roque, San Vicente, Santa Bárbara, Santa Fe de Antioquia, Santa Rosa de Osos, Santo Domingo, Sonsón, Sopetrán, Támesis, Tarso, Titiribí, Toledo, Uramita, Urrao, Valdivia, Valparaiso, Vegachí, Venecia, Yalí, Yarumal, Yolombó. 
+Briceño, Buenavista, Coper, La Victoria, Maripí, Muzo, Boyacá 
+Otanche, Pauna, Quípama, San Pablo de Borbur, Tununguá. 
+Aguadas, Anserma, Aranzazu, Belalcázar, Chinchiná, Filadelfia, La Merced, Manizales, Manzanares, Marmato, Marquetalia, Marulanda,Caldas Neira, Pácora, Palestina, Pensilvania, Riosucio, Risaralda, Salamina, Samaná, San José, Supía, Victoria, Villamaría, Viterbo. 
+
+Continúa... 
+...continuación 
+
+Albán, Anapoima, Anolaima, Apulo, Arbeláez, Beltrán, Bituima, Cabrera, Cachipay, Caparrapí, Chaguaní, El Colegio, El Peñón, Fusagasugá, Guaduas, Guayabal de Síquima, Jerusalén, La Mesa, La Palma, La Peña, La Vega, Nilo, Nimaima, Nocaima, Pacho, Paime, Pandi, Pasca, Puli, Quebrada Negra, Quipile, San Antonio del Tequendama, San Bernardo, San Cayetano, San Francisco, San Juan de Río Seco, Sasaima, Silvania, Supatá, Tena, Tibacuy, Tocaima, Topaipí, Venecia, Vergara, Vianí, Villagómez, Villeta, Viotá, Yacopí, Zipacón. 
+Armenia, Buenavista, Córdoba, Calarcá, Circasia, Quindío 
+Filandia, Génova, La Tebaida, Montenegro, Pijao, Quimbaya, Salento. 
+Apía, Balboa, Belén de Umbría, Dosquebradas, Guática, La Celia, La Virginia, Marsella, Mistrató,Risaralda Pereira, Pueblo Rico, Quinchía, Santa Rosa de Cabal, Santuario. 
+Alvarado, Anzoátegui, Armero (Guayabal), Cajamarca, Casabianca, Falan, Fresno, Herveo, Ibagué, Lérida, Tolima Líbano, Mariquita, Murillo, Palocabildo, Santa Isabel, Venadillo, Villahermosa. 
+
+Alcalá, Andalucía, Anserma Nuevo, Argelia, Bolívar, Buga, Bugalagrande, Caicedonia, Cali, Calima (El Darién), Cartago, Dágua, El Águila, El Cairo, El Cerrito, El Dovio, Florida, Ginebra, Guacarí, Jamundí, La Cumbre, La Unión, La Victoria, Obando, Palmira, Pradera, Restrepo, Riofrío, Roldanillo, San Pedro, Sevilla, Toro, Trujillo, Tuluá, Ulloa, Versalles, Vijes, Yotoco, Yumbo. 
+Continúa... 
+...continuación 
+
+Cauca 
+Huila 
+Nariño 
+Tolima 
+Almaguer, Argelia, Balboa, Bolívar, Buenos Aires, Cajibío, Caldono, Caloto, Corinto, El Tambo, Florencia, Guachené, Inzá, Jambaló, La Sierra, La Vega, Mercaderes, Miranda, Morales, Páez (Belalcázar), Patía  (El Bordo), Piendamó, Popayán, Puracé, Rosas, San Sebastián, Santander de Quilichao, Sotará (Paispamba), Suárez, Sucre, Timbío, Toribío, Totoró. 
+Acevedo, Agrado, Aipe, Algeciras, Altamira, Baraya, Campoalegre, Colombia, Elías, Garzón, Gigante, Guadalupe, Hobo, Íquira, Isnos, La Argentina, La Plata, Nátaga, Neiva, Oporapa, Paicol, Palermo, Palestina, Pital, Pitalito, Rivera, Saladoblanco, San Agustín, Santa María, Suaza, Tarqui, Tello, Teruel, Tesalia, Timaná. 
+Albán (San José), Ancuya, Arboleda (Berruecos), Buesaco, Chachagüí, Colón (Génova), Consacá, Cumbitara, El Peñol, El Rosario, El Tablón de Gómez, El Tambo, Funes, Guaitarilla, Iles, Imués, La Cruz, La Florida, La Unión, Leiva, Linares, Los Andes (Sotomayor), Mallama (Piedrancha), Pasto, Policarpa, Providencia, Ricaurte, Samaniego, San Bernardo, San Lorenzo, San Pablo, San Pedro de Cartago (Cartago), Sandoná, Santa Cruz (Guachaves), Taminango, Tangua, Túquerres, Yacuanquer. 
+Alpujarra, Ataco, Chaparral, Coyaima, Cunday, Dolores, Icononzo, Melgar, Natagaima, Ortega, Planadas, Prado, Purificación, Rioblanco, Roncesvalles, Rovira, San Antonio, San Luis, Suárez, Valle de San Juan, Villarrica. 
+
+Aporte a la rentabilidad del cultivo de lasvariedades resistentes desarrolladas por Cenicafé 
+La variedad de café hace parte de un complejo engranaje de prácticas agronómicas recomendadas para maximizar la rentabilidad del cultivo. Estas prácticas incluyen: la densidad de siembra, los ciclos de renovación, la fertilización, el sistema productivo (libre exposición/ sombra), el manejo de arvenses y el manejo fitosanitario, entre otras. 
+A continuación, se describen bajo diferentes escenarios de producción y favorabilidad para la roya, las pérdidas debidas a la no adopción de variedades de café resistentes a la enfermedad o su falta de manejo, cuando se utilizan variedades susceptibles. 
+Producción acumulada (@/ha de cps en un ciclo de cuatro cosechas)  
+Escenarios de Producción  Pérdida del potencial productivo bajo escenario climático desfavorable para la roya (23%*)  Pérdida del potencial productivo bajo escenario climático favorable para la roya: año La Niña (50%*)  
+450  $7.762.500  $16.875.000  
+600  $10.350.000  $22.500.000  
+750  $12.937.500  $28.125.000  
+900  $15.525.000  $33.750.000  
+1050  $18.112.500  $39.375.000  
+
+* Rivillas O.; C.A. Evolución de la roya del cafeto en plantaciones de café situadas en tres altitudes Informe Anual. Manizales: Cenicafé, 2015. 
+
+Sostenibilidad econica 
+A continuación, se relaciona el ahorro en los costos de producción por departamento cafetero, para los caficultores que han adoptado variedades resistentes a la roya. 
+Costo del control de la roya (ha/año)* $ 750.000  
+Departamentos  Área cultivada en café (ha)  Ahorro para el Departamento 
+Variedades resistentes  Variedades susceptibles  
+Antioquia  109.680,44  12.363,43  82,26 mil millones  
+Bolívar  1.121,53  126,16  841,15 millones  
+Boyacá  7.274,44  3.266,93  5,45 mil millones  
+Caldas  56.908,99  10.165,52  42,68 mil millones  
+Caquetá  2.988,24  1.079,76  2,24 mil millones  
+Casanare  2.430,21  391,81  1,82 mil millones  
+Cauca  75.792,95  17.532,95  56,84 mil millones  
+Cesar  18.061,18  8.522,94  13,54 mil millones  
+Chocó  120,13  50,67  90,00 millones  
+Cundinamarca  27.512,99  5.863,02  20,63 mil millones  
+Huila  100.586,57  46.688,87  75,44 mil millones  
+La Guajira  2.379,65  2.822,97  1,78 mil millones  
+Magdalena  11.863,30  7.496,15  8,90 mil millones  
+Meta  2.731,68  561,16  2,05 mil millones  
+Nariño  30.072,46  7.815,36  22,5 mil millones  
+Norte de Santander  17.275,73  6.213,06  12,96 mil millones  
+
+Continúa... ...continuación 
+Costo del control de la roya (ha/año)* $ 750.000  
+Departamentos  Área cultivada en café (ha)  Ahorro para el Departamento 
+Variedades resistentes  Variedades susceptibles  
+Putumayo  176,93  28,40  132,70 millones  
+Quindío  15.385,70  6.613,52  11,54 mil millones  
+Risaralda  39.075,95  8.165,05  29,30 mil millones  
+Santander  47.620,62  2.164,85  35,71 mil millones  
+Tolima  86.263,38  26.453,45  64,70 mil millones  
+Valle del Cauca  44.354,34  13.504,03  33,26 mil millones  
+Total Colombia  699.677,41  187.890,06  525 mil millones  
+
+* Aplicación de cyproconazole (Alto 100 SL), tres aplicaciones por año utilizando una fumigadora 
+de presión previa retenida. Fuente: Sica, junio 2018. 
+
+Recuerde que: 
+• 
+No hay variedades de café resistentes a la broca del café. 
+
+• 
+Las variedades mejoradas desarrolladas por Cenicafé, son resistentes a la enfermedad de las cerezas del café (CBD), enfermedad restringida al continente africano, pero para la cual la caficultura colombiana ya está preparada. 
+
+• 
+Los resultados de las pruebas de calidad en taza realizadas en las variedades desarrolladas por Cenicafé, indican que no existen diferencias en calidad con otras variedades de café como Típica y Borbón, reconocidas por la excelente calidad de la bebida. 
+
+• 
+La única forma de garantizar la diversidad genética responsable de la resistencia estable y duradera a la roya, es mediante la adquisición de semilla certificada en los Comités de Cafeteros o Almacenes del Café de su localidad. 
+
+• 
+Cada una de las variedades desarrolladas por Cenicafé son productos respaldados por más 20 años de investigación científica, que contribuyen a una caficultura rentable y sostenible. 
+
+
+
+
+
+
+
+
+
+Jaramillo, Á. (2021). Épocas recomendadas para la siembra del Café en Colombia. En Centro Nacional de Investigaciones de Café, Guía más agronomía, más productividad, más calidad (3a ed., pp. 31–43). Cenicafé. https://doi.org/10.38141/10791/0014_2 
+ORCID Jaramillo, Á.  https://orcid.org/0000-0002-0737-8298 
+
+* M.Sc. Agrometeorología. 
+Los patrones de distribución anual de la lluvia en las regiones cafeteras de Colombia dependen de la confluencia de los vientos Alisios del Noreste, procedentes del océano Atlántico, y de los Alisios del Sureste, que ingresan desde la Amazonía y por el océano Pacífico. 
+En los extremos geográficos de Colombia, por ejemplo, para la Sierra Nevada de Santa Marta en el Norte, y para los departamentos de Nariño y Cauca en el Sur, se presenta un período seco y un período húmedo durante el año; para latitudes mayores de 7° Norte (Zona Cafetera Norte) el período seco ocurre de diciembre a abril y el húmedo de mayo a noviembre. Para latitudes inferiores a los 3° Norte (Zona Cafetera Sur) el período seco se presenta desde junio a septiembre y el período húmedo de octubre a mayo. 
+
+En general, para latitudes entre los 3° y 7° Norte (Zona Cafetera Central) se presentan dos períodos lluviosos: abril-mayo y octubre-noviembre y dos períodos menos lluviosos febrero-marzo y julio-agosto. 
+
+Meses recomendados para la siembra del café 
+Para recomendar las épocas más favorables para la siembra del café es necesario conocer con un alto nivel de seguridad la ocurrencia de los meses secos, húmedos y muy húmedos de las diferentes zonas cafeteras. 
+Los meses recomendados para la siembra del café son al inicio del período de lluvias de la región, lo cual garantiza que el suelo tenga las condiciones de humedad adecuadas para el crecimiento de cafeto y con suficiente duración para asegurar el establecimiento de las plantas en el campo. 
+
+Departamento  Germinador (Dos meses antes del almácigo)  Almácigo (Seis meses antes de la siembra)  Siembra en el campo  
+Antioquia  Agosto o enero  Octubre o marzo  Abril o septiembre  
+Boyacá  Agosto  Octubre  Abril  
+Caldas  Agosto o enero  Octubre o marzo  Marzo o septiembre  
+Cauca  Febrero  Abril  Octubre  
+Cesar  Agosto  Octubre  Abril  
+Cundinamarca  Agosto o febrero  Octubre o abril  Marzo u octubre  
+La Guajira  Septiembre  Noviembre  Mayo  
+Huila  Febrero o agosto  Abril  Octubre  
+Magdalena  Agosto  Abril u octubre  Abril  
+Nariño  Febrero  Abril  Octubre  
+Norte de Santander  Agosto  Octubre  Abril  
+Quindío  Julio o febrero  Septiembre o abril  Marzo u octubre  
+
+Continúa... 
+...continuación 
+Departamento  Germinador (Dos meses antes del almácigo)  Almácigo (Seis meses antes de la siembra)  Siembra en el campo  
+Risaralda  Julio o febrero  Septiembre o abril  Marzo u octubre  
+Santander  Agosto  Octubre  Abril  
+Tolima  Julio o febrero  Septiembre o abril  Marzo u octubre  
+Valle del Cauca  Julio o febrero  Septiembre o abril  Marzo u octubre  
+Arauca - Casanare - Meta - Caquetá -Putumayo  Agosto  Octubre  Abril  
+
+Es de anotar que, en regiones muy secas, con períodos secos prolongados, como en Norte de Santander y Santander, la tendencia general es la ocurrencia de un período húmedo desde abril a noviembre y se recomendaría la siembra del café a finales de abril. 
+En la región cafetera Norte el período húmedo se inicia a finales de marzo y en la zona cafetera Sur a finales de septiembre, por tal razón, aunque estos meses se vean como húmedos, la recomendación para la siembra sería en abril o en octubre, respectivamente. 
+
+
+Cuando se presenta un evento de El Niño en la zona cafetera, disminuye la cantidad de lluvia en el período húmedo y se acentúa la magnitud y la duración del período seco, con aumentos de la temperatura y la radiación solar. Por lo general, estas condiciones se presentan durante el período activo de El Niño, que normalmente tiene una duración de un año, desde el inicio en mayo-junio hasta junio a julio del año siguiente. 
+Durante la mayor actividad de El Niño, especialmente para eventos de carácter moderado a fuerte, resulta de alto riesgo la siembra del café por muerte de las plantas en el campo. 
+En regiones secas, con baja precipitación (menos de 1.500 mm al año) o durante los eventos de El Niño, se recomienda utilizar sombrío transitorio en los lotes donde se va a establecer el café, sembrando leguminosas, como por ejemplo, tefrosia, guandul o crotalaria. 
+Para conservar la humedad y mejorar las propiedades físicas del suelo es recomendable el uso de coberturas en el plato del árbol. 
+Durante el evento de El Niño, especialmente en regiones de baja precipitación y durante los meses normalmente secos, no se recomienda la siembra de cultivos como fríjol o maíz. 
+En esta época pueden adelantarse las labores de zoqueo y aprovechar el material de ramas cortadas para cubrir el plato del árbol. 
+
+Ajustes en las épocas de siembra en condici de La Ni 
+Cuando se presenta un evento de La Niña, especialmente en la Zona Cafetera Central (entre los 3° y 7° Norte), aumenta la cantidad de lluvia, los períodos secos son más cortos o no se presentan y disminuyen la temperatura y la radiación solar. Por lo general, estas condiciones ocurren de manera continua durante un año o más, las cuales garantizan la disponibilidad de agua y, por tal motivo, puede sembrarse el café en las épocas recomendadas. 
+Tanto para las condiciones de El Niño como para La Niña debe  
+hacerse un seguimiento continuo en la plataforma agroclimática  
+de Cenicafé https://agroclima.cenicafe.org para evaluar su  
+comportamiento y así tener los elementos para tomar decisiones  
+seguras en las prácticas agronómicas.  
+
+
+
+
+
+
+
+
+
+Mejía, C. G. (2021). Semilla, germinadores y almácigos: Prácticas clave para la producción de café en Colombia. En Centro Nacional de Investigaciones de Café, Guía más agronomía, más productividad, más calidad (3a ed., pp. 45–61). Cenicafé. https://doi.org/10.38141/10791/0014_3 
+ORCID Mejía, C. G. https://orcid.org/0000-0002-1025-2485 
+
+Los colinos sanos de variedades mejoradas son el insumo fundamental en el sistema de producción de café y de su buena calidad depende el éxito del cultivo. 
+De la calidad de la semilla dependerá la calidad del material con el que se desarrollará el almácigo. En la actualidad, los caficultores cuentan con variedades adaptadas a las condiciones agroecológicas de la caficultura colombiana, dentro de los que se destacan la Variedad Castillo® y sus componentes Regionales, Tabi, Cenicafé 1, Castillo® zona Norte, zona Centro y zona Sur. En Colombia, es necesario establecer cafetales con variedades resistentes a la roya del cafeto, debido a que ésta es la principal enfermedad que ataca a los cafetales en el país. Por esta razón, es indispensable adquirir la semilla en los Comités de Cafeteros a través de los Almacenes del Café, debidamente empacada e identificada con un código de barras para verificar su trazabilidad. La proporción de germinación de la semilla que produce la FNC es superior al 75%, luego de los procesos de lavado y secado. 
+
+* M.Sc. Desarrollo Sostenible y Medio Ambiente. CarlosGonzalo.Mejia@cafedecolombia.com 
+
+
+Cenicafé no recomienda obtener la semilla en las fincas de los  
+productores, debido a que se pierde la diversidad genética, que es  
+clave para mantener la resistencia a la roya.  
+
+La calidad de la semilla de café depende de su viabilidad, sanidad, apariencia e identidad. Además, es necesario tener en cuenta que la semilla del café no puede almacenarse por largos períodos de tiempo. 
+Una vez se tenga la semilla es importante que se utilice en el menor tiempo posible; sin embargo, si es necesario almacenarla, debe hacerse en condiciones de temperatura ambiente, ya que los extremos de temperatura afectan al embrión. Igualmente, condiciones de humedad por encima del 35% o debajo del 11% reducen el poder germinativo de la semilla hasta un 60%, después de 5 meses de almacenamiento. El promedio de vida de una semilla de café bajo condiciones adecuadas de almacenamiento es de 6 meses. 
+Al momento de la siembra, las semillas deben estar libres de hongos, de pudriciones húmedas, y en general, tienen que exhibir un aspecto 
+de almendra sana, razón por la cual es necesario verificar tanto la etiqueta de la semilla como su apariencia física. 
+
+
+GERMINADOR 
+Un buen comienzo en el germinador mantendrá al máximo el potencial de crecimiento en las fases siguientes del cultivo, y es la base para el éxito de una inversión a largo plazo cuando se renueva el cafetal por siembra nueva. 
+Los siguientes son criterios generales para la construcci del germinador: 
+
+
+
+Luego, se ubica una capa de 20 cm de profundidad de arena fina cernida de río o de revoque, que permita que las chapolas del café dispongan del espacio apropiado para el desarrollo de sus raíces. 
+En la parte superior del germinador debe colocarse un tendido de latas de guadua a manera de tapa, para darle soporte a los costales y proteger las semillas ya germinadas de los rayos del sol. 
+El riego del germinador debe hacerse sobre los costales que cubren la tapa. Esta labor debe realizarse periódicamente, según las condiciones climáticas. Se recomienda brindar condiciones de penumbra con costales y latas de guadua al germinador y que cuando emerjan los primeros fósforos se retiren los costales y las latas de guadua paulatinamente, hasta que aparezcan las chapolas. 
+
+Durante el proceso de germinación puede presentarse la enfermedad denominada volcamiento, damping-off o mal del tallito, ocasionada por el ataque del hongo patógeno Rhizoctonia solani, el cual es habitante del suelo. 
+Para su manejo se dispone de alternativas de control biológico con el hongo Trichoderma harzianum (Tricho-D ®), o de control químico con el fungicida tiabendazol (Mertect ®) a una dosis de 10 cm3 en 2 L de agua para 1 m² de germinador, inmediatamente después de sembrada la semilla. 
+Tratamiento del germinador 
+• 
+Antes de sembrar la semilla, humedezca el sustrato del germinador y aplique el hongo Tricho-D. 
+
+• 
+Posteriormente, cubra el germinador con costales húmedos. 
+
+• 
+Después de 6 días, retire 1 cm de la capa superficial de arena del germinador. 
+
+• 
+Finalmente, distribuya la semilla en el germinador y cúbrala con la capa de arena. 
+
+
+
+
+ALMÁCIGO 
+La etapa de almácigo inicia cuando las chapolas tienen las dos hojas cotiledonares completamente extendidas. 
+No se recomienda sembrar materiales en estado de fósforo. Las chapolas que salen del germinador no deben tener síntomas de volcamiento o de cualquier otra pudrición. 
+Las chapolas del germinador deben trasplantarse por manojos para evitar la desecación. 
+En la siembra en el almácigo, las chapolas deben quedar con la raíz derecha y bien apretada dentro de la bolsa, de manera que las raíces hagan buen contacto con el suelo; esto se logra introduciendo lateralmente un palo ahoyador 
+luego de colocar la raíz, y presionando hacia el centro. El almácigo debe tener un sombrío regulado de acuerdo a las condiciones climáticas (mayor humedad por lluvia requiere menos sombrío). 
+
+
+
+
+Tama de la bolsa y edad de transplante 
+
+Almácigos con “cola de marrano“ no son adecuados para el trasplante porque las plantas adultas van a tener menor anclaje y menor capacidad de absorber nutrientes. 
+
+Nematodos: Su control debe ser preventivo. Para su manejo se recomienda la aplicación al suelo de un producto biológico basado en hongos antagonistas como Paecylomices lilacinus, Metarhizium anisopliae y Beauveria bassiana (MicosPlag®), remojando la chapola en una solución de 2 g/L antes de la siembra y aplicando 50 mL por bolsa luego de una semana de sembrada. También es posible agregar micorrizas antes de sembrar las chapolas. 
+Cochinillas de las raíces: Las raíces de las plantas en el almácigo pueden ser atacadas por cochinillas. La fuente de infestación puede ser el suelo con el que se llenan las bolsas, por lo que es necesario verificar el sitio de origen. 
+El manejo de arvenses: En los almácigos de café el manejo de arvenses puede hacerse al integrar los controles manual, cultural y químico. Las labores más recomendadas son la desyerba manual y el manejo cultural. 
+Manejo de mancha de hierro: Una adecuada nutrición reduce el ataque del hongo Cercospora coffeicola, agente causal de la mancha de hierro. El uso de micorrizas en almácigos de café es una práctica que favorece la absorción de fósforo y otros nutrientes, al tiempo que la colonización de las raíces por parte de estos hongos benéficos genera una barrera ante el ataque de patógenos del suelo, como nematodos y hongos. 
+La materia orgánica completamente descompuesta es una fuente alternativa de nutrientes para plántulas de almácigo, mezclada en proporción 3:1, tres porciones de suelo y una porción de materia orgánica. En su defecto, fertilizantes de síntesis como el fosfato diamónico (DAP), pueden utilizarse haciendo dos aplicaciones de 2,0 g/bolsa, a los 2 y 4 meses, sin sobrepasar esta cantidad, para evitar problemas de fitotoxicidad en las raíces. 
+
+
+
+Colinos descopados 
+En caso de planear el cultivo con dos tallos por sitio, una alternativa es la de cortar la yema terminal de la planta, luego de tres meses de edad y antes de que se forme la primera cruz. De esta manera, se estimula la formación de dos tallos por eje, aumentando la población de tallos por hectárea. 
+Para que las plantas en el almácigo crezcan con 
+buena calidad fitosanitaria 
+es necesario: 
+
+• 
+Utilizar suelos libres de enfermedades y plagas, verificando que las plantas existentes previamente en ese suelo estén sanas. 
+
+• 
+Sembrar solamente chapolas de café con un buen crecimiento de raíces y sin síntomas de pudrición. 
+
+• 
+Aplicar agentes de control biológico como micorrizas u hongos antagonistas. 
+
+• 
+Revisar una vez al mes el desarrollo de las plantas de café en el almácigo, haciendo muestreos de las raíces a una de cada 100 plantas. 
+
+• 
+Evitar deformaciones de las raíces cuando el crecimiento de la misma sobrepasa la profundidad de la bolsa. 
+
+• 
+Llevar al campo solo material sano, lo que garantiza el mejor desarrollo y productividad de las plantas en los ciclos de producción. 
+
+
+Si va a comprar colinos, hágalo en sitios certificados por el ICA y compre previamente una muestra del 1% al 5% de las plantas para revisar el estado de las raíces. Si alguna tiene nematodos o cochinillas, o las raíces presentan “cola de marrano“, absténgase de comprar el material. 
+
+
+
+
+
+
+
+
+
+Rendón, J. R. (2021). Densidades, edades y renovación. En Centro Nacional de Investigaciones de Café, Guía más agronomía, más productividad, más calidad (3a ed., pp. 63–79). Cenicafé. https://doi. org/10.38141/10791/0014_4 
+ORCID Rendón, J. R. https://orcid.org/0000-0002-5676-4670 
+
+La densidad de siembra del cultivo de café es un factor clave en la 
+producción que se debe definir desde la etapa de establecimiento, 
+para optimizar el uso del terreno en el sistema de producción. 
+DENSIDAD Y RENOVACIÓN DE CAFETALES 
+
+
+Densidad 
+Las variedades de porte bajo cultivadas en Colombia permiten el uso de mayores densidades de siembra comparadas con las densidades utilizadas en variedades de porte alto. Las mayores producciones obtenidas con variedades de porte bajo se han alcanzado con densidades de siembra de 10.000 plantas por hectárea y para variedades de porte alto con densidades de siembra de 5.000 plantas por hectárea. 
+Establecer altas poblaciones de plantas cuando las condiciones de variedad, suelo, clima y económicas lo favorecen, genera mayor eficiencia en el uso de los recursos. 
+Arreglo espacial
+El arreglo espacial hace referencia a la disposición de las plantas en el terreno de una forma ordenada, para facilitar las labores de manejo agronómico y promover espacio para los cultivos intercalados 
+o asociados. 
+Para obtener por ejemplo una densidad de 10.000 tallos por hectárea se pueden establecer diversos arreglos espaciales, siembras en cuadro, rectángulo, triángulo, con uno o dos tallos por sitio, así: 
+* M.Sc. Desarrollo Sostenible y Medio Ambiente. JoseR.Rendon@cafedecolombia.com 
+
+
+
+5.000 sitios con dos tallos por sitio en un arreglo al cuadrado, a una distancia de 1,44 m entre plantas y 1,44 m entre surcos. 
+En el caso de utilizar colinos de café descopados con dos tallos por sitio, las distancias de siembra se pueden ampliar, generando una reducción de costos en el establecimiento hasta del 45,2%. 
+
+Cultivos asociados o intercalados 
+La decisión de establecer cultivos asociados como plátano en barreras o cultivos intercalados como fríjol o maíz entre los surcos de café, durante la etapa de establecimiento o en las zocas, se debe determinar bajo criterios de manejo agronómico independiente para cada cultivo. 
+
+PROMEDIO ANUAL 
+
+
+Estructura de edad de los cafetales 
+¿Cuándo renovar un cafetal? 
+La duración del ciclo de producción o número de años que un cafetal puede permanecer sin renovación se determina según el número de cosechas con las que se consigue el máximo promedio de producción anual y depende a la vez de la densidad de siembra. Las características de una plantación envejecida son: excesivo crecimiento en altura de los árboles, baja producción y desplazamiento de la zona productiva del árbol hacia la punta de las ramas y hacia el tercio superior del tallo, pérdida de ramas bajeras y dificultad para realizar las prácticas de manejo del cultivo como son la cosecha y el manejo de plagas y enfermedades. 
+Curva de producci 
+AÑOS 
+Aumento de la producción Disminución de la producción 
+
+Épocas para renovar por siembras o zocas 
+Los patrones de comportamiento de la lluvia en las regiones cafeteras, asociados a los patrones de distribución de las cosechas, han permitido generar recomendaciones regionales para definir la época adecuada de siembra. 
+En general, se recomienda realizar las siembras en la época de lluvia, luego de haber finalizado la cosecha principal de la zona. 
+Las renovaciones por zoca y las podas, en regiones con cosecha principal registrada en el primer semestre del año, se deben realizar al inicio del segundo semestre; para regiones con cosecha principal en el segundo semestre, las renovaciones se deben realizar al inicio del primero, y en zonas donde la cosecha se distribuye igualmente en los dos semestres se recomienda la renovación en el semestre con menor intensidad de lluvias. 
+
+
+
+Alternativas para la renovaci de cafetales 
+A medida que el cultivo de café envejece y la competencia entre las plantas avanza, se presenta el agotamiento de la capacidad productiva de las plantas y su manejo se hace cada vez más complejo. Dentro de las prácticas de manejo del cultivo, la renovación de los cafetales a partir de diferentes métodos de poda o zoca se consideran labores de menor costo, comparadas con la renovación por siembra. 
+Elegir el tipo de renovación adecuado para cada caso y momento, depende de un correcto diagnóstico del sistema de producción establecido. Para facilitar la toma de decisiones se presentan algunas consideraciones sobre las alternativas de renovación en cafetales. 
+Renovaci por siembra 
+Con la siembra se puede ajustar el número de plantas por hectárea y el arreglo espacial con el fin de alcanzar altas producciones y facilitar el manejo del cultivo. Una buena siembra depende de la calidad del colino, una correcta preparación del terreno, corrección de la acidez del suelo, trazo adecuado, tamaño óptimo de los hoyos y buena humedad del suelo. 
+
+Condiciones de uso 
+• Cuando el objetivo es cambiar de variedad o el número de sitios perdidos en un lote es superior al 30% se recomienda la renovación por siembra. 
+Adecuación del lote y trazado para la renovación por siembra. 
+
+Poda calavera 
+Consiste en eliminar total o parcialmente las ramas, dejando 10 cm de longitud, y dejando el tallo con libre crecimiento o con poda por encima de 1,80 m. En esta poda se permite el desarrollo de todos los chupones a lo largo del tallo, con lo cual se estimula la pronta recuperación de nudos productivos en los árboles. 
+10cm 10cm 
+180cm 
+Cuando el corte de las ramas se hace dejando una longitud entre 20 y 40 cm se estimula en mayor proporción el desarrollo de ramas secundarias. Los chupones que crecen superando la altura de corte del tallo se deben eliminar. 
+
+Condiciones de uso 
+î
+ Se recomienda como alternativa para estabilizar la producción cuando la mayoría de lotes del predio han envejecido y se pretende ordenar el predio con lotes de diferentes edades. 
+
+î
+ Por el alto potencial de emisión de chupones y ramas secundarias la duración del ciclo se reduce a dos cosechas, para facilitar el manejo del cultivo. 
+
+î
+ Al finalizar el ciclo de una poda calavera se recomienda hacer renovación por zoca común. 
+
+
+
+Poda pulm 
+Consiste en cortar el tallo principal a una altura de 60 cm del suelo, dejando las ramas por debajo del corte o haciendo poda parcial de ellas, dejando una longitud entre 20 y 40 cm. 
+40cm 
+60cm 
+Los nuevos chupones que se forman en el tallo principal se deben seleccionar para dejar uno o dos chupones por sitio, según la densidad de siembra inicial. 
+
+Condiciones de uso 
+î
+ En zonas donde las condiciones de clima y suelo son limitantes para el crecimiento de la planta de café, la poda pulmón permite recuperar la producción en menor tiempo comparada con la zoca común. 
+
+î
+ La duración del ciclo es de dos cosechas como máximo. 
+
+î
+ Esta poda no se recomienda cuando los cafetales carecen de ramas en el tercio inferior del árbol. 
+
+î
+ Es una alternativa para estabilizar la producción cuando la mayoría de lotes del predio han envejecido y se pretende ordenar el predio con lotes de diferentes edades. 
+
+
+
+Zoca com 
+En la renovación por zoca común el corte del tallo se hace a 30 cm sobre el suelo; los nuevos chupones que se forman en la porción de tallo se seleccionan y se dejan uno o dos chupones por sitio, según la densidad de siembra inicial. 
+30cm 
+La zoca común facilita incrementar la densidad de tallos cuando se tienen distancias de siembra amplias dejando dos chupones por sitio o intercalando dentro del surco un sitio con uno y otro con dos chupones. 
+
+Condiciones de uso 
+î
+ En zonas donde la planta de café presenta crecimiento acelerado, este sistema garantiza la recuperación de la producción y la duración de ciclos de producción de cuatro a cinco cosechas. 
+
+î
+ Esta alternativa permite recuperar los sitios perdidos, a partir de las resiembras, y establecer cultivos intercalados durante el primer año de crecimiento de la plantación. 
+
+î
+ La zoca común se recomienda como alternativa para mantener estable la duración de los ciclos de producción. 
+
+
+
+Descope 
+El descope en cafetales se hace especialmente en variedades de porte alto como la variedad Tabi. Consiste en suspender el crecimiento del tallo principal, cuando las plantas alcanzan una altura entre 1,60 y 1,80 m, y se eliminan los chupones que se desarrollan por encima de dicha altura. El descope no es considerado un tipo de renovaci, su objetivo es dar forma a la planta. 
+ 
+El descope en almácigos de café a diferencia del descope en cafetales 
+160 - 180cm 
+en producción, consiste en eliminar la yema terminal para promover la formación de dos tallos por planta y así aumentar la densidad de tallos en la renovación por siembra. 
+
+Condiciones de uso 
+• 
+Las variedades de café de porte alto, por el tipo de crecimiento, requieren el descope para mejorar las condiciones de manejo, especialmente la cosecha. Generalmente, las plantas alcanzan la altura para descopar antes de la primera cosecha. 
+
+• 
+Cuando las plantas son descopadas y cumplen su ciclo de producción deben renovarse por zoca común, con corte a 30 cm sobre el suelo. 
+
+
+
+
+
+
+
+
+
+
+Jaramillo, S. (2021). Manejo agronómico de cultivos intercalados con café. En Centro Nacional de Investigaciones de Café, Guía más agronomía, más productividad, más calidad (3a ed., pp. 81–94). Cenicafé. https://doi.org/10.38141/10791/0014_5 
+ORCID Jaramillo, S. https://orcid.org/0000-0002-3342-995X 
+
+La práctica de sembrar cultivos intercalados en las calles del café durante la etapa de levante fortalece la seguridad alimentaria y nutricional de las familias caficultoras, y constituye una fuente de ingresos durante los meses improductivos del café. Además, genera bienes y servicios ecosistémicos que contribuyen a la sostenibilidad de la finca cafetera. 
+En el sistema intercalado, el café siempre es el cultivo principal y el cultivo transitorio es el cultivo secundario, por esta razón, el manejo agronómico de ambos debe realizarse de manera independiente para no generar competencia entre los dos cultivos. El intercalamiento de maíz y fríjol es una práctica recomendada principalmente para sistemas de libre exposición y para lotes renovados por siembra o por zoca, en donde pueden llevarse a cabo hasta dos cosechas de maíz y tres cosechas de fríjol arbustivo, durante los primeros 18 meses, antes de obtener la primera cosecha de café. 
+A continuación, se describen las principales prácticas de manejo agronómico de maíz y fríjol intercalados con café, enfocadas a lograr una mayor productividad y sostenibilidad. 
+
+Semillas y fecha de siembra 
+El material de siembra se refiere a la semilla mejorada (variedad o híbrido) de maíz o fríjol que se va a utilizar para el intercalamiento. Las semillas recomendadas por Cenicafé son previamente evaluadas en las Estaciones Experimentales del Centro para garantizar una amplia adaptabilidad de los materiales a las condiciones propias de la zona cafetera y un buen desempeño productivo bajo el sistema intercalado. 
+Como ocurre con el café, el uso de semillas genéticamente mejoradas (no transgénicos) es un factor determinante para obtener una alta productividad y calidad del cultivo intercalado. 
+* M.Sc. en Desarrollo Sostenible y Medio Ambiente santiago.jaramilloc@cafedecolombia.com 
+
+En la actualidad los caficultores colombianos pueden acceder a las nuevas semillas de maíz y fríjol de excelente comportamiento agronómico y alta calidad nutricional, que han sido desarrollados a través de convenios entre la Federación Nacional de Cafeteros de Colombia, la alianza CIAT-Bioversity y el programa HarvestPlus; un resultado de estos esfuerzos fue la liberación del primer híbrido de maíz blanco biofortificado con zinc (SGBIOH2), adaptado a las condiciones de la zona cafetera.
+
+
+
+En las Estaciones Experimentales de Cenicafé se evaluaron líneas avanzadas de fríjol arbustivo biofortificado con hierro y zinc de un alto potencial productivo que se adaptan bien al sistema intercalado con café. 
+El ajuste de la fecha de siembra de los cultivos intercalados incide directamente sobre su productividad. Esta decisión siempre debe estar soportada en la información climática de las diferentes localidades que está disponible en la 
+
+plataforma Agroclima de Cenicafé (agroclima.cenicafe.org). El 
+
+del cultivo de fríjol arbustivo cuyo ciclo es de 90 días, se recomienda ajustar la fecha de siembra para garantizar un adecuado suministro de agua durante los primeros 45 días después de emergencia (etapa vegetativa) y una alta radiación solar desde la etapa de formación de vainas hasta madurez fisiológica (etapa reproductiva), con el propósito de obtener una alta sanidad y cosechar en época seca o de menos lluvias. 
+
+Densidad de siembra y arreglos espaciales 
+Las densidades de siembra o número de plantas por hectárea de los cultivos intercalados recomendadas por Cenicafé responden a arreglos poblacionales que garantizan la máxima producción del cultivo intercalado, sin que se afecte la producción de café. Mediante un sistema de siembra de surcos dobles ubicados en el centro de las calles del café y distanciados 40 cm entre ellos, solo basta ajustar el número de plantas por metro lineal, para obtener las poblaciones recomendadas de 55.000 plantas/ha de maíz intercalado y de 
+160.000 plantas/ha de fríjol arbustivo intercalado. 
+
+
+
+Una vez definida la densidad de siembra del cultivo intercalado debe estimarse la cantidad de semilla, en kilogramos por hectárea, en función del índice de semilla del material a sembrar. Para el maíz, el índice de semilla corresponde al peso en gramos de 1.000 semillas, mientras que para el fríjol corresponde al peso en gramos de 100 
+
+
+Manejo integrado de arvenses 
+Durante la etapa de establecimiento de los cultivos intercalados en las calles del café, es necesario realizar un manejo oportuno y eficaz de las arvenses, que garantice una buena germinación del maíz/ fríjol y que disminuya la competencia por espacio, nutrientes, luz y agua. Este período crítico de competencia entre las arvenses y el cultivo intercalado ocurre durante los primeros 30 días después de la siembra, de allí la importancia de realizar controles oportunos, que eviten la interferencia y mejoren el establecimiento de las poblaciones recomendadas. 
+En lotes de café renovados por siembra o por zoca se recomienda el control mecánico en las calles del café, diez días antes de la siembra del intercalado. Un día después de sembrar el maíz o el fríjol se recomienda realizar una aplicación con pantalla (para evitar fitotoxicidad en el café), a baja presión (20 psi) de una mezcla de glifosato (1,5 L/ha) con pendimetalina (800 cc/ha), es importante aclarar que esta recomendación aplica para lotes con pendientes inferiores al 40%, ya que el uso de herbicidas pre-emergentes en las calles del café puede favorecer la erosión hídrica. Estas mezclas con productos con registro para café ofrecen excelentes controles, permitiendo tener un cultivo intercalado limpio durante los primeros 25 días y el establecimiento de coberturas de arvenses nobles después de los 30 días de la aplicación. 
+
+Un mes después de la germinación debe evaluarse el estado de crecimiento de las arvenses para definir la necesidad de controles manual-mecánicos y, una vez tanto el maíz como el fríjol han superado esta etapa crítica de competencia, las arvenses dejan de ser una limitante de la productividad. 
+
+Manejo de suelos y nutrici 
+El manejo sostenible del suelo y de la nutrición de los cultivos intercalados parte del análisis de las propiedades físicas y químicas del suelo. Los cultivos intercalados deben ser manejados mediante un enfoque de agricultura de conservación (labranza mínima), en donde se reduzca la degradación del suelo, se establezcan coberturas de arvenses nobles y se dejen los residuos vegetales sobre la superficie para proteger el suelo mientras se conserva la humedad. 
+Las propiedades químicas de los suelos de la zona cafetera son propicias para la producción rentable de cultivos intercalados, debido a los altos contenidos de materia orgánica; sin embargo, el pH ligeramente ácido de estos suelos limita la disponibilidad de algunos elementos como fósforo, potasio, magnesio y calcio, que son esenciales para el desarrollo de estos sistemas. Por esta razón, la determinación previa de la acidez del suelo, mediante el análisis químico, es fundamental para definir la necesidad de enmiendas en las calles del café (30-45 días antes de la siembra), especialmente para el cultivo del maíz. 
+Para la fertilización del  maíz y el fríjol es importante considerar los niveles de extracción de nutrientes, los contenidos determinados en el análisis de suelo y la disponibilidad de humedad de suelo. La fertilización de los cultivos intercalados debe realizarse de manera independiente a la fertilización del café para no generar competencia por nutrientes que afecte la producción de ambos. 
+Para el caso del maíz intercalado con café, la fertilizaci se lleva a cabo, así: 
+• 
+Etapa VE - 5 días después de la emergencia de las plantas, se aplica una mezcla por hectárea de 40 kg de N, 100 kg de P2O5 y 50 kg de K2O en forma de corona, evitando el contacto directo del fertilizante con los tallos tiernos. En suelos con deficiencias de magnesio, se recomienda la aplicaci de Kieserita en dosis de 15 kg/ha en el primer abonamiento. 
+
+• 
+Etapa V6 - Sexta hoja, se aplica una mezcla por hectárea de 69 kg de N y 50 kg de K2O 
+
+• 
+Etapa V10- Décima hoja, se aplican 69 kg/ha de N. 
+
+Para el caso del fríjol intercalado con café la fertilizaci se realiza así: 
+
+• 
+A los 5 días después de la emergencia se aplica una mezcla por hectárea de 20 kg de N, 15 kg de P2O5 y 20 kg de K2O al chorrillo 
+
+• 
+Después de 30 días de la emergencia se aplican 20 kg/ha de N al chorrillo en la base de los tallos del fríjol. 
+
+
+
+Nutriente  Nitrógeno  Fósforo  Potasio  Calcio  Magnesio  Azufre  
+Maíz  187  38  192  38  44  22  
+Frijol arbustivo  134  16  116  64  21  23  
+
+
+Manejo integrado de plagas 
+El manejo integrado de plagas en los cultivos intercalados se fundamenta en combinar prácticas de prevención, monitoreo y control (cultural, biológico y químico), con el objetivo de reducir los daños económicos ocasionados por las principales plagas y disminuir los riesgos para las personas y para el medioambiente. 
+El tratamiento de las semillas con insecticidas sistémicos, es una práctica recomendada para proteger a las plántulas de maíz y fríjol del ataque de insectos trozadores y tierreros, durante la emergencia, y de insectos fitófagos durante el levante (primeros 20 días); y facilitar el establecimiento de las poblaciones de insectos benéficos que actuan como controladores biológicos, ya que no se requiere la aplicación de insecticidas durante las etapas tempranas del cultivo intercalado. En el caso del maíz, el tratamiento de la semilla protege a las plántulas del ataque inicial de Dalbulus maidis (chicharrita) que es el vector de la enfermedad conocida como el complejo del achaparramiento del maíz. En el caso del fríjol, el tratamiento de la semilla reduce la incidencia de daño inicial por insectos chupadores como Bemisia tabaco (mosca blanca), Aphis gossypii (áfidos) y Empoasca kraemeri (lorito verde). 
+A medida que aumenta el área foliar de los cultivos intercalados también aumenta la presión de los insectos comedores de follaje, como es el caso de Spodoptera frugiperda (gusano cogollero del maíz) y de Epitrix sp., Diabrotica sp y Cerotoma sp. (crisomélidos del fríjol). Para realizar un manejo integrado de Spodoptera se recomienda un monitoreo frecuente, para definir el momento oportuno de control en función del número de lesiones en las hojas y su tamaño. Como una medida efectiva de control biológico de Spodoptera se recomiendan dos liberaciones de Trichogramma sp; la primera liberación en la etapa VE (5 días después de emergencia) y la segunda liberación en la etapa V4 (cuarta hoja), a razón de 50 pulgadas por hectárea en cada una. El uso de insecticidas biológicos a base de Bacillus thurigensis subsp kurstaki, son una excelente alternativa para el manejo de gusano cogollero y ofrecen una efectividad muy similar a los controles obtenidos con insecticidas como el clorpirifos. 
+
+Manejo integrado de enfermedades 
+La sanidad de los cultivos intercalados con café es un requisito indispensable para lograr una mayor productividad y calidad. El manejo integrado de enfermedades incluye el uso de semilla certificada mejorada, con buena adaptación a las condiciones particulares de las distintas localidades, el ajuste de la densidad de siembra para establecer las poblaciones recomendadas por Cenicafé para el sistema intercalado, y el conocimiento de las diferentes enfermedades a través del ciclo del cultivo como de los factores que pueden favorecer la proliferación de enfermedades (condiciones de suelo, fecha de siembra, manejo del nitrógeno, estado de crecimiento de las arvenses, factores ambientales, manejo de residuos de cosecha, entre otros). 
+Las semillas de maíz (híbridos o variedades) recomendadas para el sistema intercalado con café deben presentar tolerancia a las principales enfermedades fungosas de la zona cafetera como es el caso de Helminthosporium sp. (quemazón), Cercospora sp. (mancha gris), Phyllacora maydis (mancha de asfalto), Puccinia polysora (roya), Physoderma sp. (mancha café o peca). Para el caso del fríjol se recomienda la siembra de variedades con tolerancia a enfermedades como pudriciones radiculares ocasionadas por hongos del suelo como Fusarium oxysporum, Rhizoctonia solani, Macrophomina phaseolina y Pythium spp; y enfermedades foliares como Thanatephorus cucumeris (mustia hilachosa), Colletotrichum lindemuthianum (antracnosis), Phaeoisariopsis griseola (mancha angular), Uromyces appendiculatus (roya), Sclerotinia sclerotiorum (moho blanco), Xanthomonas campestris pv. phaseoli (bacteriosis) y virus del mosaico común del fríjol (BCMV). Las estrategias de manejo integrado de las diferentes enfermedades de los cultivos intercalados deben estar soportadas en el monitoreo constante y en las recomendaciones sugeridas por el servicio de Extensión. 
+
+Cosecha 
+Existen varios indicadores que puede usar el caficultor al determinar el momento oportuno para cosechar el maíz y el fríjol intercalado. La humedad de grano es la medida más usada para definir cuándo cosechar, consiste en tomar muestras de granos a los que se les determina su humedad con la ayuda de un medidor. Para el caso del maíz, el rango de humedad de grano para cosecha oscila entre 20%­25% de humedad, mientras que para el fríjol la humedad de cosecha es del 20%. 
+Otra forma para determinar el punto de madurez de cosecha son los días después de siembra. El ciclo de un material se refiere al tiempo que transcurre desde la siembra hasta la cosecha de grano seco, y depende de factores genéticos y ambientales. 
+Para la zona cafetera colombiana se recomiendan cultivares de maíz cuyo ciclo oscila entre los 145 a 160 días y cultivares de fríjol cuyo ciclo es de 90 días. Si el propósito de la producción de maíz es la comercialización de mazorcas tiernas (choclo), la cosecha manual debe realizarse cerca de los 90 días después de siembra en estado de grano lechoso. 
+Los cambios en la apariencia del grano también se utilizan como método empírico, comúnmente utilizado por los agricultores para determinar el momento de la cosecha. Para el caso del maíz , la desaparición de la línea de leche y la aparición del punto negro en los granos son indicadores de madurez fisiológica. 
+
+
+Poscosecha 
+Después de la cosecha, tanto al maíz como al fríjol se les realizan seis prácticas de beneficio que incluyen: desgrane, pre-secado, limpieza, secado, empaque y almacenamiento. 
+El desgrane de las mazorcas de maíz puede realizarse de manera manual o con desgranadora mecánica, mientras que el desgrane del fríjol puede realizarse mediante un golpeo mecánico con palos de madera (aporreo de vainas secas), sobre una lona o con la ayuda de una desgranadora mecánica. 
+El pre-secado se realiza para disminuir la humedad y para facilitar la remoción de impurezas de la masa recolectada. 
+La limpieza de grano consiste en una separación física de las impurezas (tusa, afrecho, gavilla, semillas de arvenses) por medio de una corriente de aire suministrada por un ventilador. 
+El secado de los granos de maíz o fríjol puede realizarse en secadores parabólicos hasta que la masa de grano presente una humedad cercana al 14%. Mientras que el gradiente de secado del maíz en un secador parabólico disminuye aproximadamente un 1% de humedad por día, el fríjol solo necesita de uno a dos días para bajar de 20% a 14%. Una vez los granos presenten una humedad inferior al 16% de humedad pueden empacarse en costales de fibra y almacenarse sobre estibas de madera en un lugar fresco y seco. 
+
+
+CULTIVOS INTERCALADOS 
+
+
+Una de las limitantes comunes para la producción de café en muchas regiones de Colombia es la acidez. Cuando las raíces del café se desarrollan en suelos ácidos su crecimiento es menor, son menos eficientes en la absorción de agua y nutrientes, y por lo tanto, las plantas son menos productivas. 
+
+cual ayuda a definir la dosis y la fuente de la enmienda (principalmente cales) para cada etapa del cultivo. 
+• La alternativa más efectiva para enfrentar este problema es el uso de cales, principalmente carbonatos de calcio y/o de magnesio. 
+
+Sadeghian, S. (2021). Acidez del suelo para el cultivo de café. En Centro Nacional de Investigaciones de Café, Guía más agronomía, más productividad, más calidad (3a ed., pp. 95–99). Cenicafé. https://doi. org/10.38141/10791/0014_6 
+ORCID Sadeghian, S. https://orcid.org/0000-0003-1266-0885 
+
+* Ph.D. Ciencias Agropecuarias. Siavosh.Sadeghian@cafedecolombia.com 
+• Como la cal no es soluble su efectividad está dada por la forma de su aplicación. Es mucho más eficaz si se incorpora al suelo, práctica que solo puede efectuarse al momento de la siembra, de lo contrario pueden ocasionarse daños a las raíces. 
+Suelo ácido para café Suelo con acidez adecuada para café 
+
+* Coloide órgano-mineral (arcilla y/o materia orgánica del suelo) 
+Menor capacidad de intercambio catiónico-CIC Mayor capacidad de intercambio catiónico-CIC Menor disponibilidad de 
+Mayor disponibilidad de Mayor toxicidad por Menor toxicidad por Menor crecimiento radical Mayor crecimiento radical Mayores pérdidas por lixiviación Menores pérdidas por lixiviación 
+
+
+
+Calcio 
+Magnesio 
+Potasio 
+Aluminio 
+• 
+Cuando la cal no se mezcla de manera homogénea con el suelo antes de la siembra, se forman capas o costras de cal que no son efectivas. Esto también sucede al espolvorear el producto a las paredes del hoyo. 
+
+• 
+El efecto de las aplicaciones superficiales se limita a los primeros 5 ó 10 cm; sin embargo, se espera que las aplicaciones continuadas tengan efecto en mayores profundidades. 
+
+• 
+Después de la siembra es necesario esparcir la cal de manera homogénea en la zona de raíces (el plato del árbol). Si el cultivo no ha alcanzado su máximo desarrollo, el área de aplicación debe ampliarse, teniendo en cuenta el crecimiento futuro. 
+
+• 
+Es necesario retirar la mayor cantidad de hojarasca antes de encalar. El exceso de la hojarasca afecta la uniformidad de la aplicación de la cal. 
+
+• 
+Cantidades de cal menores a las requeridas son menos efectivas y el sobre-encalamiento afecta negativamente el crecimiento de las plantas, generando deficiencias de algunos elementos, principalmente de hierro, lo que se conoce como clorosis calcárea. 
+
+• 
+Se sugiere llevar a cabo el encalamiento aproximadamente 2 meses antes o después de fertilizar sin fraccionar la dosis. Esta labor puede realizarse tanto en épocas de lluvia como secas. 
+
+
+En muchas regiones de Colombia la producción de café se afecta por la acidez del suelo. Tome las muestras de suelo para identificar y manejar los problemas de acidez. 
+
+
+Sadeghian, S. (2021). Nutrición de cafetales. En Centro Nacional de Investigaciones de Café, Guía más agronomía, más productividad, más calidad (3a ed., pp. 101–115). Cenicafé. https://doi. org/10.38141/10791/0014_7 
+ORCID Sadeghian, S. https://orcid.org/0000-0003-1266-0885 
+
+Para obtener altas producciones es necesario que las plantas formen primero suficientes raíces, tallos, ramas y hojas; órganos que también demandan nutrientes, y sin los cuales sería imposible lograr este 
+propósito. 
+
+
+
+
+Fertilidad del suelo 
+El suelo constituye el principal reservorio de los elementos minerales requeridos; sin embargo, la mayoría de las veces sus contenidos no son del todo suficientes, de allí la importancia de realizar acciones que permitan incrementar y mantener la fertilidad del suelo, mediante la aplicación de 
+
+abonos y enmiendas. Cuando no se llevan a cabo prácticas adecuadas de fertilización la producción se reduce en más de 40% y en ocasiones hasta 80%. 
+
+
+Análisis de suelo 
+Para conocer la fertilidad del suelo y definir planes adecuados de nutrición es indispensable disponer de los resultados del análisis de suelo, herramienta que ayuda a reducir los riesgos económicos y ambientales. Para que el análisis de suelo tenga validez las muestras deben tomarse de manera adecuada y representativa de todo el lote, contar con un laboratorio confiable, interpretar los resultados correctamente y seguir las recomendaciones específicas para cada caso. El análisis de suelo también identifica el grado de la acidez y ayuda a definir las dosis y fuentes de enmiendas (cales) para la corrección del problema. 
+
+
+
+Fertilizaci en la etapa de almácigo 
+Contar con un almácigo vigoroso es el primer paso para el establecimiento exitoso de cafetales productivos y su permanencia en el campo; de allí la necesidad de llevar a cabo labores que contribuyan en su obtención, entre las cuales la nutrición ocupa un lugar importante. Para esta etapa resulta beneficiosa la mezcla de suelo y abonos orgánicos bien descompuestos (principalmente pulpa de café, lombrinaza, gallinaza y pollinaza), así como la adición de fósforo en forma de DAP y el encalamiento en suelos ácidos. La aplicación de fertilizantes vía foliar no ha tenido efectos en el crecimiento de las plantas. 
+
+
+Fertilizaci en la etapa de levante 
+Antes de sembrar el colino en el campo deben realizarse las adecuaciones necesarias para mejorar las características físicas, químicas y biológicas del suelo mediante la aplicación de enmiendas, como abonos orgánicos y cales. Durante esta etapa, el nitrógeno es el elemento de mayor requerimiento y, por lo tanto, debe incluirse en todas las aplicaciones, pues de lo contrario la producción de la primera cosecha puede reducirse en 40%. El suministro de fósforo, potasio y magnesio puede quedar sujeto a los resultados de los análisis de suelos. 
+
+En un plan general de fertilización (sin análisis de suelo), pueden suministrarse las siguientes cantidades de nutrientes durante los primeros 18 meses después de la siembra: nitrógeno 60 g/planta, fósforo-P2O5 15 g/planta, potasio-K2O 15 g/planta, magnesio-MgO 5 g/planta. En el caso de contar con un análisis de suelo, será posible reducir las anteriores dosis, las cuales pueden distribuirse en tres o cuatro aplicaciones al año, de acuerdo a la cantidad y distribución de la lluvia. 
+
+
+Fertilizaci en la etapa de producci 
+El nitrógeno se considera el nutriente más limitante de la producción, pues cuando se excluye de los planes de fertilización, el rendimiento puede reducirse hasta en 80%. El potasio ocupa el segundo lugar y en suelos deficientes pueden presentarse reducciones de la producción cercanas al 30%. La respuesta al suministro de fósforo es ocasional y de baja magnitud, con una reducción en el rendimiento cuando los niveles de éste en el suelo son bajos. Es común observar deficiencias de magnesio en las hojas de las ramas productivas a medida que avanza el desarrollo de los frutos, pese a ello, las cantidades requeridas de este elemento no son altas. Rara vez se 
+
+detectan síntomas de la deficiencia de azufre en las diferentes regiones cafeteras del país, y en cuanto a la respuesta a la fertilización se refiere, las cantidades requeridas se asemejan a las del fósforo y magnesio. Dada la poca ocurrencia de deficiencias de elementos menores 
+en la mayoría de las regiones cafeteras del país, actualmente no se sugiere incluirlos de manera general en los planes de fertilización. 
+En general, mediante el suministro de las siguientes cantidades de nutrientes logran cubrirse las necesidades de los cafetales tecnificados con altas densidades de siembra y bajo nivel de sombra: 300 kg/ha/ año de nitrógeno-N, 260 kg/ha/año de potasio-K2O y 50 kg/ha/año de fósforo-P2O5, 50 kg/ha/año de magnesio-MgO y 50 kg/ha/año de azufre-S. Estas cantidades pueden ajustarse con base en el análisis de suelo, la información acerca de la densidad de plantas por hectárea y el nivel de sombra. 
+Puede distribuirse la dosis total normalmente en dos aplicaciones al  
+año, pero excepcionalmente en tres, teniendo en cuenta la cantidad y  
+las propiedades del fertilizante, así como el régimen de la lluvia.  
+
+
+Todo plan de fertilización, bien sea en el levante o la producción, está sujeto a la lluvia, dado que el agua además de disolver los fertilizantes, es el insumo indispensable para la absorción de los nutrientes desde la solución del suelo. Esta condición prevalece por encima de las épocas de mayor demanda nutricional por la planta 
+
+realizarse en verano. 
+
+En el mercado nacional existe una amplia gama de fuentes. Al momento de escoger, los factores más determinantes son: los requerimientos del cultivo, la calidad del producto (contenido y aporte nutricional, solubilidad, granulometría, efecto sobre el suelo, concentración de elementos tóxicos y consistencia del gránulo, entre otros) y el costo por hectárea. Se ha demostrado que los fertilizantes obtenidos mediante mezcla física generan resultados similares en producción y calidad del grano que los complejos granulados. 
+Para la mayoría de las regiones del país, mediante el suministro de las siguientes cantidades de nutrientes logran cubrirse las necesidades de los cafetales tecnificados con altas densidades de siembra y bajo nivel de sombra: 300 kg/ha/año de nitrógeno-N, 260 kg/ha/año de potasio-K2O y 50 kg/ha/año de fósforo-P2O5, 40 kg/ha/año de magnesio-MgO y 50 kg/ha/año de azufre-S. En concordancia con las dosis recomendadas, una relación adecuada entre nitrógeno, fósforo, potasio, magnesio y azufre sería de 6,0:1,0:5,2:0,8:1,0. 
+Las cantidades mencionadas pueden suministrarse mediante diferentes fertilizantes. Una opción sería a partir de la mezcla de 630 kg/ha/año de urea (46-0-0), 100 kg/ha/año de fosfato mono amónico-MAP (10-50-0), 352 kg/ha/año de cloruro de potasio-KCl (0-0-60) y 222 kg/ha/año de sulfato doble de magnesio y potasio [0-0-22-18(MgO)-22(S)]. La cantidad total de la anterior mezcla, es decir, 1.304 kg, estaría conformada en el 22% por nitrógeno-N, 4% por fósforo-P2O5, 20% por potasio-K2O, 3% por magnesio-MgO y 4% de azufre-S; por lo tanto, el grado que se genera es aproximadamente 22-4-20-3(MgO)-4(S). 
+Cuando no se requiera de magnesio o azufre, se podrán mezclar 630 kg/ha/año de urea, 100 kg/ha/año de MAP (10-50-0) y 433 kg/ha/ año de KCl (0-0-60); en este caso, el grado que se obtiene corresponde a 26-4-22 y la cantidad total a 1.164 kg/ha/año. 
+Es conveniente recalcar que las dosis sugeridas de los nutrientes pueden ajustarse con base en el análisis de suelo, la información acerca de la densidad de plantas por hectárea y el nivel de sombra. 
+
+108 
+109 
+110 
+111 
+112 
+113 
+114 
+115 
+Farfán-Valencia, F. (2021). Caficultura bajo sombrío. En Centro Nacional de Investigaciones de Café, Guía más agronomía, más productividad, más calidad (3a ed., pp. 117 131). Cenicafé. https://doi. org/10.38141/10791/0014_8 
+ORCID Farfán-Valencia, F.  https://orcid.org/0000-0003-0976-8828  
+
+En las zonas cafeteras de Colombia se produce el café a libre exposición solar o bajo sombrío, la decisión de establecer uno u otro depende de las características climáticas y de suelos. 
+
+CULTIVOS AL SOL CULTIVOS BAJO SOMBRÍO 
+Clima 
+Suelos 
+Clima 
+Suelos 
+• 
+Temperaturas mayores a 22 ºC 
+
+• 
+Brillo solar anual mayor a 1.800 horas 
+
+• 
+Baja nubosidad 
+
+• 
+Lluvia anual menor a 1.200 mm 
+
+• 
+Altitud menor a 1.200 m 
+
+• 
+Deficiencias hídricas 
+
+• 
+Limitaciones nutricionales 
+
+• 
+Susceptibles a la erosión 
+
+• 
+Baja retención de humedad 
+
+• 
+Temperaturas entre 19 y 22 ºC 
+
+• 
+Brillo solar anual entre 1.500 y 
+
+1.800 horas 
+
+• 
+Alta nubosidad 
+
+• 
+Lluvia anual entre 1.800 y 2.000 mm 
+
+• 
+Altitud entre 1.200 y 1.800 m 
+
+• 
+Sin deficiencias hídricas 
+
+• 
+Sin limitaciones nutricionales 
+
+• 
+No susceptibles a la erosión 
+
+• 
+Alta retención de humedad 
+
+
+
+
+Caficultura bajo sombra o Sistema agroforestal con café
+
+
+(SAF) 
+Debe establecerse caficultura con sombra si los cultivos son afectados por las altas temperaturas, si en las regiones se presenta una reducción en las lluvias por largos períodos de tiempo, si se presenta falta de agua en el suelo, o si hay incremento en la radiación solar; alguno de estos factores o todos en su conjunto afectan marcadamente el desarrollo de la plantación, el desarrollo y formación del grano, y finalmente, la producción. 
+
+
+Sistema de producci con café a libre exposici solar 
+Estos cultivos pueden establecerse en zonas con suelos de buenas características físicas y de fertilidad, y una apropiada disponibilidad de energía solar y de agua (regímenes de lluvia suficiente para las necesidades del cafeto y muy buena distribución durante todo el año). 
+
+El árbol como acondicionador del sitio de siembra del café: El árbol puede reducir cerca del 20% el número de horas del brillo solar anual, cuando estas superan las 1.800 horas requeridas para un desarrollo vegetativo y productivo del café. 
+Si en el sitio de establecimiento del cultivo la temperatura máxima supera los 22°C, con los árboles ésta logra reducirse en un 20%. Adicionalmente, los árboles de sombra proveen gran cantidad de hojarasca o cobertura vegetal muerta, y la acción conjunta de la sombra y la cobertura vegetal ayuda a conservar la humedad del suelo en épocas de menor disponibilidad hídrica. 
+Al comparar los requerimientos de los factores climáticos necesarios para el establecimiento del cultivo del café a libre exposición solar, con los requeridos para el cultivo del café bajo sombrío, se concluye que los árboles son acondicionadores de los sitios de siembra del café en regiones donde se presentan condiciones adversas para su cultivo. 
+Si se determinó que el sistema de producción a establecer es bajo sombrío, deben tenerse en cuenta los siguientes aspectos: 
+Sombrío transitorio: Se acostumbra establecer sombrío en los cafetales durante los primeros años de establecimiento del cultivo con plantas de corta duración, formando lo que se llama “sombrío transitorio”; posteriormente se establece el sombrío permanente. 
+Las especies empleadas como sombrío transitorio deben ser de rápido crecimiento y de una vida entre 2 y 4 años, tiempo después del cual el sombrío permanente debe estar cumpliendo su función. Las especies para el sombrío transitorio, además de dar sombra en la fase de establecimiento, deben proteger el cultivo de condiciones climáticas adversas, conservar el suelo, ser fáciles de eliminar al final del ciclo y su distribución en el campo no debe afectar el trazado y siembra del café. 
+Como sombrío transitorio pueden establecerse tefrosia, guandul y  
+crotalaria, en densidades de siembra cercanas a las 10.000 plantas  
+por hectárea, sembrado entre las calles del café.  
+
+Densidad de siembra del café: Los cultivos de café con sombrío pueden establecerse en altas densidades de siembra, hasta 8.000 plantas/ha con variedades de porte medio como Variedad Castillo® o Castillo® zona Norte, Centro o Sur, o de porte bajo como Cenicafé 1, y hasta 5.000 plantas/ha con variedades de porte alto como variedad Tabi, siempre que se implemente una eficiente administración del sistema de producción, en cuanto a la fertilización oportuna según los resultados de análisis de suelos, ciclos de renovación cortos, manejo adecuado de los árboles de sombrío y nivel de sombrío apropiado según el número de horas de brillo solar anual, entre otros aspectos. 
+Densidad de siembra de los árboles de sombrío: La densidad de siembra de los árboles a emplear como sombrío no debe ser superior a 70 árboles/ha, es decir, sembrados a 12,0 m x 12,0 m, si el café se establece a densidades superiores a 5.000 plantas/ha. 
+Porcentaje de sombra para el cultivo: El sombrío para un cafetal, sin que disminuya su producción, debe tener una cobertura máxima del 45%, ya que los componentes del sombrío están constituidos por el sombrío natural debido a la nubosidad de la región y al sombrío de los árboles; es así como para cada región específica existe un porcentaje máximo de sombra a mantener en el cultivo, el cual está determinado por el número de horas de brillo solar al año. En términos generales, el máximo sombrío para el café (45%) se establecería para una región con un brillo solar de 2.300 horas por año. 
+
+Especies empleadas como sombrío: Entre las especies comunes y recomendadas por la Federación Nacional de Cafeteros como 
+
+Manejo de los árboles de sombrío: Un buen manejo agronómico del cultivo asegura las condiciones apropiadas para el desarrollo del cafetal y, consecuentemente, influye en una mayor productividad. La regulación de sombra constituye una labor cultural indispensable para mejorar la capacidad productiva de las plantaciones. 
+Los cafetales cultivados bajo sombrío excesivo no responden a la aplicación de fertilizantes, entonces si se espera que el café responda a la fertilización y, por ende, genere incrementos sustanciales en la producción, debe manejarse la densidad del sombrío en la plantación, mediante podas de los árboles que permitan la circulación de aire y una mayor penetración de la luz. 
+Para los guamos establecidos a 12,0 x 12,0 m la regulación del  
+sombrío debe iniciarse entre los 3,5 y los 4,0 años; para el cámbulo y  
+el písamo entre los 5,5 y 6,0 años; para el carbonero a los 3,0 años y  
+para el nogal cafetero a los 3,5 años de establecido.  
+
+
+Fertilizaci del café: El plan de fertilización debe basarse en los resultados de los análisis de suelos, teniendo en cuenta los siguientes pasos: Debe tenerse en cuenta que bajo un sombrío excesivo del cultivo, superior al 55%, éste no responde a la fertilización; por lo tanto, se pierde el fertilizante y la mano de obra empleada para su aplicación. En este sentido, inicialmente debe regularse el sombrío hasta porcentajes adecuados para la zona y aplicar sólo el 75% de la dosis de fertilizante recomendado en el análisis de suelos. 
+
+
+Renovaci del cafetal: La planta de café es perenne y se considera que alcanza su crecimiento y productividad máxima entre los 6 y 8 años de edad; después la planta se envejece paulatinamente y su productividad disminuye a niveles de poca rentabilidad. El ritmo de envejecimiento depende de la calidad del sitio, la densidad de siembra, la intensidad de la producción, la disponibilidad de nutrimentos, la presencia de plagas y enfermedades o del estrés ambiental, entre otros. Por estas razones, el cultivo del café requiere de renovaciones periódicas y programadas de los árboles después de que alcanzan su pleno desarrollo, si se quiere mantener un promedio de producción por unidad de superficie alto y rentable. 
+Para densidades de siembra del café de porte bajo superiores a 
+5.500 plantas/ha y con el sombrío establecido con 70 árboles/ha, el ciclo para su renovación debe ser entre la quinta y sexta cosecha. Si las densidades de siembra del café son inferiores a 4.500 plantas/ha y las del sombrío superior a 123 árboles/ha (9,0 m x 9,0 m) los ciclos de renovación pueden prolongarse por una cosecha más. 
+Para variedades de porte alto, como Tabi, y altas densidades de siembra (5.000 plantas/ha), los ciclos de renovación deberán ser entre la quinta y sexta cosecha. 
+La época de renovación está estrechamente relacionada con los períodos de cosecha del café; en Colombia se produce café durante todo el año. Se dan dos cosechas, una de mayor volumen denominada “cosecha principal” y otra llamada “traviesa o mitaca”, por lo tanto, la renovación deberá iniciarse una vez terminada la cosecha principal o en la época más seca del año si se va a hacer el zoqueo o en la época de lluvias si se va a hacer siembra nueva. 
+Cultivos intercalados: En caficultura bajo sombra sólo es posible intercalar cultivos como plátano, maíz o fríjol, en nuevas siembras de café y del sombrío; si el café se renueva por siembra o por zoqueo con el sombrío ya establecido (superior a 3 ó 5 años), no es conveniente intercalar cultivos transitorios, pues cultivos como los mencionados no tienen un buen desarrollo bajo sombra. 
+
+
+Consideraciones importantes 
+• 
+La sombra no es universalmente benéfica, pero tampoco es detrimental para la producción del café, siempre que se establezca donde el cultivo lo exija. 
+
+• 
+La introducción de árboles en los cultivos no debe ocasionar perdidas económicas, sociales o ambientales. 
+
+• 
+Con el árbol de sombra se pretende acondicionar el sitio de siembra del café. 
+
+• 
+Los ciclos de renovación del café bajo sombrío son similares a los ciclos en caficultura al sol. 
+
+• 
+El árbol de sombra para el café debe ser de especies leguminosas, y debe permanecer acompañando el cultivo durante todo el ciclo de vida del cultivo, aproximadamente 20 años. 
+
+• 
+Para el sombrío, deben seleccionarse los árboles que mejor se adapten a las condiciones locales. 
+
+• 
+El sombrío excesivo afecta negativamente la producción del café, incrementa la humedad dentro del cultivo y disminuye la temperatura, lo cual crea un ambiente favorable para la aparición de enfermedades, especialmente en épocas de lluvias. 
+
+• 
+La sombra no afecta los patrones de distribución de las cosechas. 
+
+• 
+Es fundamental determinar el porcentaje de sombra máximo que el cultivo requiere, según la ubicación de la finca. 
+
+• 
+Los sistemas de producción de café con sombra atenúan los efectos de las variaciones climáticas como protección del cultivo en épocas secas o en períodos de altas radiación solar y temperatura, reducen los efectos que los períodos de déficit hídrico imponen sobre la producción, mantienen la fertilidad del suelo, reducen la erosión, reciclan nutrimentos y aportan materia orgánica, entre otros. 
+
+
+
+CAFICULTURA BAJO SOMBRÍO 
+CAFICULTURA BAJO SOMBRÍO 
+
+
+
+
+Benavides Machado, P., Ángel, C. A., & Rivillas, C. A. (2021). Sanidad vegetal. En Centro Nacional de Investigaciones de Café, Guía más agronomía, más productividad, más calidad (3a ed., pp. 133–178). Cenicafé. https://doi.org/10.38141/10791/0014_9 
+ORCID Benavides Machado, P.  https://orcid.org/0000-0003-2227-4232 Ángel, C. A. https://orcid.org/0000-0003-4312-1390 Rivillas, C. A. 
+
+PLAGAS DEL CAFÉ 
+
+
+
+a. Con el fin de mantener una producción constante y controlar la broca en cafetales jóvenes, establezca un programa de renovación. En zonas críticas para el ataque de la broca, donde las temperaturas promedio superan los 21°C, siembre los cafetales en densidades altas, pero deje una calle amplia entre surcos, para permitir la recolección oportuna y las aplicaciones de insecticidas químicos o biológicos. 
+
+b. En la renovación de cafetales evite la dispersión de la broca, ya que es cuando mayor cantidad de hembras adultas vuelan. Realice la renovación una vez culmine la cosecha principal; haga la cosecha sanitaria (recolección de todos los frutos verdes, maduros y secos) usando guantes; seque el café en silos o marquesinas; deje árboles trampa y evalúe la infestación en los lotes vecinos para tomar decisiones de aplicar insecticidas químicos o biológicos. 
+
+c. Controle la broca en los cafetales en producción. Una vez la broca llega proveniente de cafetales vecinos renovados, se desarrolla, reproduce y vuela dentro del cafetal. Realice el Re-Re (Recolección oportuna y Repases), cosechando oportunamente los frutos maduros en el cafetal y con el repase después de cada cosecha. Recuerde que el control cultural (Re-Re) es la estrategia que más contribuye a disminuir la broca del café. 
+
+d. Determine el período crítico de la broca, en las zonas cafeteras con dos cosechas al año, empieza a los 120 días después de las floraciones principales, en zonas con una sola cosecha al año, empieza a los 90 días. 
+
+
+
+
+Durante el período crítico, evalúe el porcentaje de infestación y posición de la broca para establecer la necesidad de aplicar insecticidas químicos o biológicos. Las aspersiones de insecticidas deben realizarse si los frutos están en el período crítico, si la infestación supera el 2% y si el 50% de brocas vivas están en posición A y B, es decir, la broca está volando. Durante la recolección y el beneficio, utilice estopas en buen estado y manténgalas cerradas, seque las pasillas y flotes después de solarizarlos, con el fin de matar la broca y evitar que regrese a los cafetales. 
+
+Ingrediente activo (i.a.)  Grupo químico  Sitio de acción  Período de rein greso PR (horas)  Período de Ca rencia PC (días)  Categoría Toxicológica (Según Nor ma Andina)  
+Fentoato  Organofosfo rado  Sistema nervioso  N.I.*  14  III  
+Fenitrothion  Organofosfo rado  Sistema nervioso  24  14  II - III  
+Clorpirifos  Organofosfo rado  Sistema nervioso  12 - 24  30  II - III  
+Tiametoxam + Chloran traniliprole (Voliam Flexi®)  Neonicotinoi de (biorracio nal)  Sistema nervioso  12  14  III  
+Diamida antranílica (biorracional)  Sistema muscular y nervioso  
+Cyantranili prole (Preza®)  Diamida antranílica (biorracional)  Sistema muscular y nervioso  12  7  III  
+Beauveria bassiana 2x1010 espo ras/L  N.A.**. Bioló gico  Varios  N.A.**  N.A.**  III  
+
+* N.I. No indicado por casa comercial. ** N.A.: No aplica. 
+Efectos de la broca en la rentabilidad. La broca del café produce pérdidas, debido a que disminuye el peso de la producción, deteriora la calidad del grano lo cual disminuye el precio de venta, y aumenta los costos de producción por las acciones de control que deben adelantarse. 
+
+
+Las especies de cochinillas más limitantes para la caficultura en Colombia son: Puto barberi, Neochavesia caldasiae, Toumeyella coffeae y las que enquistan que pertenecen a los géneros Dysmicoccus y Pseudococcus. 
+La dispersión ocurre principalmente por el transporte de suelo y plántulas de almácigo infestadas a regiones libres del problema. El manejo está orientado a realizar control oportuno revisando las plántulas de almácigo, al mes y medio de sembradas las chapolas y antes de llevarlos al sitio definitivo. 
+Ante la presencia de la plaga en el almácigo controle con los insecticidas Silex™ o Engeo®, en una concentración de 3 g/L ó 0,5 cm3/L respectivamente, asperjando 50 cm3/planta, posterior al humedecimiento del suelo. 
+
+
+En el establecimiento de los cafetales (0-18 meses) deben sembrarse plantas indicadoras o debe revisar mensualmente 30 plantas por lote, para detectar la presencia de la plaga oportunamente y tomar decisiones de manejo. 
+Ante la presencia de la plaga Puto barberi en el campo aplique Silex™ 
+o Verdadero® en todas las plantas del lote, en una dosis de 0,30 ó 0,031 g/planta, respectivamente, con un volumen de descarga de 100 cm3/árbol. De encontrar alguna de las otras especies, delimite el foco de ataque y proceda con la aplicación de los insecticidas de manera localizada. El control con insecticidas debe hacerse con la llegada de las lluvias, dado que estos pueden cubrir completamente las raíces cuando el suelo está húmedo a capacidad de campo. 
+
+
+A la llegada de los tiempos secos, monitoree y evite que la arañita roja y el minador de las hojas del café se conviertan en plagas del café. 
+Existen dos artrópodos plagas que atacan los cultivos de café en Colombia durante las épocas secas: la arañita roja Olygonichus yothersi y el minador de las hojas del café Leucoptera coffeellum. 
+La arañita roja es un ácaro que incrementa sus poblaciones con el aumento de las temperaturas, las cuales son favorecidas en ausencia de lluvias. Es un artrópodo habitante natural de la caficultura colombiana que se presenta de manera endémica en los mismos cafetales. Puede dispersarse por el viento entre cafetales y fincas, y caminando en el mismo árbol. Los daños que ocasiona este ácaro se identifican en el campo porque las hojas se tornan bronceadas, como consecuencia de la alimentación de los ácaros sobre la haz de las hojas. 
+El ataque ocurre de manera agregada, de tal manera que su control debe realizarse al inicio del tiempo seco, inmediatamente aparecen los primeros focos en el cafetal. Se recomienda aplicar acaricidas como spiromesifen en concentración de 1,5 cm3/L, exclusivamente a los árboles con daños en los focos. Esta recomendación localizada permite proteger un alto número de insectos depredadores enemigos naturales de la arañita roja, entre otros como los coccinélidos Stethorus sp., Harmonia sp. y Cycloneda sanguinea. Las poblaciones de la arañita roja generalmente disminuyen con la llegada de las lluvias. 
+
+El minador de las hojas del café se encuentra bajo control natural en Colombia. Por lo tanto, es importante proceder con recomendaciones de control biológico por conservación, con el fin de aumentar las poblaciones de los enemigos naturales que evitan que este insecto se convierta en plaga del café. Se han identificado siete especies de avispas del orden Hymenoptera, familia Eulophidae y tres depredadoras de la familia Vespidae, que atacan naturalmente al minador. Estas avispas controladoras biológicas son atraídas hacia las arvenses que florecen en las calles y los alrededores de los cafetales en crecimiento, donde usan la miel y el polen de las flores como fuente de alimento alterno. De esta manera, el aumento de las poblaciones de minador en los cafetales durante los tiempos secos, provee de alimento a las avispas, las cuales producen más descendencia. Las avispas son de hábitos libres, mientras que las larvas de minador viven protegidas en medio de la haz y el envés de las hojas de café y las pupas adentro de las estructuras que forman por el envés de las mismas. 
+Cuando se aplican insecticidas químicos con la intención de controlar el minador, mueren los controladores biológicos que no están protegidos, y sobreviven las larvas y las pupas del minador, permitiendo a la plaga crecer y afectar los cafetales. Para que esto no ocurra, se recomienda establecer una estrategia de control 
+Larvas de minador protegidas en medio de la haz y el envés de las hojas de café, y las pupas adentro de las estructuras que forman por el envés de las mismas. 
+
+biológico por conservación, para lo cual deben platearse los árboles en crecimiento (menores de 2 años) antes de la llegada de los tiempos secos, permitiendo que las arvenses crezcan libremente y florezcan en las calles de la plantación; esto atraerá y aumentará las poblaciones de los enemigos naturales al punto de mantener el minador bajo control en un equilibrio natural. No se recomienda aplicar insecticidas químicos, debido a que se induce la aparición de minador como plaga en los cafetales. Con la llegada de las lluvias puede realizarse el manejo integrado de las arvenses en las plantaciones en crecimiento. 
+
+
+
+Chamusquina 
+
+Con la llegada de las lluvias esté vigilante para detectar la presencia de las cochinillas de las raíces del café y de la chinche de la chamusquina del café, Monalonion velezangeli. Recuerde que el mejor momento para realizar el diagnóstico y control de las cochinillas de las raíces del café, es con la llegada de la época de lluvia. 
+
+Para el diagnóstico y manejo de la chinche de la chamusquina revise los cafetales periódicamente para detectar oportunamente los daños frescos en los brotes nuevos, flores, tallos en formación y frutos; realice el control en los focos. Esta plaga presenta un número importante de depredadores que afectan sus poblaciones de manera natural, de tal manera que se recomienda evitar la aplicación generalizada de insecticidas de amplio espectro como los piretroides, con el fin de mantener el equilibrio biológico. 
+
+Dado que la chinche de la chamusquina del café es plaga principal de cultivos nativos como guayaba, cacao y aguacate, es aconsejable mantener una población importante de estas especies en los cafetales, con el fin de evitar que ataquen al cultivo del café. 
+El control químico de este insecto debe dirigirse exclusivamente a los árboles que presentan daños frescos ocasionados por las ninfas y adultos de la plaga, con malation, fenitrotion o pirimifos-metil, en concentración de 6 cm3/L o con los neonicotinoides imidacloprid y tiametoxam, en dosis de 157,5 y 50,0 g/ha de ingrediente activo. Se recomienda rotar los insecticidas de acuerdo a los modos de acción. 
+
+
+Evitar las aplicaciones de insecticidas en los momentos de las floraciones del cafetal, con el fin de proteger la fauna benéfica, especialmente las abejas nativas y otros polinizadores. 
+
+
+
+
+
+
+ENFERMEDADES DEL CAFÉ 
+
+El óptimo estado de sanidad de una plantación es determinante para alcanzar su máximo potencial productivo. Las enfermedades reducen la producción del cafetal interfiriendo en el aprovechamiento de la luz en las hojas, afectando la absorción de nutrientes y agua en las raíces, bloqueando el movimiento de sustancias dentro de la planta, reduciendo el llenado de granos y consumiendo los componentes del fruto, alterando así la calidad del grano de café. 
+Para reducir el efecto de las enfermedades en el desarrollo del cultivo y en la cosecha es necesario iniciar con plantas completamente sanas, en suelos libres de problemas fitosanitarios, y a lo largo de la vida de la plantación procurar mantener una excelente condición saludable de las plantas, mediante las prácticas agronómicas oportunas y un manejo integral del sistema de producción y del cultivo primero, y luego el manejo integrado de las enfermedades. 
+
+Para el manejo integrado de enfermedades es necesario tener en cuenta las siguientes prácticas clave para la producción, productividad, rentabilidad y sostenibilidad de los sistemas de producción de café: 
+Para medir el desarrollo de una enfermedad debe determinarse la incidencia (número de órganos o plantas 
+afectadas) y la severidad (proporción del órgano o del tejido de la planta que presenta la enfermedad o el daño). Estas mediciones permiten valorar la gravedad de un ataque de una enfermedad en un momento dado a través del tiempo o área de cultivo, para tomar decisiones para su manejo y control. 
+Por ejemplo, en épocas de lluvia evalúe y controle la roya del cafeto en variedades susceptibles, y esté atento a la aparición de mal rosado y gotera; mientras que en época de lluvias escasas además de evaluar y controlar la roya debe estar atento a prevenir la macha de hierro. 
+
+
+
+Roya del cafeto 
+
+café, causa pérdidas entre el 23% y el 50% en la cantidad y en la calidad de la producción de café en variedades susceptibles, que no tienen un oportuno y adecuado manejo de la enfermedad, en un ciclo acumulado de cuatro cosechas. Está íntimamente ligada al desarrollo fisiológico del cultivo, al nivel de producción de la planta y a la distribución y cantidad de lluvia. 
+Pese a disponer de materiales resistentes a la enfermedad, al finalizar el año 2017, en Colombia 23% del área sembrada en café tiene variedades susceptibles, que están expuestas a ataques de roya, dependiendo de las condiciones ambientales y de la agronomía del cultivo, donde epidemias severas pueden afectar de manera importante la producción. 
+La zona óptima de producción de café en Colombia está ubicada en el rango óptimo de desarrollo de la enfermedad, con una temperatura promedio de 22°C. Actualmente, se recomienda estar atentos a la presencia e impacto de la enfermedad, en cualquier condición altitudinal donde se cultive café, y si es del caso controlarla. 
+
+Niveles de infecci. Deben evaluarse los niveles de infección en los lotes para definir el momento de control y si debe realizarse con fungicidas protectores, sistémicos solos o en mezcla con protectores. Este método está basado en el conocimiento del efecto sobre la producción de determinados niveles de hojas afectadas por roya en la planta y permite utilizar racionalmente los fungicidas sistémicos, sin crear condiciones que favorezcan la presencia de nuevas razas del hongo, e igualmente, disminuir el número de aspersiones. Con ello se logra la reducción de los costos de control de la enfermedad y de producción en el cultivo. En este sistema es necesario considerar que los fungicidas sistémicos no deben utilizarse en mezcla con fungicidas protectores. 
+¿Co se realiza la evaluaci de la roya? 
+• 
+Cuantifique la incidencia de la roya en 60 árboles por lote, en un área igual o menor de una hectárea, tratando que queden representados árboles de todos los surcos y zonas del lote. 
+
+• 
+En cada árbol escoja la rama con mayor número de hojas del tercio bajo, medio y alto; en cada una de ellas cuente el número de hojas y el número hojas afectadas por la roya. 
+
+• 
+Al finalizar el recorrido, sume el total de hojas afectadas por roya, divídalo entre el número total de hojas, y multiplíquelo por 100, para obtener el porcentaje de hojas afectadas por roya en el lote, así: 
+
+
+Total de hojas con roya en los 60 árboles 
+Promedio de la infección por lote (%): X 100 Total de hojas presentes en los 60 árboles 
+
+Finalmente, con el resultado del promedio de la infección de la roya por lote y el número de días después de la floración, puede tomar la decisión para el manejo de la enfermedad: 
+
+Días  Promedio de infección por lote (%)  
+después de floración  <5,0% -10,0%  10,1% -15,0%  15,1% -20,0%  20,1% -30,0%  >30,0%  
+60  P/S  S  S  S  **  
+90  P/S  S  S  S  S  
+120  P/S  S  S  S  S  
+180  *  P/S  S  S  S  
+
+* No requiere aspersión; P: fungicida protector (cúpricos); S: fungicida sistémico (cyproconazole- Alto 100 SL; hexaconazole- Mildium 50 SC; cyproconazole + azoxystrobin- Amistar ZTRA 28 SC; pyraclostrobin- Comet EC ; flutriafol + azoxystrobin - Authority SC 250; cyproconazole + thiamethoxam- Verdadero 600 WG***); ** Inicio de aplicaciones con niveles de roya que podrían tener escaso efecto biológico de los fungicidas sobre la enfermedad. *** Fungicida aplicado al suelo con suficiente humedad, dos veces, entre los 60 y antes de los 110 días después de floración y sin ocurrencia de pases de cosecha. 
+En Colombia para el manejo de la roya se utiliza el criterio de calendarios fijos, determinando las épocas históricas de floraciones y patrones de cosecha, donde las aplicaciones deben realizarse en el momento fenológico oportuno para lograr la mayor efectividad biológica. 
+Si la cosecha principal ocurre en el segundo semestre del año y las floraciones históricas ocurren en forma dispersa entre los meses de enero y febrero, se realizan entre dos y tres aplicaciones de fungicidas sistémicos en los meses de mayo, junio y agosto, respectivamente, espaciadas entre 45 y 60 días dependiendo del fungicida. 
+Para las zonas con cosecha principal en el primer semestre del año y donde las floraciones históricas ocurren en los meses de septiembre y octubre, se realizan las dos o tres aplicaciones en los meses de noviembre, enero y febrero, también espaciadas entre 45 y 60 días, dependiendo del producto. 
+En aquellas regiones donde tienen cosechas importantes distribuidas en ambos semestres del año, además de las aplicaciones requeridas de mayo y noviembre que protejan ambas floraciones, es necesario una aplicación opcional, sea en junio o en enero, dependiendo del semestre con la mayor floración y así proteger la mayor cantidad de cosecha. 
+Teniendo en cuenta la dispersión de las floraciones debida a eventos de variabilidad climática en las diferentes regiones cafeteras y la incorporación de otras áreas en café, en la actualidad se está ajustando el manejo de la enfermedad con base en el criterio de “floraciones principales”, el cual requiere el seguimiento continuo y cuantificación de las diferentes floraciones que ocurran en las fincas y en los lotes, determinando la ocurrencia de las semanas de mayor cantidad de flores. Este seguimiento permitirá ajustar a cada lote tanto el manejo oportuno de la roya como el manejo de otras enfermedades, plagas de importancia como la broca, y la planeación de labores agrícolas y de cosecha. 
+Fungicidas recomendados para el control de la roya del cafeto en variedades susceptibles en Colombia, actualizados al mes de julio del 2018 y ajustados al criterio de aplicación según floraciones principales.. 
+Período decarenciaen café(días) 35151571514 
+Criterios de aplicación 4ta aplicación DD 3raAP 45  
+3ra aplicación DD 2daAP 45 60 60 45 60  
+2da aplicación DD 1raAP 45 45 45 45 45 60 45  
+1ra aplicación DDF 60 60 60 60 60 60 60  
+Concentración* mL/L 3,5 1,0 1,8 3,0 1,0  
+g/L 10 2  
+Dosis  L/ha 1,50 0,25 0,75 0,60 0,75  
+kg/ha 3 1  
+Producto comercial Oxiclorurode Cobre50% Mildium50 SC Alto 100 SL AmistarZTRA 28 SC Comet EC Authority250 SC Verdadero 600 WG  
+Ingredienteactivo Oxicloruro decobre 50% Hexaconazole Cyproconazole Cyproconazole+ azoxystrobin Pyraclostrobin Flutriafol +azoxystrobin Cyproconazole+thiamethoxam  
+Tipo deAplicación fungicida Preventivo  Preventivo Curativo Preventivo Curativo Preventivo CurativoErradicativo Preventivo Curativo Preventivo Curativo Preventivo Curativo  
+Follaje Follaje Follaje Follaje Follaje Follaje Suelo 
+
+   * Concentración para 6.000 plantas/ha la cual debe ajustarse si el número de plantas por hectárea se modifica.
+   * Vigente a mayo de 2021.  La normatividad está cambiando y pronto habrán restricciones y probables cambios  de etiqueta y Registro ICA. 
+Con volúmenes de aplicación de: 
+• 
+15 cm3/planta para cultivos menores a un año. 
+
+• 
+25 cm3/planta para cultivos de 1 a 2 años. 
+
+• 
+50 cm3/planta para cultivos mayores a dos años. 
+
+• 
+75 cm3/planta en cafetales tradicionales mayores de 6 años. 
+
+
+Análisis econico. En Colombia las pérdidas ocasionadas por la roya del cafeto han alcanzado niveles hasta del 30% de la producción acumulada de cuatro cosechas, pero en escenarios de eventos como La Niña y ante deficiente manejo y fertilización de los cultivos, las pérdidas pueden alcanzar niveles del 40% y 50%. La relación café cereza a café pergamino seco también se afecta como consecuencia de la epidemia. En el mismo ciclo productivo donde ocurre una epidemia severa esta relación puede llegar a valores de 5,8 por efecto de la roya del cafeto. En el segundo año, el efecto acumulado de la epidemia aumenta esta relación hasta valores de 8,1, además de los impactos sobre la calidad física y de la bebida. 
+Los costos de control químico de roya varían dependiendo de la zona, la edad de la plantación y densidad de siembra, el número de aplicaciones, el fungicida utilizado, la tecnología de aspersión y la mano de obra empleada, entre otros factores. Sin embargo, se considera que para el año 2018 este costo puede oscilar entre los $750.000 y $1.250.000 por hectárea por año. 
+Se estima que, en Colombia, con un área sembrada con el 76% en variedades resistentes a la roya, el país se ahorra anualmente cerca de 200 millones de dólares por no requerirse control químico de esta enfermedad. 
+
+
+
+y sequía, lo que favorece el desarrollo del patógeno sobre tallos secos y hojarasca que se acumulan en la parte superior de los árboles. 
+Manejo preventivo. Deben mejorarse las condiciones de luminosidad y aireación en los cafetales, ajustando el número de tallos por hectárea de acuerdo con la densidad de siembra y sistema de producción, regulando adecuadamente el sombrío, retirando chamizas y hojarasca acumulada en la parte superior del árbol de café, especialmente después de la cosecha. En época de lluvia deben hacerse revisiones periódicas y realizar la poda de ramas enfermas, preferiblemente en estado de costra rosada. Las ramas podadas en estado de costra rosada deben retirarse del lote en un costal o bolsa plástica. Si las ramas están secas y no tienen estructuras del hongo pueden dejarse sobre el suelo. Este manejo también debe hacerse sobre ramas afectadas de otras plantas hospedantes que aportan inóculo y ayudan a diseminar la enfermedad. 
+Control químico. Es más efectivo cuando se realiza en los primeros ciclos de la enfermedad, cuando el hongo se encuentra en la etapa micelial o de telaraña superficial sobre hojas y frutos, antes que penetre e infecte los tejidos. Cuando se han generado los daños internos y se observen costras de color blanquesino a rosado en frutos o ramas, es poco efectivo el control químico. 
+
+Después de que se realicen las podas sanitarias de ramas para remover fuentes de inóculo, pueden aplicarse fungicidas cúpricos como óxido cuproso de 50% de cobre aplicado a razón de 4 g/L de agua. Las aplicaciones del fungicida cyproconazole + azoxystrobin (AmistarZTRA 28 SC) en dosis de 750 cm3/ha (1,8 cm3/ha), en dos a tres aplicaciones al año, con intervalo de 45 días a partir de 60 días después de la floración principal en el café, son eficientes. El control químico se realiza principalmente por focos, pero de darse la enfermedad en más del 10% de incidencia como ramas afectadas del tercio productivo, es conveniente considerar la aplicación generalizada con el concepto de un ingeniero agrónomo del Servicio de Extensión de la FNC. 
+
+
+
+desprendiéndose de la hoja, dejando un agujero en medio del tejido aún verde. El principal efecto de estas lesiones es causar la caída prematura de la hoja, que puede llevar a defoliaciones que comprometen el llenado de los granos. De igual forma afecta severamente los frutos de todas las edades causando su necrosis, daños en calidad y peso, y caída prematura de los mismos; además de daños en ramas y brotes hasta producir en ocasiones muerte de plantas completas. Todas las variedades cultivadas son susceptibles a la gotera. 
+Para iniciar la infección sobre las hojas, ramas o los frutos, el hongo requiere de altas precipitaciones, humedad permanente, baja temperatura y bajo brillo solar. Estas condiciones se encuentran usualmente en cafetales bajo sombrío abundante, propias de los cultivos tradicionales. Este patógeno tiene numerosas especies de plantas hospedantes, tanto cultivadas como arvenses y sombrío, lo cual favorece la continuidad de las epidemias y la producción permanente de inóculo infectivo del hongo. 
+El control químico de la gotera también es preventivo y se basa en el inicio de las lluvias, de tal forma que se realice la aplicación del fungicida cyproconazole (Alto 100 SL, de 1,0 a 2,0 cm3/L de mezcla 
+Debido a la alta dependencia del ciclo de vida del hongo causante de la gotera de las condiciones de humedad, temperatura y brillo solar, las epidemias son reiteradas y cíclicas en diferentes regiones donde son endémicas, por lo que es importante planear y realizar consistentemente las labores de prevención como: 
+• 
+En zonas con presencia constante de nubes esté alerta para realizar evaluaciones de la enfermedad, especialmente en cultivos con sombríos o altas densidades de siembra. El porcentaje y densidad del sombrío debe ser regulado, acorde con las condiciones de precipitación y brillo solar de la zona. 
+
+• 
+Adecuadas prácticas agronómicas como el manejo de arvenses, las podas o desbajeres en los cafetos, evitan que las ramas inferiores entren en contacto con material afectado por gotera en el suelo y arvenses, y permiten la aireación de los cafetales y la disminución de la humedad. El uso racional de sombrío, su realce y poda regulada, y de densidades de siembra de cafetos hasta 8.000 plantas o tallos/ha mejoran la luminosidad en los lotes, favorecen la evaporación del agua y crean condiciones desfavorables para el hongo. 
+
+• 
+Una planta bien nutrida es fuerte y tolera la enfermedad a través del incremento del follaje, y la fertilización oportuna y balanceada mejora la recuperación del cultivo después de las epidemias. 
+
+• 
+Deben evitarse los encharcamientos y profundizar los drenajes donde el exceso de humedad lo requiera. 
+
+
+
+con agua), de 30 a 60 días después de la floración ó 15 días antes que se establezcan las lluvias, antes que la enfermedad alcance el 10% de incidencia de hojas afectadas, y se realicen unas tres aplicaciones con intervalo de 30 a 45 días a partir de la primera aplicación. 
+
+La enfermedad conocida como llaga macana o cáncer del tronco ocasiona la muerte de plantas en todos los estados de desarrollo por ser una enfermedad vascular sistémica, producida por un hongo del suelo de fácil diseminación y transmisión mecánica, disminuyendo la población de plantas y, por ende, la producción, especialmente cuando ocurre la pérdida de más del 10% de plantas. 
+
+Todas las variedades de café actualmente cultivadas en Colombia son 
+
+tanto por el pisoteo de los operarios como por cortes de ramas, tallos, selección de chupones y desyerbas. Además, se recomienda que las renovaciones por zoca o corte de ramas se realicen en época seca o de lluvias escasas. 
+En el caso de ser necesarias 
+
+como el fungicida carbendazim (Derosal, Bavistin), en dosis de 4,0 g ó 4,0 cm3/L de agua. Para estas aplicaciones en zocas puede utilizarse el aplicador de contacto 
+o
+ la aspersora convencional. La aplicación de pintura anticorrosiva 
+
+o
+ de exteriores como vareta y koraza, tanto sola como con el fungicida con la mitad de la dosis (2,0 g ó 2,0 cm3/L) es una práctica que ha resultado eficiente y fácil de realizar. Como manejo biológico con resultados similares al químico, sobre el corte de las zocas, se recomienda la aplicación del hongo Trichoderma harzianum (Tricho-D) en dosis de 10 g/L de agua. 
+
+
+No se recomienda la aplicación curativa de fungicidas una vez la planta ha sido afectada y presenta 
+
+
+
+
+en la zona cafetera colombiana creciendo sobre restos de raíces, hojarasca y troncos en descomposición, causando serios problemas económicos por la disminución de la población de plantas tanto de café como de cultivos asociados, así como por las dificultades en su manejo y control. 
+Todas las variedades de café cultivadas en Colombia son susceptibles a las dos especies de hongos, así como muchas especies de cultivos y árboles de sombrío como cacao, cítricos, caucho, yuca, guamo, plátano, aguacate, etc. 
+Al igual que la llaga macana, no se recomienda la aplicación curativa de fungicidas para el control de llagas radicales, una vez la planta ha sido afectada 
+
+y presenta síntomas es una enfermedad vascular del sistema de raíces. 
+Esta enfermedad puede causar graves problemas en almácigos ubicados a altitudes mayores a 
+1.600 m. El manejo de la muerte descendente es preventivo, basado en el conocimiento del microclima del lote y de la región, y se debe estar atento al inicio de la aparición de los primeros síntomas, tanto en el almácigo como en las plantaciones establecidas. 
+
+Este hongo se ve favorecido por corrientes fuertes de aire frío, para lo cual se recomienda instalar barreras rompevientos al borde de los No existe un manejo único de las llagas radicales, donde el objetivo es prevenir el contacto de raíces sanas con las afectadas y los cortes o daños en las raíces. El éxito en el manejo y recuperación de sitios infestados para garantizar la supervivencia de plantas a resembrar depende del manejo integrado, el cual se resume en los siguientes pasos: 
+
+1. Eliminar las plantas de café u otros hospedantes con los síntomas al igual que las vecinas, aunque no muestren síntomas, puesto que es probable que estén infectadas. Estas plantas deben erradicarse, extrayendo rigurosamente las raíces y porciones de troncos. 
+
+2. El suelo aledaño a los hoyos o sitios debe voltearse y dejarse expuesto a los rayos solares, al menos durante 2 a 3 meses antes de resembrar, removiendo las arvenses y volteando el suelo para exponer al sol posibles estructuras del hongo. El suelo volteado puede cubrirse con plástico negro para aumentar la temperatura y acelerar la reducción de poblaciones de estos patógenos. 
+• 
+Después de la solarización, puede aplicarse en forma de drench o saturar cada sitio con la mezcla del fungicida tiofanato de metilo o carbendazim, en dosis de 4,0 g/L. 
+
+• 
+Un mes después de la aplicación del fungicida puede aplicarse el hongo Trichoderma koningii. 
+
+• 
+Resembrar plantas inoculadas con micorrizas como Glomus manihotis o Entrophospora colombiana, de 10 a 20 g de inóculo compuesto (raíces + suelo inoculado) por planta, aplicado al momento del trasplante de la chapola al almácigo. Mientras se resiembran las plantas de café, temporalmente puede sembrarse un cultivo no hospedante como maíz. 
+
+
+
+
+
+lotes y sombríos transitorios de cultivos de maíz y fríjol, o de especies leguminosas como tefrosia, guandul y crotalaria, que se establecen al momento de la siembra en el campo o cuando se realizan los zoqueos. En los almácigos debe acondicionarse la polisombra y la protección lateral para evitar corrientes de viento frío. 
+Debe tenerse especial cuidado en no confundir los síntomas y daños producidos en las hojas tiernas y brotes por la muerte descendente ocasionados por hongos del complejo Phoma spp. con los causados por la chinche de la chamusquina (Monalonion velezangeli) y los síntomas de deficiencias de boro. 
+El control químico de la muerte descendente se realiza por medio de la aplicación de fungicidas protectores como captan (Captan 80WG; Orthocide 50% PM), en dosis de 4 g/L de agua, y carbendazim (Derosal, 1,6 g/L), los cuales se aplican en las zonas críticas o focos, o generalizado si la incidencia de plantas afectadas supera el 10% en el lote, una vez se han establecido las medidas que reduzcan el impacto de vientos y se hayan podado los brotes afectados. 
+
+
+Volcamiento 
+Es una enfermedad asociada a la etapa del germinador, en la cual es de especial cuidado el desarrollo de la raíz, el único órgano no renovable de la planta. La raíz desempeña un papel fundamental en el crecimiento y la producción del cafeto, debido a que determina el anclaje de la planta en el suelo, es la entrada primaria de agua y nutrientes minerales y, además, es la fuente de hormonas reguladoras del crecimiento. Por esta razón es prioritario realizar labores que reduzcan la presencia de Rhizoctonia solani y de otros patógenos del suelo que ataquen las raíces. 
+
+La presencia de esta enfermedad se favorece por la siembra de semilla de origen desconocido, que no ha sido procesada apropiada ni técnicamente, por la contaminación del germinador con suelo 
+o residuos de plantas contaminados, lo cual es propiciado por el salpique de la lluvia sobre el suelo y la de materiales y sustratos. 
+La mejor estrategia es adquirir semilla y chapolas de variedades resistentes a la roya (Castillo®, Cenicafé 1 y Tabi) producidas por Cenicafé a través del Servicio de Extensión de la FNC y Almacenes del Café y Cooperativas de Caficultores; y construir los germinadores levantados al menos unos 40 cm de la base sobre el suelo, utilizando arena y gravilla lavadas, y madera o guadua limpias. 
+En el germinador el sustrato debe tratarse con un producto biológico basado en Trichoderma harzianum (Tricho- D, 10 g del producto/L de agua/1 L/m2), 6 días antes de esparcir la semilla de café, o uno químico con ingrediente activo como tiabendazol (Mertec, 10 cm3/2 L de agua/m2), pencycuron (Monceren, 5 cm3/2 L de agua/m2) o tolclofos-methyl o flutolanil (Moncut, 5 cm3/2 L de agua/m2), aplicado en drench al momento de esparcir la semilla. 
+Una vez se detecte un foco con la enfermedad debe removerse inmediatamente el material afectado con su sustrato, así como las plántulas sanas que lo rodean. Puede aplicarse control químico en el foco, pero no es garantía de un efecto curativo. No deben trasplantarse o llevarse al almácigo o al campo plantas que tengan cualquier síntoma o posibilidad de estar infectadas por este patógeno. 
+
+
+Esta enfermedad es característica de las hojas del café, tanto en estado de almácigo como en plantas adultas, pero es más importante cuando ataca los frutos de café, especialmente en estado inmaduro, ya que resulta en pérdidas significativas de calidad y cantidad de cosecha. El ataque en granos verdes puede causar el secamiento de los frutos en el árbol, provocando su caída temprana, reducir el peso del grano o secar la pulpa sobre los granos, lo que resulta en manchado del café pergamino y el aumento en la proporción de café pasilla o “guayaba”, además de defectos significativos en la almendra y la calidad de la bebida. 
+Todas las especies y variedades de café han mostrado susceptibilidad a esta enfermedad. 
+
+En almácigos. Como manejo preventivo de la mancha de hierro debe acondicionarse el sustrato de suelo con materia orgánica bien descompuesta (pulpa de café o gallinaza), preferible usando la bolsa de 17 x 23 cm, y cuando la materia orgánica es baja debe complementarse la nutrición mediante dos aplicaciones de 2,0 g/bolsa de fosfato diamónico (DAP), a los 2 y 4 meses. Si se requieren medidas más estrictas, deben aplicarse al follaje 4,0 g/L de dithiocarbamatos (Dithane o Mancozeb) ó 1,0 mL/L de un triazol (Punch 40CE o Alto 100SL), con intervalos de 30 a 45 días, dependiendo de la intensidad de la enfermedad y de las condiciones de clima. Al ser una enfermedad favorecida también por alta temperatura y la radiación solar, debe regularse durante el día y mantenerse la sombra en el almácigo mediante el uso de umbráculos o polisombras. 
+
+Plantaciones. En plantaciones en levante y productivas, una fertilización adecuada, oportuna y balanceada basada en el análisis de suelos, es suficiente para mantener baja la incidencia de la mancha de hierro. 
+En sitios donde la enfermedad es endémica, por efecto de suelos poco aptos para café o por microclimas con exceso de brillo solar, se recomienda el establecimiento de sombríos transitorios con sistemas de maíz y fríjol o con leguminosas como tefrosia y guandul, con el fin de regular el brillo solar durante el levante. Dependiendo del brillo solar y de la precipitación debe considerarse el establecimiento de sombrío permanente y su regulación durante la etapa productiva del cultivo. Es posible realizar el control químico en cultivos establecidos con dos a tres aplicaciones de cyproconazole (Alto 100SL, 0,25 L/ha), pyraclostrobin (Comet, 0,6 L/ha) y cyproconazole + azoxystrobin (Amistar ZTRA, 0,75 L/ha), entre los 60 a 90 y 120 días después de la floración principal, que es la época crítica para llenado de grano en los frutos. 
+
+
+Nematodos del nudo radical 
+Estos organismos afectan en forma severa las raíces primarias y secundarias de las plantas de café desde su siembra en el almácigo, causando nudosidades, agallas y pudrición de raíces, y llegan a afectar la raíz pivotante hasta el cuello del tallo en la etapa productiva. Los nematodos afectan directamente el anclaje, la nutrición, la producción y la durabilidad del cultivo del café. Son habitantes del suelo y raíces en muchas zonas cafeteras, especialmente aquellas que han contado con siembras de cultivos solos o asociados con lulo, tomate y tomate de árbol, entre otras, además de numerosas arvenses hospedantes. 
+Su incidencia se favorece por el suelo contaminado con residuos de raíces de plantas afectadas, huevos y estados juveniles infectivos del nematodo, y la distribución y siembra de colinos o material vegetal de café u otros cultivos de origen desconocido o afectados, que se llevan a lotes nuevos o de renovación, y los remanentes de plantas y zocas afectadas que no se eliminan. 
+La principal estrategia de manejo es preventiva, desde el establecimiento de germinadores y almácigos con sustratos y materiales limpios, sin contaminación por el patógeno, por suelo 
+o por residuos de raíces afectadas. No debe usarse suelo para los almácigos que tenga algún tipo de antecedentes de presencia de nematodos, y preferiblemente debe solarizarse en un patio por dos a tres semanas, cubriéndolo con plástico oscuro y a exposición solar, para reducir las poblaciones de estos patógenos. La materia orgánica que se emplee para los almácigos debe descomponerse y ser de origen conocido. 
+Al igual que se realiza el monitoreo preventivo por la presencia de cochinillas de la raíz, el muestreo frecuente de plantas del almácigo durante su desarrollo es fundamental para determinar la presencia de signos (nudosidades y agallas) y síntomas (amarillamiento, mancha de hierro, defoliación, debilitamiento), para así evitar la siembra de plantas afectadas en el campo. La presencia de una sola planta afectada genera una alerta temprana, donde preferiblemente no debe llevarse este almácigo al campo. 
+Al momento del trasplante de la chapola del germinador al almácigo se recomienda la aplicación de hongos controladores biológicos como Paecylomices lilacinus, Metarhizium anisopliae y Beauveria bassiana (Micos Plag®), mediante inmersión de la chapola en una suspensión de 2,0 g/L antes de la siembra, o aplicación de 50 mL/planta de esta suspensión al momento de la siembra, y la incorporación de micorrizas de 10 a 20 g de inóculo compuesto de suelo + raíces por planta. 
+
+Una vez los nematodos han infectado las raíces es muy difícil y poco probable la recuperación de las plantas y el control curativo del problema. Actualmente no se dispone de nematicidas recomendados. 
+Si se requiere el uso del control químico debe tenerse en cuenta: 
+• 
+No hacer mezclas con otros productos. 
+
+• 
+No usar los llamados “potenciadores”. 
+
+• 
+Hacer una aplicación con equipos en buen estado, calibrados y en las dosis recomendadas. 
+
+• 
+Usar los elementos de protección personal. 
+
+• 
+Tener en cuenta la etiqueta del producto, que cuente con registro 
+
+
+El manejo de las enfermedades debe ser preventivo e integral: 
+Preventivo: Realizando las labores de manejo antes o al inicio de los períodos de lluvias y secas, o de épocas críticas en el desarrollo del cultivo. 
+Integral: Considerando la fenología, la fisiología y el manejo del cultivo, el comportamiento y variabilidad del clima, las propiedades físicas y químicas de los suelos, el sistema de producción más apropiado, la fuente del patógeno y sus ciclos infectivos, la variedad de café, y especialmente, las prácticas agrícolas, en su conjunto, que favorecen o limitan el desarrollo de una enfermedad, la ocurrencia de epidemias, el impacto económico y el costo del manejo. 
+ICA vigente para café, respetar los períodos de carencia y de reingreso, además de los cuidados con la salud y el medio ambiente. 
+
+
+
+
+
+
+
+
+
+
+
+Durante los primeros 2 años de edad del cultivo, el café es muy sensible a la competencia de las arvenses (plantas acompañantes de los cultivos), y el suelo se encuentra más propenso a la erosión por efecto de las lluvias. Igualmente, durante la etapa productiva las arvenses más agresivas compiten fuertemente por el agua y los nutrientes del suelo, llegando a reducir la producción en más del 60%. 
+
+Salazar-Gutiérrez, L., & Torres, F. A. (2021). Manejo de arvenses. En Centro Nacional de Investigaciones de Café, Guía más agronomía, más productividad, más calidad (3a ed., pp. 179–188). Cenicafé. https://doi. org/10.38141/10791/0014_10 
+ORCID Salazar-Gutiérrez, L. https://orcid.org/0000-0003-2302-4825 Torres, F. A. https://orcid.org/0000-0002-6722-7248 
+* M.Sc. Ingeniería Geotecnia. LuisFernando.Salazar@cafedecolombia.com ** Ing. Agrónomo Esp. en manejo sostenible del sistema suelo, agua, planta en el trópico. 
+
+Para implementar el MIA en la finca cafetera se deben integrar los diferentes métodos de control: el químico (con herbicidas), el manual, el mecánico (cortes con machete o guadañadora) y el cultural que se refiere a las buenas prácticas del cultivo (densidad de siembra, variedades mejoradas y coberturas con residuos del cultivo, entre otros); lo anterior para hacer controles selectivos de arvenses o en parcheos sobre las arvenses más agresivas y dar lugar a aquellas benéficas o conocidas como nobles. 
+
+La implementación de un solo método de control presentará dificultades debido a que las arvenses, como seres vivos, con el tiempo buscan formas de escapar a las distintas medidas de control, por ejemplo, en la zona cafetera se ha dado el caso de aparición de 
+
+integrarse los diferentes métodos de manejo asegurándose de no desnudar el suelo. 
+Una forma de ser más rentable en la actividad cafetera es con la adopción del MIA, éste apunta a mejorar la rentabilidad en cuatro formas: 
+
+1. Reducci de los costos de las desyerbas. En las fincas cafeteras este sistema puede disminuir los costos entre el 20% para el primer año y 45% en el segundo año de establecimiento del café, por la reducción en la mano de obra e insumos necesarios para su realización. 
+
+2. Mantenimiento o aumento de la productividad debido a controles más oportunos de arvenses. Las coberturas nobles protegen el suelo de la erosión sin afectar la producción del cultivo. 
+
+3. Menor riesgo de aparici de arvenses resistentes a los herbicidas. Cuando las arvenses se vuelven resistentes a los herbicidas siguen compitiendo con el cultivo y se pierde la inversión y el esfuerzo hecho para su manejo. 
+
+4. Prevenci de la erosi del suelo. Cuando el suelo llega a un estado de erosión avanzado (pérdida del horizonte orgánico) los rendimientos pueden disminuir hasta el 51%, aun con la aplicación de fertilizantes. De allí la importancia de proteger los suelos con coberturas nobles. 
+
+Por lo anterior, es importante recordar la finalidad del MIA que consiste en mantener el suelo con coberturas para conservarlo al igual que al agua, sin que se afecte la productividad y los costos de producción, lo cual se logra al disminuir la proporción de las poblaciones de arvenses agresivas y favorecer el establecimiento de aquellas de fácil manejo o coberturas nobles. 
+
+Las arvenses nobles son plantas de porte bajo, crecimiento rastrero, con raíz superficial, con cubrimiento denso del suelo y no interfieren con el desarrollo y producción de la planta de café, si no están presentes en la zona de raíces (plato). 
+Las arvenses agresivas pueden presentar una o varias de las siguientes características: alta producción de semillas, raíces profundas y abundantes, son de difícil control manual, mecánico 
+o químico, con estructura semileñosa y hábito trepador. Si tiene dudas sobre el tipo de arvenses en su finca consulte con el Servicio de Extensión. 
+
+
+
+Recomendaciones para una exitosa implementaci
+
+
+del MIA 
+
+1. El primer paso es recibir capacitación sobre el tema y llevar estos conocimientos a las personas de la empresa cafetera involucradas con el manejo del cultivo. 
+
+2. Reconozca las arvenses por su grado de competencia. Para lo anterior puede elaborar un listado con las arvenses más agresivas y las nobles en la finca, cuenca o vereda. 
+
+3. Lleve el registro de los costos en los cuales incurre al realizar el manejo de arvenses. Registre los costos de las desyerbas en distintos lotes de la finca y compárelos frente al manejo tradicional. Si los costos del MIA en su finca son más altos, consulte con el Servicio de Extensión. 
+
+4. Utilice en forma adecuada las herramientas para el MIA como son el selector de arvenses, los equipos de aspersión, machete y guadañadora, y realice el mantenimiento de los mismos. Utilice la dosis correcta del herbicida, atendiendo las recomendaciones del Servicio de Extensión. 
+5.
+ Implemente el MIA en los diferentes sistemas de producción de 
+
+• 
+Si las arvenses presentan una altura mayor de 20 cm o están en estado de floración o producción de semillas haga un corte con guadañadora o machete a una altura de 3 a 5 cm del suelo. 
+
+• 
+Después de 15 a 20 días, antes de que las arvenses comiencen su floración, haga parcheos selectivos con herbicida sobre las arvenses más agresivas, preferiblemente con el selector de arvenses o con un equipo de aspersión con pantalla protectora. 
+
+• 
+Continúe realizando los parcheos periódicamente, evitando que las arvenses alcancen su estado de floración o producción de semillas. Si las arvenses alcanzan esta etapa repita el corte con machete o guadaña, sin desnudar el suelo. Esto le permitirá disminuir la presencia de arvenses agresivas y mejorar el cubrimiento dado por las arvenses nobles o de fácil manejo. 
+
+
+
+
+
+Edad del cultivo  0-1 año  1-2 años  2-3 años  3-4 años  4 y más años  
+Nombre del lote  
+ 
+ 
+ 
+ 
+ 
+Área de lote (m2)  
+Labor*  
+Duración de la labor  
+Jornal/ha  
+Insumo (L/ha)  
+Costo mano de obra por hectárea  
+Costo insumos por hectárea**  
+Costo total  
+
+* Labor: plateo manual, plateo con herbicida, corte con guadañadora o machete, parcheo con 
+fumigadora, parcheo con selector, control manual. ** Costo de los insumos/ha: (por ejemplo: herbicida, lubricantes, combustibles). 
+
+6. Esté atento a la aparición de nuevas especies de arvenses agresivas en su cultivo o a la presencia de arvenses resistentes a los herbicidas; de encontrarlas consulte con su Extensionista. 
+
+7. En épocas secas realice un plateo manual en las plantas de café en estado de levante, utilice el material vegetal que resulte de esta labor como cobertura muerta en los platos de la planta, para conservar la humedad del suelo y retrasar el crecimiento de las arvenses en esta zona. 
+
+En las calles controle con machete o guadañadora las arvenses agresivas las cuales compiten por agua y nutrientes, y permita el establecimiento de arvenses nobles o de baja competencia. 
+
+8. Realice el plateo o control de arvenses en la zona de raíces, en forma manual y utilice el herbicida de tipo pre-emergente, con el cual puede llegar a tener el plato libre de arvenses por más tiempo. Recuerde que antes de la aplicación de este tipo de herbicida, el plato debe estar libre de arvenses y disponer de buena humedad en el suelo. Consulte con su Extensionista. 
+
+
+Tenga presente que al retornar las lluvias debe realizar las prácticas del MIA para continuar con el establecimiento de coberturas nobles. 
+
+
+La calidad del café colombiano se obtiene a partir de variedades de la especie arábica, en combinación con la oferta ambiental (suelo y clima), particularmente ofrecidos por la geografía y localización de Colombia, la cosecha de frutos principalmente maduros y el procesamiento por vía húmeda. Para garantizar una buena calidad de café, a partir de las condiciones mencionadas, es necesario realizar el manejo agronómico adecuado, con base en las recomendaciones de Cenicafé para la siembra, fertilización, manejo integrado de plagas, enfermedades y arvenses, y prácticas de cultivo. También es importante establecer un sistema efectivo de control en la cosecha de café de tal manera que se garantice la mejor materia prima posible. 
+Una vez recolectados los frutos de buena calidad, se realiza el proceso de transformación para obtener el café pergamino seco, conocido como beneficio húmedo, con el que se obtienen los cafés suaves lavados. Este proceso comprende tres etapas básicas; el despulpado, la eliminación de mucílago y el secado, con las cuales se resaltan los atributos del café colombiano y se obtienen la acidez, cuerpo medio/alto y aroma pronunciado que lo caracteriza. 
+
+Peñuela, A. E., & Sanz-Uribe, J. R. (2021). Obtenga café de calidad en el proceso de beneficio. En Centro Nacional de Investigaciones de Café, Guía más agronomía, más productividad, más calidad (3a ed., pp. 189–218). Cenicafé. https://doi.org/10.38141/10791/0014_11 
+ORCID Peñuela, A. E. https://orcid.org/0000-0003-4454-9778 Sanz-Uribe, J. R.  https://orcid.org/0000-0001-9875-9426 
+
+* Ph.D. en Biotecnología 
+
+En el proceso de beneficio se define finalmente la calidad del café, debido a que se puede mantener, siendo su objetivo principal, mejorar la calidad a través de la exaltación de atributos. No obstante, también en este proceso puede deteriorarse la calidad del producto por descuidos que conducen a la formación de defectos físicos y en taza. Por lo tanto, se hace necesario disponer de un conjunto de prácticas que deben aplicarse, con el fin de disminuir este riesgo, como se describe a continuación: 
+FACTORES DEL PROCESO QUE INFLUYEN EN LA OBTENCIÓN DE CAFÉ DE BUENA CALIDAD 
+
+Práctica 1. Asegure la calidad de la recolecci del café 
+Uno de los factores más determinantes es la calidad de la recolecci. Una vez el fruto ha alcanzado su desarrollo en la planta, en promedio a las 32 semanas después de la floración, presenta las características adecuadas para ser recolectado. Debido a las diferencias en el momento de floración dadas las condiciones climáticas en las diferentes zonas del país, en una misma rama se presentan frutos en diferentes estados de desarrollo, que dificultan la recolección de los frutos maduros. 
+Una recolección de buena calidad se caracteriza por tener más del 80% de frutos maduros y menos del 2,5% de frutos verdes. Deben evitarse también los frutos conocidos como verde-pintón, que son aquellos con apariencia amarillosa que no despulpan con la presión de los dedos, los cuales, aún en bajas proporciones, causan deterioro de la calidad generando bajas calificaciones en taza, asociadas con sabores amargos o astringentes. 
+Al inicio de la cosecha es común observar heterogeneidad en los estados de madurez del café y un elevado porcentaje de frutos secos, que afectan la calidad de la recolección. Para solucionar esta situación, es recomendable entrar al lote de café para recoger los frutos de inferior calidad y de avanzado estado de desarrollo (“descuñe”), a la espera de tener una madurez más homogénea en los siguientes pases, que facilite la recolección de los frutos cosechables y mejore la calidad de la masa cosechada. 
+
+El control de la recolección debe hacerse directamente en el campo, con el fin de corregir oportunamente el exceso de frutos verdes o pintones antes de llegar al beneficiadero. Se recomienda revisar el café recolectado en los recipientes y las estopas de los recolectores. 
+La manera más sencilla y rápida es mediante el uso del método Mediverdes®, el cual consta de un recipiente de 600 mL que puede contener aproximadamente 330 g de frutos de café. Con este método se aceptan hasta seis frutos verdes, que corresponden a un contenido máximo de 2,5% aproximadamente. Otros métodos que consideran menor tamaño de muestra son inexactos para determinar la proporción de frutos no deseados, como es el caso de la tabla de madera con cavidades para 100 frutos, con la cual podría disminuirse el error, tomando dos muestras diferentes sobre la misma masa. La suma de los frutos verdes no debe sobrepasar de siete unidades para estar en un rango aceptable. 
+
+El recipiente Mediverdes® también puede ser utilizado para la evaluación de la calidad de la recolección una vez el café es recibido en el beneficiadero y antes de comenzar el proceso. 
+Es muy importante para este proceso que la muestra de café sea homogénea, es decir, que no pertenezca a un solo saco o una parte de la tolva. También, que los frutos dentro del recipiente queden a ras, de modo que siempre se tenga la cantidad de café correspondiente al volumen de 600 mL. 
+Para ayudar a realizar la clasificación por estados de madurez, se desarrolló la Carta de Color Cromacafe®, que permite identificar fácilmente el cambio de color de los frutos de café de las variedades de cereza roja y conocer la calidad de la maduración de los frutos antes del proceso. 
+
+
+
+Procese cada tanda de café de manera independiente 
+Esta decisión garantiza que se mantenga la calidad, al no mezclar el café recolectado en tiempos diferentes. También permite hacer un mejor seguimiento al proceso ya que la calidad inicial varía de una tanda a otra, lo cual afectaría un café de buena calidad si se mezcla con otro de menor calidad. 
+Al realizar esta práctica se tendrán las siguientes ventajas: 
+
+
+
+Práctica 3. Retire frutos y granos de inferior calidad 
+La clasificación del café permite la separación de frutos y granos de inferior calidad para obtener un producto estable a lo largo del proceso. Aunque se haya tenido una buena recolección, es importante realizar la clasificación de los frutos, del café despulpado y del café lavado, como se explica a continuación: 
+
+Clasificación hidráulica de los frutos 
+Frutos de inferior calidad como secos, brocados y vanos, presentan menor densidad que el agua, por lo que la manera más eficaz de separarlos es a través de la clasificación por densidad en agua. Para lo anterior y con el ánimo de cumplir con los indicadores ambientales planteados por la ley colombiana, respecto al uso eficiente del agua, Cenicafé recomienda diferentes dispositivos de acuerdo con la cantidad de café a procesar. 
+Las capacidades de los dispositivos de clasificación recomendados fueron definidas con base en el día de mayor producción de la cosecha, de modo que se tienen: 
+• Uso de la doble caneca, para una producción menor o igual a 
+1.500 kg de frutos de café. 
+• 
+Separador hidráulico de tolva y tornillo sinfín, en el modelo que le corresponda para producciones entre 1.000 y 4.000 kg 
+
+• 
+Tanque sifón con recirculación de agua, para producciones superiores a 20.000 kg. 
+
+• 
+Para producciones entre 4.000 y 20.000 kg en el día pico se recomienda utilizar varios separadores hidráulicos de tolva y tornillo sifón. 
+
+
+
+Clasificación del café despulpado 
+Una vez el café sale de la despulpadora puede presentar frutos sin despulpar, ya que no tienen mucílago, como los verdes y secos, quedando con un mayor tamaño que los granos despulpados. Éstos se retiran fácilmente en la clasificación por tamaño, porque quedan atrapados en la parte superior de la zaranda, en caso de una zaranda plana o al interior de ella cuando se utiliza zaranda cilíndrica. En este proceso también se retiran trozos de pulpa o granos con pulpa adherida. 
+Existen dos factores en las zarandas que tienen influencia sobre la calidad del producto final: la forma de construcción y el ancho de las perforaciones. 
+Para la forma de construcción se utiliza lámina troquelada o varillas paralelas. Las primeras tienen mayor retención de impurezas debido a que tienen menor porcentaje de área perforada, por lo que el café que entra al tanque es más limpio y homogéneo. Para el ancho de las perforaciones debe tenerse en cuenta el tamaño de los granos para obtener una buena clasificación, con el uso de las variedades Castillo® y Cenicafé 1® se recomiendan perforaciones de 8,5 mm de ancho. 
+Clasificación hidráulica del café lavado 
+Una vez es obtenido el café lavado y antes de iniciar el secado debe realizarse una clasificación por densidad, con el fin de remover de la masa principal granos defectuosos como brocados o vanos, que no fueron retirados anteriormente. 
+Si el lavado se realiza en el mismo tanque de fermentación con la técnica de los cuatro enjuagues, se utiliza mayor cantidad de agua en el último enjuague, para que este tipo de granos floten en el agua y puedan retirarse manualmente por medio de un cedazo o colador. 
+Para mayores cantidades de café procesado con el uso de máquinas como el desmucilaginador mecánico - DESLIM o con el lavador del 
+Ecomill®, se recomienda remover los flotes restantes en un sistema de transporte con bomba sumergible, con recirculación de agua. 
+
+
+
+Práctica 4. Realice el mantenimiento, limpieza y calibraci de la despulpadora y demás equipos del proceso 
+
+
+Etapas del proceso húmedo 
+Las principales etapas del proceso húmedo son el despulpado, la remoci de mucílago y el secado, en las que existen diferentes tipos de equipos que están en contacto con el café, por lo que se recomienda mantener el buen estado de las máquinas utilizadas para las diferentes etapas, respecto a limpieza y funcionamiento mecánico con el fin de obtener su mejor desempeño. Deben realizarse los mantenimientos preventivos y de aseo con agua limpia cada vez que se utilicen. 
+En cada una de estas etapas debe considerarse lo siguiente: 
+
+Despulpado 
+Esta etapa debe hacerse sin adición de agua, además para que el café despulpado obtenido esté dentro de los valores indicados en la NTC-2090, es necesario considerar lo siguiente: 
+• 
+Verificar el funcionamiento del equipo, de manera que obtenga la capacidad estipulada por el fabricante de la máquina (en kg/h), registrando el tiempo requerido para el despulpado, con la cantidad inicial de la masa de frutos de café. 
+
+• 
+Verificar que los dientes de la camisa se encuentren en buen estado, sin daños o deformidades que afecten la calidad del despulpado. 
+
+• 
+Calibrar la separación entre el pechero de la despulpadora y la camisa del cilindro de acuerdo con el tamaño de los frutos, para evitar pérdidas de granos despulpados en la pulpa o gran cantidad de granos mordidos. 
+
+
+La calidad del despulpado se evalúa tomando cinco muestras de 60 g, para determinar los siguientes indicadores descritos en la Norma Técnica Colombiana 2090: 
+• 
+Grano mordido: grano que presenta ruptura de la almendra por acción de los dientes de la camisa, no debe ser mayor a 0,5%. 
+
+• 
+Grano trillado: grano que presenta pérdida de más de la mitad de su pergamino por acción de los dientes de la camisa, no debe ser mayor a 0,5%. 
+
+• 
+Pulpa en el café despulpado: trozos de pulpa que pasan a la masa de café, no debe ser superior al 2,0%. 
+
+• 
+Frutos sin despulpar: frutos que conservan la cáscara o pulpa después de haber pasado por la máquina e ingresan a la masa de café despulpado, no debe ser superior al 1,0%. 
+
+• 
+Granos despulpados en la pulpa: no debe haber granos en la pulpa, ya que esto representa pérdidas económicas. Para esta determinación deben tomarse cinco muestras de 200 g del material a la salida o descarga de pulpa de la máquina, se extraen los granos de café y se determina la masa total de granos en 1.000 g de muestra. 
+
+
+
+
+
+
+
+Eliminaci del mucílago 
+La eliminación del mucílago del café puede hacerse de diferentes maneras. Una forma consiste en degradar el mucílago con fermentación natural y posterior lavado, el cual es el método más usado. También puede retirarse de manera mecánica mediante el desmucilaginador mecánico DESLIM, o pueden usarse enzimas pectinolíticas para degradar el mucílago más rápidamente antes de lavarlo. También puede usarse el sistema Ecomill® que se utiliza para lavar mecánicamente y con muy poca agua, el café que pasa por fermentación natural o cuyo mucílago fue degradado con enzimas. 
+
+Eliminaci mecánica del mucílago 
+Cenicafé desarrolló el equipo de desmucilaginado mécanico Deslim para remover el mucílago del café recién despulpado, en porcentajes mayores al 98%. El equipo Deslim debe garantizar un buen funcionamiento y estar sincronizado con la capacidad de la despulpadora, de modo que no altere la calidad física y sensorial del café. Con este sistema, el daño mecánico del producto se presenta en casos en los cuales la cantidad de café despulpado que ingresa al desmucilaginador es menor a la capacidad del mismo, ocasionando mayor tiempo de retención de los granos dentro del equipo. También existen problemas de calidad del café cuando se sobrealimenta el equipo, porque se presenta eliminación incompleta de mucílago, que aumenta el riesgo de deterioro en etapas posteriores. 
+El equipo debe tener un sistema para controlar el consumo de agua, de tal manera que sea el especificado, entre 0,7 y 1,0 L/kg de café pergamino seco. Esta calibración debe hacerse frecuentemente para que se garantice el control de más del 90% de la contaminación producida por las aguas residuales de café, cuando se mezclan con la pulpa. 
+• 
+Al dejarse el desmucilaginador cargado con café a la espera de un nuevo lote a procesar, junto con una mala calibración de la capacidad del equipo, se generan manchas oscuras en la almendra del café, conocido comúnmente como “grano tigre” que afectan la apariencia física y la calidad. 
+
+• 
+Dado que el desmucilaginador mecánico genera grandes esfuerzos sobre la masa de café despulpado, no se recomienda aprovechar esta característica para “recuperar” los frutos denominados guayabas y medias caras (café con pulpa adherida), con el fin de convertirlos en café aparentemente bueno. Esta práctica tiene influencia negativa sobre el sabor de la taza de café, contribuyendo con sabores astringentes. 
+
+
+El Desmucilaginador mecánico Deslim requiere de algunas prácticas de mantenimiento para que haya un funcionamiento adecuado. 
+• 
+En primera instancia debe tenerse cuidado que la máquina tenga la capacidad nominal del desmucilaginador, en una aproximación de más o menos 10%. 
+
+• 
+El rotor del equipo está soportado por rodamientos, de los cuales el inferior es de mayor cuidado. Hay que mantener lubricados los rodamientos con grasa multipropósito, al menos cada mes. 
+
+• 
+Se debe tener cuidado que en el interior no aparezcan filos que puedan dañar los granos. 
+
+• 
+Si el desgaste de los agitadores es muy grande, cosa que sucede cada tres o cuatro años, deben invertir la posición, para que duren otro tiempo igual. 
+
+• 
+Cuando los dos lados de los dientes estén desgastados deben cambiarse los agitadores por otros nuevos. 
+
+• 
+El tope de la hélice del tornillo sinfín interior está sometido a un mayor esfuerzo, lo cual, por las características abrasivas del café, recibe mayor desgaste manifiesto en un filo que causa daños a los granos de café. Se debe revisar que esto no suceda. 
+
+
+
+
+Lavado mecánico del café 
+El equipo lavador hace parte del módulo Ecomill® viene con un diseño en dos versiones: vertical y horizontal. En los sistemas verticales (500, 1.500 y 3.000 kg/h de café lavado), los cuales son de flujo ascendente, el lavado se da en contracorriente, para hacer mejor aprovechamiento del agua, por lo cual tiene un consumo específico de agua promedio de 0,5 L/kg de café pergamino seco. Con ese bajo consumo de agua se logra tener un mucílago altamente concentrado que puede ser mezclado con la pulpa, para un control del 100% de la contaminación por aguas de lavado. En la versión horizontal, el Ecomill® LH300, de 300 kg/h de café lavado, el flujo de agua es transversal, por eso tiene un 20% mayor de consumo de agua, respecto a la versión vertical, el mismo desempeño ecológico cuando se mezclan el mucílago y la pulpa. 
+Como cada uno de estos equipos tiene su propio dosificador de café, por lo que no es necesario hacer calibración del flujo de café, lo garantiza el correcto tiempo de retención. Por esta razón, el mantenimiento de estos equipos se compone principalmente de las siguientes prácticas: 
+En los equipos verticales el rotor del equipo está soportado por rodamientos, de los cuales el inferior es de mayor cuidado. Hay que mantener lubricados los rodamientos con grasa multipropósito, con frecuencia mensual. 
+• 
+En los equipos horizontales el rotor está soportado sobre rodamientos ubicados en el exterior, lo que hace más fácil su mantenimiento, especialmente su lubricación con grasa multipropósito. 
+
+• 
+Se debe realizar inspección al tacto, con una periodicidad mensual, para examinar y corregir la aparición de filos que puedan dañar los granos. 
+
+• 
+Si el desgaste de los agitadores es muy grande, se debe invertir la posición de ellos para que duren otro tiempo igual. 
+
+• 
+Cuando los dos lados de los dientes estén desgastados se deben cambiar los agitadores por otros nuevos. 
+
+
+Práctica 5. 
+Monitoree la fermentaci con el Fermaestro® 
+Si realiza la fermentación natural, como método de eliminación de mucílago, es necesario realizar controles básicos sobre su desarrollo con el fin de evitar la formación de granos vinagres y defecto fermento. Se debe considerar lo siguiente: 
+• 
+La calidad del café obtenido por fermentación depende de las condiciones en que se realizaron las etapas de recolección, clasificación y despulpado, que permiten tener una masa de café homogénea y, por lo tanto, puede realizarse una fermentación adecuada, ya que se han reducido los factores externos que intervienen en el desarrollo de la misma. 
+
+• 
+El principal aspecto a controlar en la fermentación es la finalización de la misma o “punto de lavado”, el cual puede variar dependiendo principalmente de las condiciones del ambiente o de la calidad de la masa de café. Para esto se utiliza el método Fermaestro® que identifica el punto de lavado cuando hay una remoción de mucílago superior al 95%, permitiendo finalizar este proceso de forma segura para la calidad, además de realizar un lavado más eficiente. 
+
+
+También pueden adicionarse enzimas pectinolíticas como método de remoción de mucílago, especialmente para disminuir el tiempo de proceso respecto a la fermentación, útiles en pico de cosecha y cuando hay necesidad de aumentar la capacidad de los tanques de procesamiento. Para realizar esta labor adecuadamente debe tenerse en cuenta: 
+• 
+Utilizar la cantidad de enzima recomendada, de acuerdo con la cantidad de café cereza o café despulpado, para realizar la remoción de mucílago en un tiempo máximo de tres horas. 
+
+• 
+Disolver la cantidad de enzima estimada de acuerdo con la cantidad de café despulpado o café cereza, en un recipiente con agua limpia, a razón de 100 mL de agua por cada mililitro (mL) de enzima, aplicar directamente sobre la masa de café y agitarla para permitir el contacto del producto con los granos de café. 
+
+• 
+Al igual que en la fermentación natural, debe controlarse el tiempo de proceso utilizando el método Fermaestro®, para el cual debe tomarse la muestra de café despulpado una vez se haya aplicado la enzima. 
+
+
+
+
+Práctica 6. Retire el mucílago realizando un buen lavado 
+
+Lavado 
+Esta labor se realiza para retirar del grano de café el mucílago degradado en la etapa anterior. Puede hacerse en el mismo tanque de fermentación, aplicando la técnica de los cuatro enjuagues, agitando vigorosamente la masa con una paleta plástica, o para mayores cantidades de café, a través del lavador mecánico que hace parte de la tecnología Ecomill®. La importancia de esta práctica radica en evitar la contaminación cruzada de los granos. Siempre debe utilizarse agua limpia para el lavado, es decir, aquella que, según los sentidos, vista, olfato y gusto, sea transparente (incolora), insabora e inolora. 
+En esta etapa es importante retirar la mayor cantidad de mucílago degradado, de modo que el café quede limpio, sin restos de mucílago que pueda ocasionar sabores indeseables y defectos de calidad en el café. 
+Para cumplir con la legislación ambiental debe utilizarse el nivel de agua sugerida para cada enjuague, cuando el lavado se realiza en el mismo tanque, o calibrar el flujo de agua según las recomendaciones de uso del Ecomill®. El agua residual generada de este proceso debe ser tratada antes de verterla a las corrientes de agua, en el caso de utilizar la técnica de los cuatro enjuagues o adicionarla a la pulpa para facilitar su descomposición, siguiendo las recomendaciones para el manejo de los subproductos en el caso del Ecomill®. 
+
+
+
+Obtenga y mantenga el café pergamino seco con humedadentre el 10% y 12%% 
+
+Secado 
+Es la principal etapa de conservación de la calidad del café, ya que al disminuir el contenido de humedad del grano se reduce su actividad fisiológica y la de microorganismos que deterioran sus atributos e inocuidad. Además, mantiene la estabilidad del producto durante el almacenamiento, empaque y transporte hasta su consumo. Se recomienda iniciar este proceso preferiblemente después de haber escurrido el café. 
+Existen dos métodos usados para realizar este proceso, secado natural aprovechando la energía del sol y del aire ambiente, o de manera mecánica utilizando un ventilador para pasar aire caliente a través de la capa de café. Las recomendaciones para los dos métodos son las siguientes: 
+
+Secado solar 
+Para el mejor aprovechamiento y distribución uniforme de la radiación del sol, el secador debe estar orientado en sentido Norte 
+– Sur, libre de sombras generadas por árboles o construcciones cercanas. 
+El secador debe revisarse periódicamente. La cubierta plástica no debe tener perforaciones que permitan el paso de agua y debe limpiarse solamente con agua limpia, para eliminar la suciedad originada por polvo que obstaculiza el paso de la luz. El piso del secador debe ser plano y homogéneo, para evitar diferentes alturas de capa que causen desuniformidad en la humedad del café. 
+Cuando el secador tiene cortinas o compuertas, al inicio del secado se debe dar acceso a la circulación de aire al interior para permitir la extracción de aire húmedo y obtener la disminución de la humedad en el grano. 
+Para lograr un café con humedad entre el 10% y 12% con mayor exactitud, debe monitorearse desde el principio del proceso, haciendo 
+uso del Método Gravimet, siguiendo las recomendaciones para lograr los mejores resultados. 
+
+Para tener un secado más eficiente y lograr mayor uniformidad de la humedad en el café debe utilizarse una capa máxima de café lavado de 2,5 cm de altura y revolver el café en proceso de secado mínimo cuatro veces en el día. 
+
+Secado mecánico 
+Los cuatro parámetros clave para realizar el mejor aprovechamiento del secado mecánico son: la temperatura y el flujo del aire de secado, la altura de capa de café dentro del secador y el control de la humedad del café. 
+La temperatura de secado debe ser inferior a 50°C, debido a que el grano empieza a cambiar su estructura hasta que se vuelve cristalino, generando el defecto cristalizado que daña la calidad en las pruebas de taza. El caudal de aire óptimo desde el punto de vista energético, es de 0,1 m3/min-kg de café pergamino seco. 
+En los secadores de tres capas, la altura ideal para cada capa es de 0,25 m, mientras que, para secadores de dos capas, con inversión de dirección del aire, se recomienda una altura máxima de 0,35 m por capa. 
+Independiente del sistema de secado, la humedad del café debe estar entre el 10% y el 12%. Para la determinación exacta, fácil, sencilla y económica de la humedad del grano Cenicafé desarrolló el método Gravimet, el cual tiene adaptaciones para el secado solar y el secado mecánico, dependiendo de la masa original, la cual debe estar compuesta únicamente por granos sanos. Este método permite disminuir el error obtenido cuando se utilizan métodos subjetivos como el color de la almendra y la dureza o resistencia al corte, y también la disminución de costos ante el uso de equipos determinadores de humedad electrónicos, que tienen limitaciones al momento de la medición directa, pues requieren una muestra con humedad y temperatura uniforme, lo cual toma más de 30 minutos en estabilizarse. 
+
+
+
+
+Almacenamiento del café en finca 
+Para mantener el café en el rango de humedad obtenido en el secado, es necesario disponer de unos requisitos mínimos de empaque y almacenamiento. 
+En los casos en los que se dispone de un lugar para realizar el almacenamiento en las fincas antes de llevar el café pergamino seco a la venta, deben tenerse en cuenta los siguientes aspectos: 
+• 
+Los empaques utilizados deben ser nuevos o de uso exclusivo para café. 
+
+• 
+El cuarto de almacenamiento debe estar ventilado y libre de humedad, además protegido del sol. 
+
+• 
+Disponer de estibas para colocar el café y evitar el contacto con el piso. 
+
+• 
+Los arrumes deben estar separados de la pared o ventanas para evitar rehumedecimientos. 
+
+• 
+El lugar de almacenamiento debe estar libre de agroquímicos u otras sustancias que causen contaminación química al café. 
+
+
+
+Determinaci de la calidad del café 
+El primer criterio para determinar la calidad física es el factor de rendimiento en trilla, que quiere decir, la masa de café pergamino seco necesaria (en kilogramos), para obtener un saco de 70 kg de café trillado excelso o tipo exportación. 
+Una vez el café ha pasado por el proceso de trilla se obtiene el café verde o en almendra. Para que un café se clasifique como excelso debe estar compuesto por granos principalmente plano-convexos, parejos, retenidos por encima de la malla 14, con tolerancia de hasta el 5% inferior a esa malla, pero retenido por la malla 12, y por lo menos 50% de granos retenidos sobre la malla 15. Los granos picados por broca por encima de 15 unidades son considerados defectos. Este criterio, además, permite determinar el precio interno de referencia, para el cual se toma como factor de rendimiento base 92,8, obtenido de los kilogramos de café pergamino seco/70 kg de café trillado excelso). Este valor se publica diariamente en los puntos de compra, Cooperativas y Almacafé. 
+
+Para calcular el precio final Pcps se usa la siguiente expresión: 
+
+Donde f0 es el factor de rendimiento oficial que sale publicado diariamente en las Cooperativas del país, P0 es el precio oficial del café con factor de rendimiento oficial y f r el factor de rendimiento obtenido en la evaluación de calidad. El factor de rendimiento oficial f0 normalmente es de 92,8, sin embargo, en algunas ocasiones extraordinarias cuando la calidad del café es muy baja o hay coyuntura de precios, este factor toma el valor de 94,0. 
+El análisis sensorial, permite determinar la calidad en taza, un café de buena calidad debe tener como mínimo taza limpia, es decir, estar libre de defectos. La presencia de defectos en la taza, influencia el precio final porque se debe hacer un descuento de acuerdo con el tipo de defecto (I, II, III) y la frecuencia de tazas defectuosas por el total de tazas analizadas. 
+
+Proceso de beneficio para cumplir con las siete prácticas 
+El proceso que se utiliza para producir café, cumpliendo rigurosamente con las siete prácticas clave, se denominan 7P. Este proceso se presenta a continuación. 
+
+
+
+
+En el café, la calidad se asocia con el compromiso del caficultor en la cadena productiva para lograr una bebida con atributos sensoriales sobresalientes. La calidad del café se determina por un conjunto de características químicas, microbiológicas, físicas y sensoriales que incentivan al consumidor a pagar un precio superior por el producto, lo que representa mejores ingresos para el caficultor. La combinación de las características ambientales (clima y suelo) y los factores humanos, permiten la máxima expresión de las cualidades intrínsecas del café, generando los elementos necesarios para lograr su posicionamiento en el mercado de calidad superior.  
+Para la evaluación de la calidad de un producto se requiere del conocimiento de las propiedades y cualidades que permiten clasificarlo dentro de los valores de calidad, así como aquello que constituye un defecto o una característica no aceptable para el consumo. El análisis físico y sensorial del café describen las principales características de calidad: granos negros, vinagres, flojos, aplastados y sanos, entre otros, y características sensoriales como aroma, cuerpo, acidez. 
+
+
+Osorio, V. (2021). La calidad del Café. En Centro Nacional de Investigaciones de Café, Guía más agronomía, más productividad, más calidad (3a ed., pp. 219–234). Cenicafé. https://doi.org/10.38141/10791/0014_12 
+ORCID Osorio, V. https://orcid.org/0000-0002-1166-0165 
+
+
+
+
+
+
+Calidad física del café 
+Hace referencia al aspecto visual del café e incluye la valoración del olor y color del pergamino, así como la evaluación de su aspecto general. 
+Los principales indicadores de calidad física del café pergamino seco son: 
+
+
+
+El café pergamino seco está compuesto básicamente por pergamino (endocarpio, cisco), almendra defectuosa y almendra sana. 
+
+El contenido de humedad en el café juega un papel importante en la vida útil del producto y durante el almacenamiento. Un alto contenido de humedad puede afectar la calidad del grano, debido a que produce el calentamiento de la masa y genera focos de hongos e insectos. Los granos cereales con contenidos de humedad inferiores al 13% son poco susceptibles al ataque de microorganismos en cualquier medio. El contenido de humedad del café debe encontrarse en un rango del 10% al 12%. 
+La actividad de agua expresa la disponibilidad potencial del agua y está fuertemente relacionada con el tipo de producto, su composición química y con la temperatura de los granos. Para el café pergamino seco y excelso, bajo las mismas condiciones ambientales, cuanto mayor sea el contenido de agua, mayor será la actividad de agua. Este parámetro no es un indicador de la distribución del agua dentro del grano. El proceso de secado de café que asegura contenidos de humedad comprendidos entre el 10% al 12%, elimina el agua disponible y deja solo el agua ligada, permitiendo que los valores de actividad de agua sean inferiores a 0,62. 
+Valoración de la calidad física para la compra de café 
+En Colombia se cuenta con dos formas de valoración: el porcentaje de almendra sana y el factor de rendimiento. 
+El porcentaje de almendra sana se refiere a la cantidad de granos sanos, sin defectos, presente en una cantidad determinada de café. El valor promedio se estima en 74%, y valores superiores indican una mejor calidad física. 
+Por su parte, el factor de rendimiento se define como la cantidad de café pergamino seco que se necesita para obtener un saco de 70 kg de café excelso. Actualmente, el promedio del factor de rendimiento en el país es de 94 kg de café pergamino seco para obtener 70 kilogramos de café excelso. Lo restante, corresponde a cisco (18,7 kg) y almendra defectuosa (5,3 kg). De esta manera, el precio obtenido en la comercialización depende de la calidad del café que se lleve al punto de compra. 
+Según la Resolución No.2 del Comité Nacional de Cafeteros 25/ IV/2016, los defectos del café verde se clasifican en defectos del primer 
+y segundo grupo. 
+
+
+NEGRO: 
+Grano de color negro generadopor sobrefermentacionesoriginadas en la recolecciónde cerezas secas, fermentaciones excesivas del mucilago oincorrecto proceso de lavado. 
+VINAGRE: 
+Grano de color marrón 
+o rojizo generado porsobrefermentaciones originadasen la recolección de cerezas secas fermentaciones excesivas del mucílago o incorrectoproceso de lavado. 
+ÁMBAR O MANTEQUILLO:
+Grano de color amarillo traslúcido generado pornutrición deficiente en el cultivo. 
+DECOLORADO REPOSADO: 
+Grano con alteración de su color natural tornándose al amarillo generado por almacenamientosprolongados o inadecuadascondiciones de almacenamiento. 
+CARDENILLO: 
+Grano con manchas de color amarillo naranja ocasionadaspor hongos, por interrupcionesdel proceso de secado oalmacenamiento de café húmedo. 
+
+CRISTALIZADO - SOBRESECADO: 
+Grano de color gris claro y frágilproducido por el uso de altastemperaturas en el proceso desecado. 
+DECOLORADO VETEADO: 
+Grano con alteración del color natural con vetas blancas ocasionado porrehumedecimiento del café. 
+MORDIDO / CORTADO: 
+Grano deteriorado durante el despulpago y que generalmentedesarrolla manchas pardas o negras. 
+PICADO POR INSECTOS: 
+Grano con orificios pequeñospor el ataque de insectos comoel gorgojo y la broca. 
+AVERANADO / ARRUGADO: 
+Grano arrugado de bajo pesogenerado por sequías o nutrición deficiente en el cultivo. 
+APLASTADO: 
+Grano aplanado con fracturasparciales originado porpresiones indebidas durante elproceso de secado o trilla decafé húmedo. 
+FLOJO: 
+Grano de color gris oscuro contextura blanda generado porprocesos incompletos de secado. 
+INMADURO: 
+Grano pequeño cubiertocompletamente por la películaplateada, generalmenterecolectado antes de alcanzar su formación completa. 
+
+
+Calidad sensorial del café 
+El análisis sensorial, es decir, el estudio de aquellas propiedades de los alimentos que afectan los órganos de los sentidos, es hasta ahora el método más eficiente para evaluar la calidad del café. Las características de color, aspecto, olor y sabor de los alimentos, estimulan la visión, el olfato, el tacto y el gusto, produciendo estímulos que van al cerebro, donde ocurre la percepción y correlación de impresiones sensoriales, que se convierten en un juicio por medio del cual se determina si un producto es aceptado o rechazado. 
+Existen principalmente dos tipos de análisis sensoriales, los subjetivos y los objetivos. En el primero se evalúa la aceptación de un producto de acuerdo con las preferencias del consumidor, el cual no tiene conocimiento de las características a evaluar. Mientras que, los análisis objetivos son realizados por jueces entrenados, que conocen los diferentes atributos a evaluar, así como la escala de valoración. En el análisis sensorial del café las pruebas analíticas discriminativas son ampliamente usadas para el entrenamiento de catadores y para la generación del perfil de los atributos del café es utilizada la prueba analítica descriptiva QDA o perfil del gusto. 
+
+
+
+Conocido como escala del placer, donde cada panelista evalúa si el producto es muy bueno, bueno, regular, malo o muy malo 
+
+El análisis sensorial de café también es denominado catación y tiene los siguientes objetivos: 
+• 
+Definir si el café tiene defectos o sabores desagradables. 
+
+• 
+Describir los atributos y los sabores agradables. 
+
+• 
+Evaluar su intensidad. 
+
+• 
+Decidir si el café es malo, regular, promedio, bueno, muy bueno 
+
+
+o sobresaliente. 
+• Informar sobre los resultados obtenidos. 
+Los defectos sensoriales más comunes pueden agruparse en cuatro grandes conjuntos por su similitud en el efecto negativo sobre los atributos sensoriales del café. Así, el grupo de los sobrefermentados está asociado a sabores de pulpa descompuesta con predominancia de acidez tipo “agria”; el grupo de los ásperos a sabores residuales pesados; el grupo de los terrosos a sabores dentro del rango de tierra, madera con disminución de la limpieza en el sabor residual; el grupo de los contaminados está asociado a sabores extraños que pueden darse por el contacto del café con agentes externos. 
+Sobrefermentados  Ásperos  Terrosos  Contaminados  
+Pulpa  Inmaduro  Terroso  Fenol  
+Vinagre  Acre  Mohoso  Humo  
+Fermento  Áspero  Reposo  Contaminado  
+Stinker  Químico  
+
+En el siguiente cuadro se presentan las definiciones de los defectos sensoriales en el sabor del café, según la Norma Técnica Colombiana NTC 2758. 
+Grupo  Defecto  Definición NTC 2758  
+Sobrefermentado  Pulpa  4.29. Aroma y sabor que da en la bebida un gusto al fruto de café sobremaduro que evoca el aroma a la pulpa fresca.  
+Vinagre  4.77. Sensación olfativa y gustativa diferente a la de la acidez natural, caracterizada por la descomposición intermedia a ácido acético generalmente ocasionada por una fermentación excesiva.  
+Fermentado  4.48. Sensación olfativa y gustativa a materia orgánica descompuesta, indeseable en el café. Producido en la sobrefermentación enzimática de compuestos orgánicos durante el beneficio.  
+Stinker  4.50. Sensación de aroma y sabor fuerte y defectuoso a materia orgánica putrefacta, se origina por una excesiva sobrefermentación de las cerezas del café debido a sobre maduración o deficientes condiciones de su beneficio. 4.28. Sensación olfativa y gustativa áspera, amarga, astringente, picante y pesada. Suele estar asociada a la presencia de granos defectuosos especialmente negros. 4.36. Sensación táctil fuerte, rasposa y/o tosca indeseable en el café, causada por presencia de granos defectuosos, deficiencias en el proceso de industrialización, deterioro del café tostado y/o preparación de la bebida. 4.53. Percepción de aroma y sabor que puede ser ocasionada por la presencia de frutos de café verdes y pintones que producen tazas astringentes, agresivas y que no tienen características organolépticas desarrolladas.  
+Acre-áspero Acre  
+Áspero  
+Inmaduro  
+
+Terrosos  Sucio  
+Paja  
+
+4.73. Sensación de aroma y sabor asociada a polvo, pesada en el paladar e indeseable en el café. Originado por deficiencias de la limpieza en el beneficio y/o almacenamiento del café verde y pergamino. 
+4.62. Sensación de aroma y sabor característica a hierba o grama seca y/o heno, puede presentarse en cafés frescos deficientemente secados o por la transformación de material orgánico durante su almacenamiento. 
+Continúa... 
+...Continuación. 
+
+4.58. Aroma y sabor indeseable del café, característico a moho que se desarrolla por el inadecuado manejo de la humedad durante el beneficio, en especial en el secado del café y durante su almacenamiento. 
+4.74. Aroma y sabor a tierra húmeda o recién movida, indeseable en los cafés arábigos; en algunos casos se asocia al hollejo de la papa. Esta característica se puede presentar por un secado inadecuado del café sobre tierra durante el beneficio. 
+
+4.32. Sensación olfativa asociada a la presencia de humo que se impregna en el café en cualquier etapa desde el beneficio hasta la preparación de la bebida debido a condiciones inadecuadas. 
+4.42. Característica que presenta el café por contaminación con derivados del petróleo como ACPM o gasolina durante su beneficio, transporte, almacenamiento o torrefacción. 
+4.47. Aroma y principalmente sabores indeseables en el café asociado a compuestos halogenados (con cloro, yodo). Se puede generar durante el beneficio por lavado con aguas cloradas o con residuos de desinfectantes o por rehumedecimiento del café durante el secado. 
+4.57. Sensación gustativa similar a la que toma el agua en contacto directo con superficies metálicas recién pulidas. Indeseable en el café, puede presentarse por el agua o los recipientes utilizados en la preparación de la bebida. 
+
+
+La calidad sensorial del café se rige por protocolos de preparación estandarizada de muestras y de evaluación de los atributos, con el propósito de determinar la percepción por parte de los catadores. Se analizan los atributos y luego se clasifican las muestras en una escala numérica, lo que permite comparar puntajes entre estas. Se espera que los cafés que reciban los puntajes más altos sean los mejores. Este tipo de análisis sensorial es una técnica reproducible para identificar, cuantificar, describir las características de un producto y determinar su calidad. Permite evaluar tanto individual como integralmente las características sensoriales del café y las relaciones entre ellas, obteniéndose la mayor información posible de una muestra. Se definen los principales atributos del café. 
+
+
+Existen muchas escalas y protocolos para la valoración de la calidad sensorial del café, pero uno de los procedimientos más difundidos es el desarrollado por la Specialty Coffee Association (SCA). El formato de registro provee los medios para registrar 11 atributos del café: Fragancia/aroma, sabor, sabor residual, acidez, cuerpo, balance, defectos y puntaje catador. Para la metodología SCA los atributos de dulzor, taza limpia y uniformidad se evalúan de manera discriminante, es decir, si existen o no en las tazas evaluadas. El dulzor se refiere a una plenitud agradable del sabor, taza limpia a la ausencia de defectos sensoriales y la uniformidad se refiere a la consistencia del sabor entre las tazas de la muestra, si las tazas tienen sabores diferentes, la calificación de este aspecto no será alta. Se muestra la clasificación del café dentro de diferentes rangos de especialidad en función de su puntaje total. 
+
+Puntaje total  Descripción de la especialidad  Clasificación  
+90 - 100  Excepcional  Especialidad 
+95 - 89,99  Excelente  
+80 - 84,99  Muy bueno  
+<80,0  Debajo de la calidad especial  No especialidad  
+
+Los atributos sensoriales del café pueden describirse desde su intensidad y calidad en una escala descriptiva. Se presentan algunos atributos sensoriales del café y algunos descriptores positivos y negativos de cada uno. 
+
+
+Inocuidad 
+La inocuidad se refiere a la inexistencia de riesgos para la salud humana y toma especial importancia en los productos destinados para el consumo, como los alimentos. Por lo tanto, es necesaria la realización de pruebas que permitan controlar dichos riesgos. 
+La Ocratoxina A(OTA) es una toxina producida por hongos, que tiene efectos negativos en la salud humana y que no es eliminada totalmente en el proceso de tueste. El principal hongo productor de OTA Aspergillus ochraceus, se encuentra con mayor frecuencia en el suelo, por lo tanto, el café que ha estado en contacto con este tiene un mayor riesgo. Otra fuente que puede tener una relación con mayores contenidos es la presencia de defectos físicos. 
+El límite de actividad de agua para el crecimiento inicial del hongo es de 0,76, lo que corresponde a un contenido de humedad del 14,2% para los granos de café verde, pero para la producción de ocratoxina los valores mínimos de actividad de agua varían entre 0,83 y 0,87. Lo anterior implica que para el crecimiento de hongos en el café se requiere un contenido de humedad que exceda el 13% en base húmeda. Es por este motivo que dentro de las estrategias de poscosecha se tienen las recomendaciones asociadas a la disminución rápida del contenido de humedad a través de procesos eficientes de secado y la conservación de este nivel en la cadena de comercialización. 
+
+Composici química del café 
+La composición química del café almendra tiene incidencia en los diferentes atributos sensoriales. La cafeína es estable al calor y se asocia generalmente con el sabor amargo distintivo del café, la trigonelina es un alcaloide cuya importancia está relacionada con su degradación durante el proceso de tueste, que genera varios compuestos volátiles que influyen en el aroma de la bebida. 
+
+
+Los ácidos clorogénicos, son compuestos fenólicos, que influyen en la formación del aroma, acidez, astringencia y amargo. La sacarosa, compuesto más abundante, actúa como precursor del aroma originando varias sustancias en el proceso de tueste, afectando el sabor y aroma de la bebida. La presencia de lípidos se asocia con la duración del aroma y la espuma de la bebida, y su acumulación depende de varios factores, particularmente de la especie. 
+Para la obtención de café de calidad deben tenerse en cuenta todas las etapas del proceso productivo y los indicadores que permiten su valoración tales como la inocuidad, la calidad física y sensorial y la composición química. Por lo tanto, es necesario desarrollar una perspectiva global que permita integrar el efecto de la variedad, de las prácticas agronómicas y de cada una de las etapas del proceso de beneficio húmedo para lograr la máxima expresión de las cualidades sensoriales del café. 
+
+
+
+
+

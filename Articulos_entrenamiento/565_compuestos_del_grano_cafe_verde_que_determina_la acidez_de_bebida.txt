@@ -1,0 +1,226 @@
+
+Compuestos del grano de café verde que determinan la acidez de la bebida
+
+
+La acidez de la bebida es uno de los atributos sensoriales más valorados por los consumidores de café de especialidad en el mundo. Se describe como aquella sensacin en la lengua que hace salivar y contribuye a la vivacidad de la bebida de café y al carácter de fruta fresca (Echeverri-Giraldo et al., 2024); sin embargo, una intensidad de acidez muy baja o muy alta que no permita apreciar los demás atributos puede afectar el balance de la bebida. Esta sensacin ha sido asociada a la presencia de ciertos compuestos químicos de carácter ácido que son almacenados en el grano de café verde, los cuales se consolidan y se conservan a través de la cadena productiva del café y finalmente se expresan en la bebida después del proceso de tueste y preparacin. 
+Este Avance Técnico tiene como objetivo explicar co los compuestos químicos de carácter ácido, presentes en el grano de café verde, se relacionan con la expresi de la acidez percibida sensorialmente, uno de los atributos diferenciadores del Café de Colombia. 
+Compuestos ácidos presentes en el grano de café. 
+Los ácidos orgánicos en el café pueden hacer que su sabor sea más o menos ácido. Esto depende de la cantidad de ácido en la bebida y de la fuerza de esos ácidos (Farah & Galván de Lima, 2019). Una acidez agradable contribuye a la vivacidad y frescura de la bebida de café, aumentando la sensaci de dulzor y, a veces, proporcionando un sabor a frutas frescas como limn o manzana verde. Por otro lado, una acidez desagradable puede hacer que el café tenga un sabor agrio, debido a fermentaciones prolongadas con frutos en estado de madurez avanzada. En café, los ácidos mayoritarios son: los ácidos orgánicos (Figura 1), donde predominan el ácido cítrico, málico, acético y quínico y los ácidos clorogénicos agrupados como ácidos cafeoilquínicos (CQA, por sus siglas en inglés), ácidos feruloilquínicos (FQA) y ácidos dicafeoilquínicos (di-CQA). También 
+se ha identificado un aporte importante en la acidez 
+dada por el ácido fosfico (no tiene carbono en su 
+estructura química), por lo cual se clasifica como 
+un ácido  inorgánico (Echeverri-Giraldo et al., 2024). Los compuestos químicos de carácter ácido presentes en el grano de café no solo son responsables de la percepci de la acidez en la bebida, sino que también contribuyen al sabor de diferentes maneras e intensidades. 
+Ácido cítrico. Se encuentra principalmente en frutas cítricas y su sabor evoca el frescor característico del lim y la naranja. Aporta una acidez brillante y refrescante que contribuye a la vivacidad y agudeza de la bebida. Se forma durante el desarrollo del grano y sus concentraciones varían 
+según el tipo de beneficio y el grado de tueste 
+(Echeverri-Giraldo et al., 2024; Osorio et al., 2021. 
+Ácido málico. Se encuentra en frutas como la manzana verde y las uvas. Es ligeramente más fuerte que el cítrico en cuanto a la acidez percibida, proporciona un sabor frutal más completo y suave. Su presencia aporta complejidad y equilibrio al 
+perfil de sabor del café, proporciona un sabor 
+frutal y suave (Farah & Galván de Lima, 2019). 
+Ácido acético. En peques cantidades contribuye al sabor general y puede proporcionar una agradable agudeza a la bebida, pero en concentraciones altas puede resultar en una desagradable acidez agria. A menudo se genera en concentraciones muy altas durante una fermentaci excesiva o 
+cuando en el proceso de beneficio se emplean 
+frutos negros, que se han sobrefermentado en el árbol (Farah & Galván de Lima, 2019). 
+Ácido fosfico. Se encuentra naturalmente en forma de fosfatos en algunas frutas como manzanas, uvas, mangos, fresas. En el café, aunque está presente en concentraciones muy bajas, influye positivamente en la percepci de la acidez de la bebida, mejorando su brillo y frescura, creando una sensaci de acidez chispeante, además el ácido fosfico por sí solo, tiende a impartir notas dulces (Farah & Galván de Lima, 2019; Khapre et al., 2017). 
+Ácido quínico. Aporta sabores herbales y astringentes, influyendo en la percepci general de la acidez de la bebida incluso cuando está presente en concentraciones tan bajas como el 1% del total de ácidos. Durante el proceso de tueste, su contenido aumenta progresivamente a medida que los niveles de ácidos clorogénicos disminuyen, debido a la degradaci térmica de la estructura del ácido clorogénico, del cual forma parte (Osorio et al., 2021; Puerta & Echeverri, 2019) 
+
+Ácidos clorogénicos y sus iseros.1 (ACG). Son precursores de varios compuestos volátiles que contribuyen a la formaci de atributos sensoriales de la bebida especialmente la acidez, astringencia y amargo (Ribeiro et al., 2018). Se han asociado a puntajes positivos durante la evaluaci sensorial, sin embargo, altos contenidos de ACG indican presencia de frutos verdes que pueden resultar en defectos sensoriales (Marín & Puerta,  2008). 
+La acidez como atributo sensorial 
+La Asociaci de Cafés Especiales (SCA, por sus 
+siglas en inglés), define el análisis sensorial como 
+una técnica sistemática y reproducible que permite 
+identificar, cuantificar y describir objetivamente 
+las características sensoriales de un café, con el 
+fin de evaluar su calidad de manera precisa. Para 
+ello, la SCA desarrollun sistema de puntuaci denominado formato de cataci SCA, que permite diferenciar el café especial del comercial, la valoraci máxima posible por este protocolo es de 100 puntos, y se considera un café de calidad especial a partir de los 80 puntos (SCA, 2003). 
+
+ Isero: son ácidos con la misma composici atomica, pero organizaci diferente. 
+Este protocolo es reconocido internacionalmente por el CQI (Coffee Quality Institute), permite registrar diez atributos de café, que en su sumatoria 
+configuran el puntaje total: fragancia/aroma, 
+sabor, sabor residual, acidez, cuerpo, balance, uniformidad, taza limpia, dulzor, presencia de defectos. Cada muestra está conformada por cinco tazas y cada catador eval cada atributo en tres niveles de temperatura. Para realizar este análisis el catador debe estar certificado como Q-Grader2. 
+
+
+Contenidos químicos de ácidos presentes en el grano de café 
+Como parte del proyecto “Desarrollo experimental para el mejoramiento de la competitividad del sector 
+cafetero del departamento de Cesar”, financiado por 
+el Sistema General de Regalías en colaboraci con la Federaci Nacional de Cafeteros, en Cenicafé se lleva cabo una investigaci donde 
+se identificaron y cuantificaron los compuestos 
+químicos de carácter ácido presentes en el 
+grano de café, con el fin de determinar si hay una 
+relaci entre los contenidos de estos compuestos y la calidad de la acidez percibida en la bebida. 
+En total, se seleccionaron 160 fincas de los 12 
+municipios cafeteros del departamento del Cesar. Las muestras procedían de cultivos de la especie 
+Coffea arabica L, beneficiadas por vía húmeda por los caficultores en sus fincas y evaluadas durante 
+dos cosechas de produccin (2021 – 2022), para un total de 320 muestras (Echeverri-Giraldo et al., 2024). 
+
+Perfil sensorial 
+En el análisis sensorial se encontrque el 77,2% de las muestras evaluadas obtuvieron puntajes de 80 puntos 
+o más, lo que las clasifica como cafés de especialidad 
+(Figura 2), las cuales presentaron descriptores 
+predominantes en sus atributos de fragancia/aroma 
+y sabor a frutos cítricos, floral y frutal (Figura 3). 
+Las muestras con puntaje SCA superior a 80 puntos, en promedio presentaron puntajes superiores a 7,25 en cada atributo. Para el atributo 
+
+2 Q-Grader: Profesional reconocido internacionalmente en la evaluación de la calidad del café, certificación otorgada por el CQI 
+(Coffee Quality Institute) 
+Entre los atributos sensoriales más apreciados en el café de especialidad se encuentra la acidez, la cual se describe 
+como un atributo que confiere vitalidad, dulzura y un perfil
+fresco y frutal a la bebida. La acidez se percibe y eval rápidamente al probar el café, provocando una sensaci estimulante o de salivaci en la boca, lo que contribuye a su complejidad sensorial y valoraci. 
+
+
+
+acidez, las muestras presentaron un puntaje mínimo de 7,00 y un máximo de 8,25 (Tabla 1). 
+
+
+
+Relaci entre los compuestos ácidos delgrano de café verde yel atributo sensorial de acidez 
+Con el fin de determinar la relación entre la acidez 
+sensorial percibida en la bebida por los catadores Q- Grader y los contenidos de compuestos de carácter ácido presentes en el grano de café 
+verde, se realizó una escala de clasificación de acidez definida por catadores Q-Grader (Tabla 2). 
+Seg los resultados de las pruebas estadísticas (Tabla 3), en las muestras con puntajes de acidez superior a 7,75 se encontraron los mayores contenidos en el grano de café verde para los ácidos: 3,5-di-CQA (0,51%), ácido láctico (0,45 g kg-1) y ácido fosfico (0,56%) y en menor contenido se encontraron el ácido málico (3,82 g kg-1) y el 5-FQA (0,36%). Así mismo, en muestras clasificadas 
+con buena acidez, se observa que el contenido del ácido 4,5-di-CQA es mayor con respecto a las 
+demás clasificaciones. Los contenidos de ácido 
+fosfico, estuvieron entre 0,42% a 0,68%, similares a los reportados por Khapre et al. (2017) en granos de café verde de C. arabica procedentes de Kenia. 
+Dentro de los ácidos orgánicos con mayor contenido en el grano de café verde se encuentra 
+
+Tabla 1. Puntaje por atributo sensorial en las muestras con puntaje total SCA superior a 8,00. 
+
+Atributo  Promedio  DS  Mínimo  Máximo  
+Fragancia/Aroma  7,57  0,21  6,88  8,25  
+Sabor  7,54  0,24  7,00  8,35  
+Sabor residual  7,38  0,22  7,00  8,12  
+Acidez  7,52  0,20  7,00  8,25  
+Cuerpo  7,48  0,19  7,00  8,13  
+Balance  7,45  0,20  7,00  8,00  
+Puntaje del catador  7,49  0,27  7,00  9,00  
+
+DS: Desviaci estándar; Puntuaci en escala de 0,25 con un máximo de diez puntos. 
+el ácido cítrico (11,7 a 12,4 g kg-1 en base seca) y aunque en este estudio no se evidenciuna 
+relación significativa de este ácido cítrico con la 
+acidez percibida. En este estudio, para el caso del ácido cítrico que es uno de los ácidos orgánicos mayoritarios presentes en el grano de café verde, no se evidenciaron diferencias entre las diferentes 
+escalas de clasificación de la acidez percibida, sin 
+embargo, Khapre et al. (2017), Barbosa et al. (2019) y Zanin et al. (2016), han reportado diferencias 
+significativas de este compuesto en relación a 
+la acidez, ya que contribuye con la formaci de otros compuestos precursores de aroma y sabor. En el grupo de los ácidos clorogénicos (Tabla 
+3) también se observaron diferencias, siendo 
+mayor el contenido del isero 3,5-di-CQA en 
+
+las muestras clasificadas con acidez excelente 
+y se presentaron menores contenidos de los iseros 3-CQA, 4-CQA y 5-FQA. Dos 
+Santos et al. (2013) afirman que valores altos 
+de 3,5-diCQA y 3,4-di-CQA son indicadores de frutos maduros en la masa de la cosecha, que dan como resultado atributos positivos en la bebida. 
+
+Conclusi 
+
+En el grano de café verde se almacenan los 
+compuestos químicos que finalmente se expresarán 
+en la bebida de café después del proceso de tueste y preparaci. Todos los compuestos químicos tienen una alta influencia en la percepci de la 
+Tabla 2.  Escala de clasificacin para el atributo acidez. 
+Rango de puntaje  Clasificación de la calidad  
+De 7,00 a menos de 7,25  Buena  
+De 7,25 a menos de 7,75  Muy buena  
+De 7,75 o más  Excelente  
+
+Tabla 3. Contenido promedio de compuestos ácidos segn la clasificacin de acidez. 
+Grupo de compuesto ácido  Escala clasificación acidez  
+Buena  Muy buena  Excelente  
+De 7,00 a menos de 7,25  De 7,25 a menos de 7,75  De 7,75 o más 
+ Ácido fosfico1 (H3PO4)  0,52 ± 0,04 b  0,53 ± 0,05 b  0,56 ± 0,05 a 
+ Ácidos orgánicos 2 
+ Cítrico  12,35 ± 1,53 a  11,66 ± 1,48 a  12,03 ± 1,48 a 
+ Láctico  0,37 ± 0,13 b  0,32 ± 0,11 b  0,45 ± 0,13 a 
+ Málico  4,48 ± 0,76 a  4,49 ± 0,76 a  3,82 ± 0,76 b 
+ Quínico  6,01 ± 0,71 ab  5,71 ± 0,74 b  6,08 ± 0,84 a 
+ Succínico  1,66 ± 0,62 a  1,63 ± 0,71 a  1,60 ± 0,69 a 
+ Iseros of CGA 2  
+3-CQA  0,36 ± 0,09 a  0,32 ± 0,08 a  0,26 ± 0,07 b  
+4-CQA  0,55 ± 0,09 a  0,51 ± 0,09 a  0,45 ± 0,08 b  
+5-CQA  4,69 ± 0,31 a  4,81 ± 0,31 a  4,81 ± 0,30 a  
+3,4-di-CQA  0,14 ± 0,04 a  0,13 ± 0,06 a  0,12 ± 0,03 a  
+3,5-di-CQA  0,40 ± 0,10 b  0,42 ± 0,11 b  0,51 ± 0,10 a  
+4,5-di-CQA  0,20 ± 0,04 a  0,18 ± 0,04 b  0,17 ± 0,03 b  
+4-FQA  0,03 ± 0,01a  0,03 ± 0,01 a  0,03 ± 0,01 a  
+5-FQA  0,37 ± 0,03 a  0,37 ± 0,04 a  0,36 ± 0,03 b  
+
+Para cada grupo de compuestos químicos, letras no comunes indican diferencias significativas entre las diferentes escalas 
+de acidez seg prueba t multivariante al 5% 1 g kg-1 en base seca 2 % en base seca 
+
+calidad sensorial del café, contribuyendo con la diferenciaci del origen del Café de Colombia. Los compuestos ácidos que contribuyen a la percepci de la acidez sensorial del café, tienen una marcada influencia en los atributos de sabor y en la calidad sensorial general de la bebida. La cantidad y proporci de cada ácido depende de diferentes factores, desde la especie cultivada, la calidad de los frutos cosechados, tipo de procesamiento y condiciones de almacenamiento, así como del proceso de tueste y la forma de preparaci de la bebida. 
+En esta investigación fue posible identificar al ácido 
+láctico, el ácido 3,5-di-CQA y el ácido fosfico como discriminantes de una acidez excelente, es decir, con puntaje superior a 7,75 en la escala 
+de clasificación SCA, cuando se presentan en 
+cantidades mayores en el grano de café verde. 
+También se observque el puntaje de acidez es más alto cuando hay mayor contenido de los compuestos 3,5-di-CQA y 5-CQA, y disminuye cuando hay mayor contenido de los compuestos 3-CQA, 4-CQA y 4,5-CQA. 
+
+
+
+Familias caficultoras 
+
+Literatura citada 
+Barbosa, M. D. S. G., Scholz, M. B. D. S., Kitzberger, C. S. G., & Benassi, M. D. T. (2019). Correlation between the composition of green Arabica coffee beans and the sensory quality of coffee brews. Food Chemistry, 292, 275– 280. https://doi.org/10.1016/j.foodchem.2019.04.072 
+
+Dos Santos Scholz, M. B., de Figueiredo, V. R. G., da Silva, J. V. N., & Kitzberger, C. S. G. (2013). Sensory atributes and physico-chemical characteristics of the coffee beverage from the IAPAR cultivars. Coffee Science., 8(1), 6-16. Echeverri-Giraldo, L. F., Osorio Pérez, V., Tabares Arboleda, C., Vargas Gutiérrez, L. J., & Imbachi Quinchua, L. C. (2024). 
+Content of Acidic Compounds in the Bean of Coffea arabica L., Produced in the Department of Cesar (Colombia), and Its Relationship with the Sensorial Attribute of Acidity. Separations, 11(2), 52. https:// 
+doi.org/10.3390/separations11020052 
+
+
+Farah, A., & Galvan De Lima, Â. (2019). Organic Acids. En A. Farah (Ed.), Coffee (pp. 517–542). Royal Society of Chemistry. https://doi. 
+org/10.1039/9781782622437-00517 
+
+Khapre, Y., Kyamuhangire, W., Njoroge, E. K., & Kathurima, C. W. (2017). Analysis of the diversity of some arabica and robusta coffee from kenya and uganda by sensory and biochemical components and their correlation to taste. IOSR Journal of Environmental Science, Toxicology and Food Technology, 2(10), 39–43. 
+Marin, C., & Puerta, G. I. (2008). Contenido de ácidos clorogénicos en granos de Coffea arabica L. y C. Canephora, seg el desarrollo del fruto. Revista Cenicafé, 59(1), 7–28. http://hdl.handle.net/10778/60 
+
+Osorio, V., Pab, J., Gallego, C. P., & Echeverri, L. F. (2021). Efecto de las temperaturas y tiempos de tueste en la composici química del café. Revista Cenicafé, 72(1), e72103. https://doi. 
+org/10.38141/10778/72103 
+
+Puerta, G. I., & Echeverri, L. F. (2019). Relaciones entre las concentraciones de compuestos químicos del café y las temperaturas de torrefacci. Revista Cenicafé, 70(2), 67–80. https://doi. 
+org/10.38141/10778/70206 
+Ribeiro, D. E., Borém, F. M., Nunes, C. A., Alves, A. P. D. C., Dos Santos, C. M., 
+Taveira, J. H. D. S., & Dias, L. L. D. C. (2018). Profile of organic acids and 
+bioactive compounds in the sensory quality discrimination of arabica coffee. Coffee Science, 13(2), 187–197. https://doi.org/10.25186/ 
+cs.v13i2.1415 
+
+Specialty Coffee Association. (2003). Cupping Protocols. Protocols & Best Practices. https://sca.coffee/research/protocols-best-practices 
+
+Zanin, R. C., Corso, M. P., Kitzberger, C. S. G., Scholz, M. B. D. S., & Benassi, M. D. T. (2016). Good cup quality roasted coffees show wide variation in chlorogenic acids content. LWT, 74, 480–483. https://doi. 
+org/10.1016/j.lwt.2016.08.012 
+
+Autores 
+
+Luz Fanny Echeverri Giraldo 
+
+Asistente de Investigaci https://orcid.org/0000-0002-9866-6147 
+
+
+Valentina Osorio Pérez 
+
+Investigador Científico I 
+https://orcid.org/0000-0002-1166-0165 
+
+Disciplina de Calidad - Cenicafé 
+Centro Nacional de Investigaciones de Café. Cenicafé 
+DOI (Digital Object Identifier) 
+https://doi.org/10.38141/10779/0565 
+
+Edici  
+Sandra Milena Marín Lez 
+Fotografías 
+Archivo Cenicafé 
+Diagramaci 
+Carmenza Bacca Ramírez 
+Imprenta 
+
+
+
+Gerencia Técnica                    Fondo Nacional del Café 
+
+ISSN-0120-0178 ISSN-2145-3691 (En línea) 
+Los trabajos suscritos por el personal técnico del Centro Nacional de Investigaciones de Café son parte de las investigaciones realizadas por la Federaci Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad. 
+Manizales, Caldas, Colombia 
+Tel. (606) 8500707 
+www.cenicafe.org 
+
+Licencia Creative Commons CC de Atribuci - sin derivar - no comercial por la que este material puede ser distribuido, copiado y exhibido por terceros solo si se muestra en los créditos. No se puede realizar obras 
+derivadas y no se puede obtener ningún beneficio 
+comercial. 
+
+
+
