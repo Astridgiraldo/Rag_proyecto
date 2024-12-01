@@ -1,86 +1,93 @@
 
 Diciembre de 2022 
-Gerencia TÈcnica / Programa de Investigaci CientÌfica Fondo Nacional del CafÈ 
+Gerencia Tecnica / Programa de Investigaci Cient√≠fica Fondo Nacional del Cafe 
 
-Siete pr·cticas en el beneficio para obtener cafÈ de buena calidad -Proceso 7PÆ 
+Siete pr√°cticas en el beneficio para obtener caf√© de buena calidad -Proceso 7P 
 
 
 
-Autores AÌda Esther Peela-MartÌnez 
-Investigador CientÌfico II https://orcid.org/0000-0003-4454-9778 
+Autores A√≠da Esther Peela-Mart√≠nez 
+Investigador Cient√≠fico II https://orcid.org/0000-0003-4454-9778 
 Juan Rodrigo Sanz-Uribe 
-Investigador CientÌfico III https://orcid.org/0000-0001-9875-9426 
+Investigador Cient√≠fico III https://orcid.org/0000-0001-9875-9426 
 
-¡lvaro Guerrero-Aguirre 
-Investigador CientÌfico I https://orcid.org/0000-0002-4986-4366 
+√Ålvaro Guerrero-Aguirre 
+Investigador Cient√≠fico I https://orcid.org/0000-0002-4986-4366 
 
-Cesar Augusto RamÌrez-Gez 
-Investigador CientÌfico I https://orcid.org/0000-0002-4773-4090 
-Disciplina de Poscosecha Centro Nacional de Investigaciones de CafÈ - CenicafÈ, Manizales, Caldas, Colombia 
+Cesar Augusto Ram√≠rez-Gez 
+Investigador Cient√≠fico I https://orcid.org/0000-0002-4773-4090 
+Disciplina de Poscosecha Centro Nacional de Investigaciones de Cafe- Cenicafe, Manizales, Caldas, Colombia 
 DOI (Digital Object Identifier) https://doi.org/10.38141/10779/546 
 
-Edici 
-Sandra Milena MarÌn Lez 
+Edicion 
+Sandra Milena Mar√≠n Lez 
 
-FotografÌas 
-Archivo CenicafÈ 
+Fotograf√≠as 
+Archivo Cenicafe 
 
-Diagramaci 
-Carmenza Bacca RamÌrez 
+Diagramacion 
+Carmenza Bacca Ram√≠rez 
 
 Imprenta 
-ó 
-ISSN-0120-0178 ISSN-2145-3691 (En lÌnea) Los trabajos suscritos por el personal tÈcnico del Centro Nacional de Investigaciones de CafÈ son parte de las investigaciones realizadas por la Federaci Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad. 
+
+ISSN-0120-0178 ISSN-2145-3691 (En l√≠nea) Los trabajos suscritos por el personal t√©cnico del Centro Nacional de Investigaciones de Cafe son parte de las investigaciones realizadas por la Federaci Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad. 
 Manizales, Caldas, Colombia Tel. (6) 8500707 A.A. 2427 Manizales 
 www.cenicafe.org 
 
+Durante m√°s de 40 a√±os, en Cenicafe se han estudiado, evaluado y generado recomendaciones y tecnolog√≠as en las diferentes etapas del beneficio h√∫medo que permiten tener un proceso eficiente, amigable con el medio ambiente y adaptado a los requerimientos del 
+mercado. A partir de los resultados de las investigaciones se identificaron una serie de pr√°cticas que deben 
+realizarse como m√≠nimo para no alterar las caracter√≠sticas del cafe. El proceso de beneficio h√∫medo que incluye estas pr√°cticas es conocido como Proceso 7P, y se ha dise√±ado para resaltar las caracter√≠sticas de calidad propias de la variedad de cafe, las cuales tienen como requisito aplicar las recomendaciones agron√≥micas de la estrategia ‚ÄúM√°s Agronom√≠a, M√°s Productividad, M√°s Calidad‚Äù, con la que la Federaci√≥n de Cafeteros ha venido trabajando desde 2016 (Centro Nacional de Investigaciones de Cafe, 2021). Las siete pr√°cticas para la poscosecha complementan la estrategia para la obtenci√≥n de un cafe con M√°s Calidad (Pe√±uela-Mart√≠nez y Sanz-Uribe, 2021) y se aplican a los diferentes tipos de beneficiaderos, de acuerdo a la producci√≥n de sus fincas y la tecnolog√≠a utilizada 
+(Rodr√≠guez-Valencia et al., 2021), teniendo menor impacto ambiental. Realizar el proceso 7P, es el punto de partida para el mejoramiento de la calidad de la bebida, debido a que su aplicaci√≥n tiene una alta probabilidad de producir cafe 
+libre de defectos.
+
+Pr√°ctica 1 
+
+Asegure la calidad de larecolecci del cafe 
+Una recoleccin de buena calidad se caracteriza por tener m√°s del 85% de frutos maduros y menos del 2,5% de frutos verdes (Puerta, 2000); la eficacia de la recoleccion puede supervisarse en el campo utilizando el m√©todo Mediverdes (Guerrero et al., 2022) y para la comprobacion de los estados de madurez por color se utiliza el Cromacafe (Peela-Mart√≠nez et al., 2022). 
+
+"En una masa de caf√© con alto contenido de frutos inmaduros y pintones (colores 1, 2 y 3 seg√∫n Cromacaf√©) se tendr√°n m√°s frutos sin despulpar, c√°scaras y granos trillados por la despulpadora, debido a que estos frutos carecen o tienen muy poco muc√≠lago para permitir la separaci√≥n efectiva de los granos y la pulpa"
 
 
-Pr·ctica 1 
+Pr√°ctica 2 
 
-Asegure la calidad de larecolecci del cafÈ 
-Una recoleccin de buena calidad se caracteriza por 
+Procese cada tanda de cafe de manera independiente 
 
-tener m·s del 85% de frutos maduros y menos del 2,5% de frutos verdes (Puerta, 2000); la eficacia de la recolecci puede supervisarse en el campo utilizando el mÈtodo MediverdesÆ (Guerrero et al., 2022) y para la comprobaci de los estados de madurez por color se utiliza el CromacafÈÆ (Peela-MartÌnez et al., 2022). 
+Para seguir esta recomendacion se requiere contar con la infraestructura necesaria, que consiste en tener al menos dos tanques de fermentacion del tama adecuado para procesar independientemente cada tanda de cafe y tener la capacidad de secado suficiente para no mezclar cafe de diferentes tiempos de secado (Roa et al., 1999; Zambrano, 1993). Tambi√©n implica beneficiar las tandas de caf√© de buena calidad separada del cafe de inferior calidad, conocido como pasillas (Sanz-Uribe et al., 2018). 
 
-Pr·ctica 2 
-Procese cada tanda de cafÈ             de manera independiente 
-Para seguir esta recomendaci se requiere contar 
-
-
-con la infraestructura necesaria, que consiste en tener al menos dos tanques de fermentaci del tama adecuado para procesar independientemente cada tanda de cafÈ y tener la capacidad de secado suficiente para no mezclar cafÈ de diferentes tiempos de secado (Roa et al., 1999; Zambrano, 1993). TambiÈn implica beneficiar las tandas de cafÈ de buena calidad separada del cafÈ de inferior calidad, conocido como pasillas (Sanz-Uribe et al., 2018). 
+"Al aplicar esta pr√°ctica se tiene mayor posibilidad de obtener consistencia en la calidad del caf√© entre tandas, debido a que facilita 
+el monitoreo de etapas como la fermentaci√≥n haciendo uso del Fermaestro (Pe√±uela-Mart√≠nez et al., 2013) o el secado mediante el 
+Gravimet (Oliveros-Tasc√≥n et al., 2009), que son etapas cr√≠ticas para la calidad. As√≠ mismo, permite identificar y caracterizar la calidad de los diferentes lotes de la finca."
 
 3 
 
+Efectos en la calidad del cafe cuando no se aplican laspr√°cticas del proceso 7P 
+Los efectos generados en la calidad al no realizar las recomendaciones de las pr√°cticas se clasifican como cr√≠tico y muy cr√≠tico, seg la etapa del proceso de beneficio con la que se relacione. La Tabla 1 muestra los principales defectos en la calidad f√≠sica y sensorial que pueden presentarse en el caf√© cuando no se aplican las recomendaciones de las siete pr√°cticas en cada una de las etapas del proceso. 
 
-Efectos en la calidad del cafÈ cuando no se aplican laspr·cticas del proceso 7PÆ 
-Los efectos generados en la calidad al no realizar las recomendaciones de las pr·cticas se clasifican como crÌtico y muy crÌtico, seg la etapa del proceso de beneficio con la que se relacione. La Tabla 1 muestra los principales defectos en la calidad fÌsica y sensorial que pueden presentarse en el cafÈ cuando no se aplican las recomendaciones de las siete pr·cticas en cada una de las etapas del proceso. 
 
+Pr√°ctica 7 
+Calidad del caf√© aplicando el 
 
-Pr·ctica 7 
-Calidad del cafÈ aplicando el 
-
-Obtenga y mantenga proceso 7PÆ 
-el cafÈ pergamino 
+Obtenga y mantenga proceso 7P¬Æ 
+el caf√© pergamino 
 
 
 seco con una 
-El proceso 7PÆ fue aplicado en diferentes variedades, 
+El proceso 7P¬Æ fue aplicado en diferentes variedades, 
 
 humedad entre el 
-como CastilloÆ, CenicafÈ 1 y Tabi, y lugares de 
+como Castillo¬Æ, Cenicaf√© 1 y Tabi, y lugares de 
 
 
 10% y el 12% 
-Debe realizarse lo antes posible y controlar la humedad final del cafÈ, utilizando el mÈtodo Gravimet (Oliveros-Tasc et al., 2009), sea para secado solar o mec·nico. 
-Para el uso de secadores mec·nicos debe mantenerse la temperatura por debajo de 50∞C, controlar el flujo de aire y la altura de capa de cafÈ, de acuerdo con la configuraci del secador (Roa et al., 1999). 
-Para mantener la humedad durante el almacenamiento del cafÈ debe disponerse de un cuarto de almacenamiento ventilado y libre de humedad, y utilizar estibas para evitar el contacto del cafÈ con el suelo. Los arrumes deben estar separados de la pared o ventanas para evitar rehumedecimientos o sobresecar el cafÈ, adem·s de utilizar empaques nuevos o de uso exclusivo para cafÈ pergamino seco. 
+Debe realizarse lo antes posible y controlar la humedad final del caf√©, utilizando el m√©todo Gravimet (Oliveros-Tasc et al., 2009), sea para secado solar o mec√°nico. 
+Para el uso de secadores mec√°nicos debe mantenerse la temperatura por debajo de 50¬∞C, controlar el flujo de aire y la altura de capa de caf√©, de acuerdo con la configuraci del secador (Roa et al., 1999). 
+Para mantener la humedad durante el almacenamiento del caf√© debe disponerse de un cuarto de almacenamiento ventilado y libre de humedad, y utilizar estibas para evitar el contacto del caf√© con el suelo. Los arrumes deben estar separados de la pared o ventanas para evitar rehumedecimientos o sobresecar el caf√©, adem√°s de utilizar empaques nuevos o de uso exclusivo para caf√© pergamino seco. 
 
 
 4 
-producci, para un total de 60 repeticiones. El 95% de las muestras presentaron taza limpia. Por otra parte, en procesos en los que se omitieron algunas recomendaciones, tales como: como el monitoreo de la fermentaci con FermaestroÆ, la remoci completa de mucÌlago o el seguimiento de la humedad en el secado con Gravimet. Se obtuvo un 60% de muestras con defecto en taza, que incluyeron fermento y terroso, defectos relacionados principalmente con las etapas de fermentaci y secado. 
-El cafÈ que ha sido resultado de la aplicaci del proceso 7PÆ reflejla calidad dada por la variedad, las pr·cticas agronicas y la oferta ambiental del sitio de producci (Figura 1) indicando el potencial de calidad debido a la interacci de los factores precosecha. Se observa que todo el cafÈ, independiente de variedad o sitio de producci, presenta calificaci superior a 80 puntos SCA, que lo clasifica como cafÈ especial (SCA, 2003). Lo anterior, muestra el potencial de producci de cafÈ de buena calidad con la aplicaci de un proceso b·sico, con pr·cticas adecuadas en beneficio de la imagen de calidad del cafÈ colombiano y la protecci del ingreso del caficultor. 
-Por timo, la infografÌa muestra las diferentes alternativas de aplicacin de las pr·cticas del proceso 7PÆ, de acuerdo con el rango de producci de las fincas. 
+producci, para un total de 60 repeticiones. El 95% de las muestras presentaron taza limpia. Por otra parte, en procesos en los que se omitieron algunas recomendaciones, tales como: como el monitoreo de la fermentaci con Fermaestro¬Æ, la remoci completa de muc√≠lago o el seguimiento de la humedad en el secado con Gravimet. Se obtuvo un 60% de muestras con defecto en taza, que incluyeron fermento y terroso, defectos relacionados principalmente con las etapas de fermentaci y secado. 
+El caf√© que ha sido resultado de la aplicaci del proceso 7P¬Æ reflejla calidad dada por la variedad, las pr√°cticas agronicas y la oferta ambiental del sitio de producci (Figura 1) indicando el potencial de calidad debido a la interacci de los factores precosecha. Se observa que todo el caf√©, independiente de variedad o sitio de producci, presenta calificaci superior a 80 puntos SCA, que lo clasifica como caf√© especial (SCA, 2003). Lo anterior, muestra el potencial de producci de caf√© de buena calidad con la aplicaci de un proceso b√°sico, con pr√°cticas adecuadas en beneficio de la imagen de calidad del caf√© colombiano y la protecci del ingreso del caficultor. 
+Por timo, la infograf√≠a muestra las diferentes alternativas de aplicacin de las pr√°cticas del proceso 7P¬Æ, de acuerdo con el rango de producci de las fincas. 
 5 
 
 
@@ -88,24 +95,24 @@ Por timo, la infografÌa muestra las diferentes alternativas de aplicacin de las 
 
 Literatura citada 
 
-Centro Nacional de Investigaciones de CafÈ. (2021). GuÌa m·s agronomÌa, m·s productividad, m·s calidad. (3a ed.). CenicafÈ. CenicafÈ. https://doi.org/10.38141/cenbook-0014 
-Guerrero, ¡., Sanz-Uribe, J. R., Peela-MartÌnez, A. E., & RamÌrez, 
-C. A. (2022). MediverdesÆ: Un mÈtodo para medir la calidad de la recolecci del cafÈ en el campo. Avances TÈcnicos CenicafÈ, 536, 1ñ8. https://doi.org/10.38141/10779/0536 
-Instituto Colombiano de Normas TÈcnicas y Certificaci. (1985). NTC 2090:1985 Maquinaria agrÌcola. Despulpadoras de cafÈ. https://tienda.icontec.org/gp-maquinaria-agricola-despulpadoras≠de-cafe-ntc2090-1985.html 
-Oliveros-Tascn, C. E., RamÌrez, C. A., RodrÌguez-Valencia, N., Sanz-Uribe-Uribe, J. R., & Tibaduiza, C. A. (2022). Manejo y aprovechamiento de las aguas residuales del lavado del cafÈ con la tecnologÌa ECOMILLÆ. Avances TÈcnicos CenicafÈ, 538, 1ñ8. https://doi.org/10.38141/10779/0538 
-Oliveros-Tascn, C. E., RodrÌguez-Valencia, N., RamÌrez, C. A., Sanz-Uribe-Uribe, J. R., & Vel·squez-Henao, J. (2020). MÈtodo de las dos canecas: para separar flotes en peques lotes de frutos de cafÈ. Avances TÈcnicos CenicafÈ, 519, 1ñ8. https://doi. org/10.38141/10779/0519 
-Oliveros-Tasc, C. E., Peuela-MartÌnez, A. E., & Jurado, J. M. (2009). Controle la humedad del cafÈ en el secado solar utilizando el mÈtodo gravimet. Avances TÈcnicos CenicafÈ, 387, 1ñ8. http:// hdl.handle.net/10778/385 
-Oliveros-Tasc, C. E., Sanz-Uribe, J. R., RamÌrez, C. A., & MejÌa, C. 
-A. (2007). Separador hidr·ulico de tolva y tornillo sinfÌn. Avances TÈcnicos CenicafÈ, 360, 1ñ8. http://hdl.handle.net/10778/4252 
-Peela-MartÌnez, A. E., Guerrero, ¡lvaro, & Sanz-Uribe-Uribe, J. R. 
-Peela-MartÌnez, A. E., Pab, J. P., & Sanz-Uribe, J. R. (2013). MÈtodo Fermaestro: para determinar la finalizacin de la fermentaci del mucÌlago de cafÈ. Avances TÈcnicos CenicafÈ, 431, 1ñ8. http://hdl.handle.net/10778/479 
-Puerta, G. I. (2000) Influencia de los granos de cafÈ cosechados verdes, en la calidad fÌsica y organolÈptica de la bebida. Revista CenicafÈ, 51(2), 136ñ150. http://hdl.handle.net/10778/65 
-Roa, G., Oliveros-Tasc, C. E., ¡lvarez, J., RamÌrez, C. A., Sanz-Uribe, 
-J. R., ¡lvarez, J. R., D·vila, M. T., Zambrano, D. A., Puerta, G. I., & RodrÌguez-Valencia, N. (1999). Beneficio ecolico del cafÈ. CenicafÈ. http://hdl.handle.net/10778/882 
-RodrÌguez-Valencia, N., Sanz-Uribe, J. R., RamÌrez, C. A., Quintero-Yepes, L., & Tibaduiza, C. A. (2021). Tipificaci del beneficio del cafÈ en Colombia, relaci con el consumo de agua, generaci de vertimientos y huellas hÌdricas azul y gris. BoletÌn TÈcnico CenicafÈ, 46, 1ñ40. https://doi.org/10.38141/10781/046 
-Sanz-Uribe, J. R., & Vel·squez-Henao, J. (2022). Producci de cafÈ con fermentaciones incompletas y fermentaciones prolongadas utilizando el FermaestroÆ. Revista CenicafÈ, 73(1), e73105. https://doi.org/10.38141/10778/73105 
-Sanz-Uribe, J. R., Peela-MartÌnez, A. E., Oliveros-Tasc, C. E., & RamÌrez, C. A. (2018). Co agregar valor a las pasillas en las fincas cafeteras. CenicafÈ. https://www.cenicafe.org/es/ publications/FolletoPasillas.pdf 
-Sanz-Uribe, J. R., Oliveros-Tasc, C. E., & Peela-MartÌnez, A. E. (2014). Instalaci del separador hidr·ulico de tolva y tornillo sinfÌn en beneficiaderos construidos. Avances TÈcnicos CenicafÈ, 439, 1ñ4. https://doi.org/10.38141/10779/0439 
+Centro Nacional de Investigaciones de Caf√©. (2021). Gu√≠a m√°s agronom√≠a, m√°s productividad, m√°s calidad. (3a ed.). Cenicaf√©. Cenicaf√©. https://doi.org/10.38141/cenbook-0014 
+Guerrero, √Å., Sanz-Uribe, J. R., Peela-Mart√≠nez, A. E., & Ram√≠rez, 
+C. A. (2022). Mediverdes¬Æ: Un m√©todo para medir la calidad de la recolecci del caf√© en el campo. Avances T√©cnicos Cenicaf√©, 536, 1‚Äì8. https://doi.org/10.38141/10779/0536 
+Instituto Colombiano de Normas T√©cnicas y Certificaci. (1985). NTC 2090:1985 Maquinaria agr√≠cola. Despulpadoras de caf√©. https://tienda.icontec.org/gp-maquinaria-agricola-despulpadoras¬≠de-cafe-ntc2090-1985.html 
+Oliveros-Tascn, C. E., Ram√≠rez, C. A., Rodr√≠guez-Valencia, N., Sanz-Uribe-Uribe, J. R., & Tibaduiza, C. A. (2022). Manejo y aprovechamiento de las aguas residuales del lavado del caf√© con la tecnolog√≠a ECOMILL¬Æ. Avances T√©cnicos Cenicaf√©, 538, 1‚Äì8. https://doi.org/10.38141/10779/0538 
+Oliveros-Tascn, C. E., Rodr√≠guez-Valencia, N., Ram√≠rez, C. A., Sanz-Uribe-Uribe, J. R., & Vel√°squez-Henao, J. (2020). M√©todo de las dos canecas: para separar flotes en peques lotes de frutos de caf√©. Avances T√©cnicos Cenicaf√©, 519, 1‚Äì8. https://doi. org/10.38141/10779/0519 
+Oliveros-Tasc, C. E., Peuela-Mart√≠nez, A. E., & Jurado, J. M. (2009). Controle la humedad del caf√© en el secado solar utilizando el m√©todo gravimet. Avances T√©cnicos Cenicaf√©, 387, 1‚Äì8. http:// hdl.handle.net/10778/385 
+Oliveros-Tasc, C. E., Sanz-Uribe, J. R., Ram√≠rez, C. A., & Mej√≠a, C. 
+A. (2007). Separador hidr√°ulico de tolva y tornillo sinf√≠n. Avances T√©cnicos Cenicaf√©, 360, 1‚Äì8. http://hdl.handle.net/10778/4252 
+Peela-Mart√≠nez, A. E., Guerrero, √Ålvaro, & Sanz-Uribe-Uribe, J. R. 
+Peela-Mart√≠nez, A. E., Pab, J. P., & Sanz-Uribe, J. R. (2013). M√©todo Fermaestro: para determinar la finalizacin de la fermentaci del muc√≠lago de caf√©. Avances T√©cnicos Cenicaf√©, 431, 1‚Äì8. http://hdl.handle.net/10778/479 
+Puerta, G. I. (2000) Influencia de los granos de caf√© cosechados verdes, en la calidad f√≠sica y organol√©ptica de la bebida. Revista Cenicaf√©, 51(2), 136‚Äì150. http://hdl.handle.net/10778/65 
+Roa, G., Oliveros-Tasc, C. E., √Ålvarez, J., Ram√≠rez, C. A., Sanz-Uribe, 
+J. R., √Ålvarez, J. R., D√°vila, M. T., Zambrano, D. A., Puerta, G. I., & Rodr√≠guez-Valencia, N. (1999). Beneficio ecolico del caf√©. Cenicaf√©. http://hdl.handle.net/10778/882 
+Rodr√≠guez-Valencia, N., Sanz-Uribe, J. R., Ram√≠rez, C. A., Quintero-Yepes, L., & Tibaduiza, C. A. (2021). Tipificaci del beneficio del caf√© en Colombia, relaci con el consumo de agua, generaci de vertimientos y huellas h√≠dricas azul y gris. Bolet√≠n T√©cnico Cenicaf√©, 46, 1‚Äì40. https://doi.org/10.38141/10781/046 
+Sanz-Uribe, J. R., & Vel√°squez-Henao, J. (2022). Producci de caf√© con fermentaciones incompletas y fermentaciones prolongadas utilizando el Fermaestro¬Æ. Revista Cenicaf√©, 73(1), e73105. https://doi.org/10.38141/10778/73105 
+Sanz-Uribe, J. R., Peela-Mart√≠nez, A. E., Oliveros-Tasc, C. E., & Ram√≠rez, C. A. (2018). Co agregar valor a las pasillas en las fincas cafeteras. Cenicaf√©. https://www.cenicafe.org/es/ publications/FolletoPasillas.pdf 
+Sanz-Uribe, J. R., Oliveros-Tasc, C. E., & Peela-Mart√≠nez, A. E. (2014). Instalaci del separador hidr√°ulico de tolva y tornillo sinf√≠n en beneficiaderos construidos. Avances T√©cnicos Cenicaf√©, 439, 1‚Äì4. https://doi.org/10.38141/10779/0439 
 Specialty Coffee Association. (2003). Cupping Protocols. Protocols & Best Practices. https://sca.coffee/research/protocols-best-practices 
 
 
