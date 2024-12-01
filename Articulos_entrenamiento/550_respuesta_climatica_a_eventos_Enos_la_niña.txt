@@ -1,58 +1,58 @@
 
 Abril de 2023 
-Gerencia TÈcnica / Programa de Investigaci CientÌfica Fondo Nacional del CafÈ 
+Gerencia T√©cnica / Programa de Investigaci Cient√≠fica Fondo Nacional del Caf√© 
 
 
 
-Respuesta clim·tica aeventos ENOS La Ni entre 1998 y 2022, en laZona Cafetera 
+Respuesta clim√°tica aeventos ENOS La Ni entre 1998 y 2022, en laZona Cafetera 
 
-anomalÌas 
+anomal√≠as 
 de variables como la precipitaci, la temperatura y el brillo solar. 
-a un perÌodo base promedio, en este caso, una normal clim·tica de 30 aÒos entre 1990 y 2019. 
+a un per√≠odo base promedio, en este caso, una normal clim√°tica de 30 a√±os entre 1990 y 2019. 
 
 
 Autores 
-Juan Carlos GarcÌa Lez 
-Investigador CientÌfico II 
+Juan Carlos Garc√≠a Lez 
+Investigador Cient√≠fico II 
 https://orcid.org/0000-0003-4861-9649 
 
-Carolina RamÌrez CarabalÌ 
-Investigador CientÌfico I 
+Carolina Ram√≠rez Carabal√≠ 
+Investigador Cient√≠fico I 
 https://orcid.org/0000-0001-8300-2623 
 
 Ninibeth Gibelli Sarmiento Herrera 
 Asistente de Investigaci 
 https://orcid.org/0000-0002-7912-5708 
-Disciplina de AgroclimatologÌa 
+Disciplina de Agroclimatolog√≠a 
 Centro Nacional de Investigaciones 
-de CafÈ, CenicafÈ 
+de Cafe, Cenicafe 
 Manizales, Caldas, Colombia 
 DOI (Digital Object Identifier) 
 https://doi.org/10.38141/10779/0550 
 
 Edici 
-Sandra Milena MarÌn Lez 
+Sandra Milena Mar√≠n Lez 
 
-FotografÌas 
-Archivo CenicafÈ 
+Fotograf√≠as 
+Archivo Cenicaf√© 
 
 Diagramaci 
-Luz Adriana ¡lvarez Monsalve 
+Luz Adriana √Ålvarez Monsalve 
 
 Imprenta 
-ó 
-ISSN-0120-0178 ISSN-2145-3691 (En lÌnea) Los trabajos suscritos por el personal tÈcnico del Centro Nacional de Investigaciones de CafÈ son parte de las investigaciones realizadas por la Federaci Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad. 
+‚Äî 
+ISSN-0120-0178 ISSN-2145-3691 (En l√≠nea) Los trabajos suscritos por el personal t√©cnico del Centro Nacional de Investigaciones de Cafe son parte de las investigaciones realizadas por la Federaci Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad. 
 Manizales, Caldas, Colombia Tel. (6) 8500707 A.A. 2427 Manizales 
 www.cenicafe.org 
-En el caso de la temperatura y brillo solar, las anomalÌas son una medida de la intensificaci de una condici c·lida con mayor radiaci o una condici frÌa acompada de mayor nubosidad, respecto a condiciones normales. La anomalÌa de la precipitaci acumulada y del nero de dÌas con lluvia permite identificar perÌodos con precipitaciones extremas o sequÌas, que seg su magnitud pueden afectar a sectores como el agropecuario, de transporte, la industria y el energÈtico, entre otros (Departamento Nacional de Planeaci & Banco Interamericano de Desarrollo, 2014). 
-El seguimiento de las anomalÌas a nivel regional es importante para comprender la variabilidad de un aÒo a otro y los cambios a largo plazo causados por fenÛmenos clim·ticos. 
-En la historia reciente, el evento extremo asociado a la fase frÌa de El Ni Oscilaci Sur (ENOS), conocido como La Ni, se relaciona con las condiciones clim·ticas de la regi cafetera colombiana. Como respuesta ambiental tÌpica de los eventos La Ni, se identifican el aumento de la lluvia, la disminuci del brillo solar y disminuci de la temperatura (Jaramillo-Robledo & Arcila-PulgarÌn, 2009), de tal manera que se condiciona la respuesta del cultivo, ya que el crecimiento y desarrollo se desacelera, se alteran los patrones de floraci y se favorece un ambiente hedo que permite el desarrollo de patenos, entre otros (Gait·n et al., 2016). 
-TÈcnicamente, La Ni es caracterizada por el Õndice Oce·nico El Ni (ONI por sus siglas en inglÈs) (Huang et al., 2017), cuando la anomalÌa de la temperatura superficial del mar (TSM) de la regi Ni 3.4 del OcÈano PacÌfico Tropical (entre 120∞ y 170∞ Oeste y entre 5∞ Latitud Norte y 5∞ Latitud Sur) persiste durante un mÌnimo de cinco trimestres continuos, con valores negativos menores o iguales a -0,5∞C (Tabla 1). 
-A travÈs de los timos as se han presentado cuatro eventos La Ni, entre dÈbiles, moderados y fuertes (Figura 1). Sus efectos se relacionan con daos en infraestructura, vÌas y, en especial, para el sector cafetero con pÈrdida del potencial de producci de los cultivos. Este Avance TÈcnico muestra la magnitud de las variaciones de las variables meteorolicas de algunos as La Ni con respecto al promedio histico y presenta las anomalÌas anuales de las principales variables meteorolicas: cantidad y nero de dÌas con lluvia, temperaturas m·ximas y mÌnimas, y brillo solar, en ocho estaciones principales de la red meteorolica cafetera (Figura 2). El an·lisis de las variaciones se realizconsiderando grupos de dos as en los que se presentmayoritariamente la condici La Ni asÌ: 1998-1999, 2007≠2008, 2010-2011 y 2021-2022; los primeros tres grupos, considerados de intensidad fuerte, y el timo grupo categorizado como moderado. 
+En el caso de la temperatura y brillo solar, las anomal√≠as son una medida de la intensificaci de una condici c√°lida con mayor radiacion una condici fr√≠a acompada de mayor nubosidad, respecto a condiciones normales. La anomal√≠a de la precipitaci acumulada y del nero de d√≠as con lluvia permite identificar per√≠odos con precipitaciones extremas o sequ√≠as, que seg su magnitud pueden afectar a sectores como el agropecuario, de transporte, la industria y el energ√©tico, entre otros (Departamento Nacional de Planeaci & Banco Interamericano de Desarrollo, 2014). 
+El seguimiento de las anomal√≠as a nivel regional es importante para comprender la variabilidad de un a√±o a otro y los cambios a largo plazo causados por fen√≥menos clim√°ticos. 
+En la historia reciente, el evento extremo asociado a la fase fr√≠a de El Ni Oscilaci Sur (ENOS), conocido como La Ni, se relaciona con las condiciones clim√°ticas de la regi cafetera colombiana. Como respuesta ambiental t√≠pica de los eventos La Ni, se identifican el aumento de la lluvia, la disminuci del brillo solar y disminuci de la temperatura (Jaramillo-Robledo & Arcila-Pulgar√≠n, 2009), de tal manera que se condiciona la respuesta del cultivo, ya que el crecimiento y desarrollo se desacelera, se alteran los patrones de floraci y se favorece un ambiente hedo que permite el desarrollo de patenos, entre otros (Gait√°n et al., 2016). 
+T√©cnicamente, La Ni es caracterizada por el √çndice Oce√°nico El Ni (ONI por sus siglas en ingl√©s) (Huang et al., 2017), cuando la anomal√≠a de la temperatura superficial del mar (TSM) de la regi Ni 3.4 del Oc√©ano Pac√≠fico Tropical (entre 120¬∞ y 170¬∞ Oeste y entre 5¬∞ Latitud Norte y 5¬∞ Latitud Sur) persiste durante un m√≠nimo de cinco trimestres continuos, con valores negativos menores o iguales a -0,5¬∞C (Tabla 1). 
+A trav√©s de los timos as se han presentado cuatro eventos La Ni, entre d√©biles, moderados y fuertes (Figura 1). Sus efectos se relacionan con datos en infraestructura, v√≠as y, en especial, para el sector cafetero con p√©rdida del potencial de producci de los cultivos. Este Avance T√©cnico muestra la magnitud de las variaciones de las variables meteorolicas de algunos as La Ni con respecto al promedio histico y presenta las anomal√≠as anuales de las principales variables meteorolicas: cantidad y nero de d√≠as con lluvia, temperaturas m√°ximas y m√≠nimas, y brillo solar, en ocho estaciones principales de la red meteorolica cafetera (Figura 2). El an√°lisis de las variaciones se realizconsiderando grupos de dos as en los que se presentmayoritariamente la condici La Ni as√≠: 1998-1999, 2007¬≠2008, 2010-2011 y 2021-2022; los primeros tres grupos, considerados de intensidad fuerte, y el timo grupo categorizado como moderado. 
 
-Figura 1. Progreso anual de las anomalÌas de la Temperatura Superficial del Mar y categorizaciÛn de su intensidad asÌ: DÈbil entre -0,5 y -1,0∞C o 0,5 a 1,0∞C; moderado entre -1,0 y -1,5∞C o 1,0 a 1,5∞C; fuerte entre -1,5 y -2,0∞C o 1,5 a 2,0∞C y muy fuerte mayor a 2,0∞C. Valores negativos para ENOS La NiÒa y positivos para ENOS El NiÒo. Entre ± 0,5∞C de anomalÌa la condiciÛn es ENOS Neutral. Los n˙meros en color rojo indican eventos fuertes El NiÒo, en color negro eventos moderados y en color azul, eventos fuertes La NiÒa. Adaptada de: https://ggweather.com/enso/oni.htm 
+Figura 1. Progreso anual de las anomal√≠as de la Temperatura Superficial del Mar y categorizaci√≥n de su intensidad as√≠: D√©bil entre -0,5 y -1,0¬∞C o 0,5 a 1,0¬∞C; moderado entre -1,0 y -1,5¬∞C o 1,0 a 1,5¬∞C; fuerte entre -1,5 y -2,0¬∞C o 1,5 a 2,0¬∞C y muy fuerte mayor a 2,0¬∞C. Valores negativos para ENOS La Ni√±a y positivos para ENOS El Ni√±o. Entre ¬± 0,5¬∞C de anomal√≠a la condici√≥n es ENOS Neutral. Los n√∫meros en color rojo indican eventos fuertes El Ni√±o, en color negro eventos moderados y en color azul, eventos fuertes La Ni√±a. Adaptada de: https://ggweather.com/enso/oni.htm 
 3 
-78∞0'0"W 76∞0'0"W 74∞0'0"W 72∞0'0"W 
+78¬∞0'0"W 76¬∞0'0"W 74¬∞0'0"W 72¬∞0'0"W 
 LA GUAJIRA 
 Estaciones experimentales 
 Pueblo Bello 
@@ -60,43 +60,43 @@ Pueblo Bello
 
 ATLANTICO 
 Estaciones Meteorolicas MAGDALENA 
-Æ 
-4∞0'0"N 6∞0'0"N 8∞0'0"N 10∞0'0"N
+¬Æ 
+4¬∞0'0"N 6¬∞0'0"N 8¬∞0'0"N 10¬∞0'0"N
 
 Zona Cafetera  
-LÌmite departamental  
+L√≠mite departamental  
 CESAR  
 Venezuela  
-SUCRE  BOLÕVAR  
-Panama  C”RDOBA  
+SUCRE  BOL√çVAR  
+Panama  C√ìRDOBA  
 NORTE DE  
 SANTANDER  
 San Antonio  
 ANTIOQUIA  SANTANDER  
 ARAUCA  
 El Rosario  
-CHOC”  Colombia  
-BOYAC¡  
+CHOC√ì  Colombia  
+BOYAC√Å  
 RISARALDA  CALDAS  La Trinidad  CASANARE  
 Naranjal  CUNDINAMARCA  
-La Catalina  Paraguaicito  BOGOT¡  
+La Catalina  Paraguaicito  BOGOT√Å  
 QUINDIO  
 TOLIMA  
 VALLE DEL  
 CAUCA  
 META  
-Manuel MejÌa  HUILA  
+Manuel Mej√≠a  HUILA  
 CAUCA  
-CAQUET¡  0  27  54  108  GUAVIARE 162  Km 216  
-NARI—O  
+CAQUET√Å  0  27  54  108  GUAVIARE 162  Km 216  
+NARI√ëO  
 
-Figura 2. UbicaciÛn de las estaciones meteorolÛgicas utilizadas en el estudio. 
-AnomalÌa (mm) 
+Figura 2. Ubicaci√≥n de las estaciones meteorol√≥gicas utilizadas en el estudio. 
+Anomal√≠a (mm) 
 800 600 400 200 0 -200 -400 -600 -800 
-Tabla 2. AnomalÌas de la precipitaciÛn (mm), como respuesta a los eventos ENOS La NiÒa. Red clim·tica cafetera. 
-Lluvia acumulada anual (mm)  AnomalÌas en mm por aÒo, respecto de la normal  
-Depto.  Municipio  EstaciÛn  Normal 1990-2019  DesviaciÛn est·ndar  1998  1999  2007  2008  2010  2011  2021  2022  
-Cesar Santander Antioquia Caldas Tolima Risaralda QuindÌo Cauca  Pueblo Bello Floridablanca Venecia Chinchin· LÌbano Pereira Buenavista El Tambo  Pueblo Bello San Antonio El Rosario Naranjal La Trinidad La Catalina Paraguaicito Manuel MejÌa  2.042 436 1.519 254 2.644 620 2.939 465 2.185 345 2.282 449 2.199 390 2.078 410  610  625  257  314  995  483  162  413  
+Tabla 2. Anomal√≠as de la precipitaci√≥n (mm), como respuesta a los eventos ENOS La Ni√±a. Red clim√°tica cafetera. 
+Lluvia acumulada anual (mm)  Anomal√≠as en mm por a√±o, respecto de la normal  
+Depto.  Municipio  Estaci√≥n  Normal 1990-2019  Desviaci√≥n est√°ndar  1998  1999  2007  2008  2010  2011  2021  2022  
+Cesar Santander Antioquia Caldas Tolima Risaralda Quind√≠o Cauca  Pueblo Bello Floridablanca Venecia Chinchin√° L√≠bano Pereira Buenavista El Tambo  Pueblo Bello San Antonio El Rosario Naranjal La Trinidad La Catalina Paraguaicito Manuel Mej√≠a  2.042 436 1.519 254 2.644 620 2.939 465 2.185 345 2.282 449 2.199 390 2.078 410  610  625  257  314  995  483  162  413  
 61  193  -300  192  699  505  -179  144  
 550  729  728  1.034  900  1.618  566  940  
 48  482  7  987  629  868  92  30  
@@ -105,12 +105,12 @@ Cesar Santander Antioquia Caldas Tolima Risaralda QuindÌo Cauca  Pueblo Bello Fl
 -166  410  417  656  554  877  183  661  
 -211  905  335  669  22  845  404  797  
 
-Aumento Significativo  Aumento  DisminuciÛn Significativa  Disminuci  Sin Variaci  
-LÌbano, Tolima - La Trinidad  
+Aumento Significativo  Aumento  Disminuci√≥n Significativa  Disminuci  Sin Variaci  
+L√≠bano, Tolima - La Trinidad  
 1.200  
 
 Normal: 2.185 mm 
-AnomalÌa (+) Desviaci est·ndar serie 
+Anomal√≠a (+) Desviaci est√°ndar serie 
 
 
 19731974
@@ -127,20 +127,20 @@ AnomalÌa (+) Desviaci est·ndar serie
 20212022 
 Lluvia 
 
-Figura 3. AnomalÌas de la lluvia acumulada anual histÛrica en la estaciÛn La Trinidad (LÌbano, Tolima). Los valores de desvÌo corresponden a la diferencia de cada aÒo con relaciÛn a la normal clim·tica. La lÌnea punteada corresponde a la desviaciÛn est·ndar de las anomalÌas entre los aÒos de la normal climatolÛgica (1990 - 2019). En las barras se observa una lÌnea al extremo que indica el intervalo de confianza, obtenido a partir de la variaciÛn de la anomalÌa mensual en cada aÒo. Un aÒo es estadÌsticamente diferente de otro, cuando las lÌneas del intervalo de confianza no se cruzan. 
-El Tambo, Cauca- Manuel MejÌa 
+Figura 3. Anomal√≠as de la lluvia acumulada anual hist√≥rica en la estaci√≥n La Trinidad (L√≠bano, Tolima). Los valores de desv√≠o corresponden a la diferencia de cada a√±o con relaci√≥n a la normal clim√°tica. La l√≠nea punteada corresponde a la desviaci√≥n est√°ndar de las anomal√≠as entre los a√±os de la normal climatol√≥gica (1990 - 2019). En las barras se observa una l√≠nea al extremo que indica el intervalo de confianza, obtenido a partir de la variaci√≥n de la anomal√≠a mensual en cada a√±o. Un a√±o es estad√≠sticamente diferente de otro, cuando las l√≠neas del intervalo de confianza no se cruzan. 
+El Tambo, Cauca- Manuel Mej√≠a 
 
 80 
 
-AnomalÌa (+) 
-Desviaci est·ndar
+Anomal√≠a (+) 
+Desviaci est√°ndar
 
-Normal: 161 dÌas 
+Normal: 161 d√≠as 
 de la serie
-AnomalÌa (-)
+Anomal√≠a (-)
 
 60 
-DÌas 
+D√≠as 
 40 20 0 -20 -40 -60 -80 
 19531954
 1956195719581959
@@ -158,17 +158,17 @@ DÌas
 2011201220132014
 2016201720182019
 20212022 
-DÌas con lluvia superior o igual a 1,0 mm 
+D√≠as con lluvia superior o igual a 1,0 mm 
 
-Figura 4. AnomalÌas de la cantidad de dÌas por aÒo con lluvias superiores o iguales a 1,0 mm en la estaciÛn Manuel MejÌa (El Tambo, Cauca). Los valores de desvÌo corresponden a la diferencia de cada aÒo con relaciÛn a la normal clim·tica. La lÌnea punteada corresponde a la desviaciÛn est·ndar de las anomalÌas entre los aÒos de la Normal ClimatolÛgica (1990 - 2019). 
+Figura 4. Anomal√≠as de la cantidad de d√≠as por a√±o con lluvias superiores o iguales a 1,0 mm en la estaci√≥n Manuel Mej√≠a (El Tambo, Cauca). Los valores de desv√≠o corresponden a la diferencia de cada a√±o con relaci√≥n a la normal clim√°tica. La l√≠nea punteada corresponde a la desviaci√≥n est√°ndar de las anomal√≠as entre los a√±os de la Normal Climatol√≥gica (1990 - 2019). 
 
-Las anomalÌas de superaron el umbral de -1,1∞C, el mayor desde 1956 (Figura 5). 
-la temperatura m·xima, como respuesta a los episodios ENOS La Ni, se presentan en la Tabla 5. En concordancia con las variables anteriores, los 
+Las anomal√≠as de superaron el umbral de -1,1¬∞C, el mayor desde 1956 (Figura 5). 
+la temperatura m√°xima, como respuesta a los episodios ENOS La Ni, se presentan en la Tabla 5. En concordancia con las variables anteriores, los 
 
 En 2022 se consolidan las 
 
-segundos as respondieron en mayor magnitud a la condici de enfriamiento. Las mayores disminuciones en temperatura m·xima, durante los cuatro episodios, se presentaron en El Rosario y Manuel MejÌa. En 2022, con excepcin de Pueblo Bello, las estaciones presentaron anomalÌas superiores a -0,8∞C y son las mayores respecto a los as de este an·lisis. Se destaca para Naranjal (Caldas) que las anomalÌas en 2022, son iguales estadÌsticamente con las de 1971 y 1984, que mayores anomalÌas negativas, comportamiento opuesto al de la lluvia (Tabla 6). Varias estaciones superaron los umbrales lÌmite de la Normal (Desviaci est·ndar de la anomalÌa), como San Antonio, El Rosario, Naranjal, La Trinidad, La Catalina y Manuel MejÌa. El Rosario (Antioquia), registruna disminuci del 30% de horas de brillo solar en 2022 (Figura 6), la mayor en la serie histica, en contraste con Pueblo Bello (Cesar) que so fue del -6,0%. 
-Los efectos de cada evento La NiÒa son diferentes, ya que otros fenÛmenos de variabilidad clim·tica est·n presentes. 
+segundos as respondieron en mayor magnitud a la condici de enfriamiento. Las mayores disminuciones en temperatura m√°xima, durante los cuatro episodios, se presentaron en El Rosario y Manuel Mej√≠a. En 2022, con excepcin de Pueblo Bello, las estaciones presentaron anomal√≠as superiores a -0,8¬∞C y son las mayores respecto a los as de este an√°lisis. Se destaca para Naranjal (Caldas) que las anomal√≠as en 2022, son iguales estad√≠sticamente con las de 1971 y 1984, que mayores anomal√≠as negativas, comportamiento opuesto al de la lluvia (Tabla 6). Varias estaciones superaron los umbrales l√≠mite de la Normal (Desviaci est√°ndar de la anomal√≠a), como San Antonio, El Rosario, Naranjal, La Trinidad, La Catalina y Manuel Mej√≠a. El Rosario (Antioquia), registruna disminuci del 30% de horas de brillo solar en 2022 (Figura 6), la mayor en la serie histica, en contraste con Pueblo Bello (Cesar) que so fue del -6,0%. 
+Los efectos de cada evento La Ni√±a son diferentes, ya que otros fen√≥menos de variabilidad clim√°tica est√°n presentes. 
 -0,9 -1,2 -1,5 -1,8 
 
 1956195719581959
@@ -180,14 +180,14 @@ Los efectos de cada evento La NiÒa son diferentes, ya que otros fenÛmenos de var
 200120022003200420052006200720082009
 201120122013201420152016201720182019
 20212022 
-Temperatura m·xima 
+Temperatura m√°xima 
 
-Figura 5. AnomalÌas de la temperatura m·xima promedio anual en la EstaciÛn Experimental Naranjal (Chinchin·, Caldas). Los valores de anomalÌa corresponden a la diferencia de cada aÒo con relaciÛn a la normal clim·tica. La lÌnea punteada corresponde a la desviaciÛn est·ndar de las anomalÌas entre los aÒos de la Normal ClimatolÛgica (1990 - 2019). En las barras se observa una lÌnea al extremo que indica el intervalo de confianza, obtenido a partir de la variaciÛn de la anomalÌa mensual en cada aÒo. Un aÒo es estadÌsticamente diferente de otro, cuando las lÌneas del intervalo de confianza no se cruzan. 
-Tabla 6. AnomalÌas del n˙mero de horas de brillo solar acumulado anual, en eventos ENOS La NiÒa. 
-Red clim·tica cafetera. 
-Brillo solar acumula≠do anual en horas  AnomalÌas en horas por aÒo, respecto de la normal  
-Depto.  Municipio  EstaciÛn  Normal 1990-2019  DesviaciÛn est·ndar  1998  1999  2007  2008  2010  2011  2021  2022  
-Cesar Santander Antioquia Caldas Tolima Risaralda QuindÌo Cauca  Pueblo Bello Floridablanca Venecia Chinchin· LÌbano Pereira Buenavista El Tambo  Pueblo Bello San Antonio El Rosario Naranjal La Trinidad La Catalina Paraguaicito Manuel MejÌa  2.313 170 1.304 146 1.935 145 1.636 128 1.534 149 1.621 135 1.635 142 1.662 149  -124  -83  -10  4  -286  -188  -50  -136  
+Figura 5. Anomal√≠as de la temperatura m√°xima promedio anual en la Estaci√≥n Experimental Naranjal (Chinchin√°, Caldas). Los valores de anomal√≠a corresponden a la diferencia de cada a√±o con relaci√≥n a la normal clim√°tica. La l√≠nea punteada corresponde a la desviaci√≥n est√°ndar de las anomal√≠as entre los a√±os de la Normal Climatol√≥gica (1990 - 2019). En las barras se observa una l√≠nea al extremo que indica el intervalo de confianza, obtenido a partir de la variaci√≥n de la anomal√≠a mensual en cada a√±o. Un a√±o es estad√≠sticamente diferente de otro, cuando las l√≠neas del intervalo de confianza no se cruzan. 
+Tabla 6. Anomal√≠as del n√∫mero de horas de brillo solar acumulado anual, en eventos ENOS La Ni√±a. 
+Red clim√°tica cafetera. 
+Brillo solar acumula¬≠do anual en horas  Anomal√≠as en horas por a√±o, respecto de la normal  
+Depto.  Municipio  Estaci√≥n  Normal 1990-2019  Desviaci√≥n est√°ndar  1998  1999  2007  2008  2010  2011  2021  2022  
+Cesar Santander Antioquia Caldas Tolima Risaralda Quind√≠o Cauca  Pueblo Bello Floridablanca Venecia Chinchin√° L√≠bano Pereira Buenavista El Tambo  Pueblo Bello San Antonio El Rosario Naranjal La Trinidad La Catalina Paraguaicito Manuel Mej√≠a  2.313 170 1.304 146 1.935 145 1.636 128 1.534 149 1.621 135 1.635 142 1.662 149  -124  -83  -10  4  -286  -188  -50  -136  
 -28  -177  -21  -53  -122  -189  -215  -327  
 -152  -381  65  -216  -203  -141  -234  -616  
 -139  -244  -26  -176  -113  -89  -217  -282  
@@ -196,27 +196,27 @@ Cesar Santander Antioquia Caldas Tolima Risaralda QuindÌo Cauca  Pueblo Bello Fl
 -184  -269  63  -112  -163  -99  -204  -279  
 -114  -222  -37  -231  -203  -82  -358  -394  
 
-DisminuciÛn significativa 
+Disminuci√≥n significativa 
 
 Disminuci 
 Aumento significativo 
 Aumento 
 Sin Variaci 
 
-Figura 6. AnomalÌas del n˙mero de horas de brillo solar anual en la estaciÛn El Rosario (Venecia, Antioquia). Los valores de desvÌo corresponden a la diferencia de cada aÒo con relaciÛn al climatolÛgico. La lÌnea punteada corresponde a la desviaciÛn est·ndar de las anomalÌas entre los aÒos de la normal climatolÛgica (1990 - 2019). En las barras se observa una lÌnea al extremo que indica el intervalo de confianza, obtenido a partir de la variaciÛn de la anomalÌa mensual en cada aÒo. Un aÒo es estadÌsticamente diferente de otro, cuando las lÌneas del intervalo de confianza no se cruzan. 
+Figura 6. Anomal√≠as del n√∫mero de horas de brillo solar anual en la estaci√≥n El Rosario (Venecia, Antioquia). Los valores de desv√≠o corresponden a la diferencia de cada a√±o con relaci√≥n al climatol√≥gico. La l√≠nea punteada corresponde a la desviaci√≥n est√°ndar de las anomal√≠as entre los a√±os de la normal climatol√≥gica (1990 - 2019). En las barras se observa una l√≠nea al extremo que indica el intervalo de confianza, obtenido a partir de la variaci√≥n de la anomal√≠a mensual en cada a√±o. Un a√±o es estad√≠sticamente diferente de otro, cuando las l√≠neas del intervalo de confianza no se cruzan. 
 
 
 
 
 
 Literatura citada 
-Centro Nacional de Investigaciones del CafÈ. (s. f.). BoletÌn Agrometeorolico Cafetero. Portal Agroclima CenicafÈ. Recuperado 1 de marzo de 2023, de https://agroclima.cenicafe.org/web/guest/ boletin-agrometeorologico 
-Departamento Nacional de Planeaci, & Banco Interamericano de Desarrollo (Eds.). (2014). Impactos econicos del Cambio Clim·tico en Colombia: SÌntesis 2014. Departamento Nacional de Planeaci. https://colaboracion. dnp.gov.co/CDT/Prensa/Impactos%20 Econ%C3%B3micos%20del%20 Cambio%20Climatico_Sintesis_ Resumen%20Ejecutivo.pdf 
-Gait·n, A., Flrez, C. P., GarcÌa, J. C., Benavides, P., Gil, Z. N., Sadeghian, S., Lince, L. A., Salazar, L. F., Oliveros, C. E., Sanz, J. R., RamÌrez, C. A., Peela, A. E., RodrÌguez, N., Quintero, L. V., & Lez, J. C. (2016). Evento de La Ni en Colombia: Recomendaciones para la caficultura. Avances TÈcnicos CenicafÈ, 467, 1-12. https://doi. org/10.38141/10779/0467 
+Centro Nacional de Investigaciones del Caf√©. (s. f.). Bolet√≠n Agrometeorolico Cafetero. Portal Agroclima Cenicaf√©. Recuperado 1 de marzo de 2023, de https://agroclima.cenicafe.org/web/guest/ boletin-agrometeorologico 
+Departamento Nacional de Planeaci, & Banco Interamericano de Desarrollo (Eds.). (2014). Impactos econicos del Cambio Clim√°tico en Colombia: S√≠ntesis 2014. Departamento Nacional de Planeaci. https://colaboracion. dnp.gov.co/CDT/Prensa/Impactos%20 Econ%C3%B3micos%20del%20 Cambio%20Climatico_Sintesis_ Resumen%20Ejecutivo.pdf 
+Gait√°n, A., Flrez, C. P., Garc√≠a, J. C., Benavides, P., Gil, Z. N., Sadeghian, S., Lince, L. A., Salazar, L. F., Oliveros, C. E., Sanz, J. R., Ram√≠rez, C. A., Peela, A. E., Rodr√≠guez, N., Quintero, L. V., & Lez, J. C. (2016). Evento de La Ni en Colombia: Recomendaciones para la caficultura. Avances T√©cnicos Cenicaf√©, 467, 1-12. https://doi. org/10.38141/10779/0467 
 Huang, B., Thorne, P. W., Banzon, V. F., Boyer, T., Chepurin, G., Lawrimore, J. H., Menne, M. J., Smith, T. M., Vose, 
-R. S., & Zhang, H.-M. (2017). Extended Reconstructed Sea Surface Temperature, Version 5 (ERSSTv5): Upgrades, Validations, and Intercomparisons. Journal of Climate, 30(20), 8179≠8205. https://doi.org/10.1175/ JCLI-D-16-0836.1 
-Jaramillo-Robledo, A., & Arcila-PulgarÌn, J. (2009). Variabilidad clim·tica en la zona cafetera colombiana asociada al evento de La Ni y su efecto en la caficultura. Avances TÈcnicos CenicafÈ, 389, 1-8. https://doi.org/10.38141/10779/0467 
-Organizaci Meteorolica Mundial. (2017). Directrices de la Organizaci Meteorolica Mundial sobre el c·lculo de las normales clim·ticas. Serie OMM 1203. OMM. https://library.wmo.int/ doc_num.php?explnum_id=4167 
+R. S., & Zhang, H.-M. (2017). Extended Reconstructed Sea Surface Temperature, Version 5 (ERSSTv5): Upgrades, Validations, and Intercomparisons. Journal of Climate, 30(20), 8179¬≠8205. https://doi.org/10.1175/ JCLI-D-16-0836.1 
+Jaramillo-Robledo, A., & Arcila-Pulgar√≠n, J. (2009). Variabilidad clim√°tica en la zona cafetera colombiana asociada al evento de La Ni y su efecto en la caficultura. Avances T√©cnicos Cenicaf√©, 389, 1-8. https://doi.org/10.38141/10779/0467 
+Organizaci Meteorolica Mundial. (2017). Directrices de la Organizaci Meteorolica Mundial sobre el c√°lculo de las normales clim√°ticas. Serie OMM 1203. OMM. https://library.wmo.int/ doc_num.php?explnum_id=4167 
 
 
 
