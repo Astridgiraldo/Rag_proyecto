@@ -1,159 +1,157 @@
 
 Noviembre de 2023 
-Gerencia TÈcnica / Programa de Investigaci CientÌfica Fondo Nacional del CafÈ 
+Gerencia T√©cnica / Programa de Investigaci Cient√≠fica Fondo Nacional del Cafe 
 
 
-
-
-Procesamiento por vÌa seca
-para obtener cafÈs naturales 
-El proceso de poscosecha en el cafÈ tiene como objetivo convertir los frutos en granos de cafÈ seco, disminuyendo los altos contenidos de agua del fruto, manteniendo las caracterÌsticas de calidad, influyendo en los descriptores sensoriales y evitando pÈrdidas del producto. B·sicamente se identifican tres vÌas para el procesamiento de los frutos: seca, hmeda y semi-seca. Estas dan como resultado los cafÈs denominados naturales, lavados y honey, respectivamente. 
-En Colombia el beneficio m·s frecuente es el realizado por vÌa hmeda, que da origen a cafÈs suaves lavados; este implica un mayor nmero de etapas en el beneficio y menor tiempo de proceso, contrario al procesamiento por vÌa seca. Actualmente existen variaciones y mezclas de estos tipos de procesos que buscan generar perfiles sensoriales diferenciados de la bebida. El cafÈ natural presenta unas caracterÌsticas sensoriales particulares, asociadas al secado que es realizado con todos los componentes constitutivos del fruto. La respuesta a este proceso puede ser diferencial dependiendo del tipo de secado empleado, por tal razn en este Avance TÈcnico se presenta el efecto y las combinaciones del secado en la calidad del cafÈ natural. 
+Procesamiento por v√≠a seca
+para obtener caf√©s naturales 
+El proceso de poscosecha en el cafe tiene como objetivo convertir los frutos en granos de cafe seco, disminuyendo los altos contenidos de agua del fruto, manteniendo las caracter√≠sticas de calidad, influyendo en los descriptores sensoriales y evitando p√©rdidas del producto. B√°sicamente se identifican tres v√≠as para el procesamiento de los frutos: seca, hmeda y semi-seca. Estas dan como resultado los caf√©s denominados naturales, lavados y honey, respectivamente. 
+En Colombia el beneficio m√°s frecuente es el realizado por v√≠a hmeda, que da origen a caf√©s suaves lavados; este implica un mayor nmero de etapas en el beneficio y menor tiempo de proceso, contrario al procesamiento por v√≠a seca. Actualmente existen variaciones y mezclas de estos tipos de procesos que buscan generar perfiles sensoriales diferenciados de la bebida. El caf√© natural presenta unas caracter√≠sticas sensoriales particulares, asociadas al secado que es realizado con todos los componentes constitutivos del fruto. La respuesta a este proceso puede ser diferencial dependiendo del tipo de secado empleado, por tal razn en este Avance T√©cnico se presenta el efecto y las combinaciones del secado en la calidad del caf√© natural. 
 
 
 Autores 
-Valentina Osorio PÈrez 
-Investigador CientÌfico I https://orcid.org/0000-0002-1166-0165 
+Valentina Osorio P√©rez 
+Investigador Cient√≠fico I https://orcid.org/0000-0002-1166-0165 
 
-Jenny Paola Pab UsaquÈn 
+Jenny Paola Pab Usaqu√©n 
 Asistente de Investigaci https://orcid.org/0000-0003-1576-2297 
 
 Claudia Patricia Gallego 
 Asistente de Investigaci https://orcid.org/0000-0002-1532-8055 
-Disciplina Calidad Centro Nacional de Investigaciones de CafÈ - CenicafÈ Manizales, Caldas, Colombia 
+Disciplina Calidad Centro Nacional de Investigaciones de Caf√© - Cenicaf√© Manizales, Caldas, Colombia 
 DOI (Digital Object Identifier) https://doi.org/10.38141/10779/0557 
 Edici 
-Sandra Milena MarÌn Lez 
+Sandra Milena Mar√≠n Lez 
 
-FotografÌas 
-Archivo CenicafÈ 
+Fotograf√≠as 
+Archivo Cenicafe 
 
 Diagramaci 
-”scar Jaime Loaiza Echeverri 
+√ìscar Jaime Loaiza Echeverri 
 
 Imprenta 
-ó 
-ISSN-0120-0178 ISSN-2145-3691 (En lÌnea) Los trabajos suscritos por el personal tÈcnico del Centro Nacional de Investigaciones de CafÈ son parte de las investigaciones realizadas por la Federaci Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad. 
+‚Äî 
+ISSN-0120-0178 ISSN-2145-3691 (En l√≠nea) Los trabajos suscritos por el personal t√©cnico del Centro Nacional de Investigaciones de Caf√© son parte de las investigaciones realizadas por la Federaci Nacional de Cafeteros de Colombia. Sin embargo, tanto en este caso como en el de personas no pertenecientes a este Centro, las ideas emitidas por los autores son de su exclusiva responsabilidad y no expresan necesariamente las opiniones de la Entidad. 
 Manizales, Caldas, Colombia Tel. (6) 8500707 www.cenicafe.org 
 
 
 
-CaracterÌsticas del proceso vÌa seca 
-El secado es el proceso en donde se realiza una disminucin del contenido y actividad del agua (aw), logrando la conservacin y la estabilidad necesaria para el almacenamiento del grano de cafÈ. La actividad de agua puede expresarse como la disponibilidad potencial del agua para participar en reacciones bioquÌmicas y su valor varÌa de 0,0 a 1,0; alimentos con valores inferiores a 0,7 se definen como poco susceptibles para las diferentes causas de deterioro. 
-Durante el secado, en cafÈs lavados el contenido inicial de agua en el grano disminuye de valores entre 50% - 55% hasta 10% - 12% obteniendo el denominado cafÈ pergamino seco (cps). En los frutos de cafÈ utilizados para los cafÈs naturales el contenido inicial de humedad puede encontrarse en valores entre el 68% al 72% y al final del proceso el contenido es similar al del cafÈ lavado, obteniÈndose el denominado cafÈ cereza seca (ccs) (Osorio et al., 2022). El proceso de secado puede realizarse de dos maneras, vÌa solar (aprovechando la energÌa solar y los gradientes de humedad del aire) y vÌa mec·nica; para este ltimo, en Colombia los equipos m·s utilizados son los silos de capa est·tica (Parra et al., 2017). 
-El procesamiento de los frutos vÌa seca implica, posterior a la recoleccin del cafÈ, una clasificacin y una seleccin hidr·ulica para retirar los frutos defectuosos e impurezas y, posteriormente, el fruto completo es sometido al proceso de secado (BorÈm et al., 2008). El procedimiento de secado de cafÈs naturales, m·s ampliamente difundido consta de una primera etapa de secado solar donde se disminuye la humedad a valores comprendidos entre el 30% - 35%, seguido de una finalizacin en secado mec·nico alcanzando valores finales del 13,0% de humedad (Guimar„ et al., 1998). Durante el proceso de secado de capa est·tica (sin movimiento de la masa), se recomienda la rotacin del cafÈ a intervalos regulares de 3,0 horas, debido a que este procedimiento reduce la humedad en la masa del grano (Finzer et al., 2007). Las recomendaciones m·s frecuentes durante esta etapa son el uso de alturas de capa de secado inferiores a 50 cm y temperaturas del aire de secado m·ximo de 50∞C, controlando que la temperatura de la masa no sea superior a 40∞C. 
+Caracter√≠sticas del proceso v√≠a seca 
+El secado es el proceso en donde se realiza una disminucion del contenido y actividad del agua (aw), logrando la conservacion y la estabilidad necesaria para el almacenamiento del grano de cafe. La actividad de agua puede expresarse como la disponibilidad potencial del agua para participar en reacciones bioqu√≠micas y su valor var√≠a de 0,0 a 1,0; alimentos con valores inferiores a 0,7 se definen como poco susceptibles para las diferentes causas de deterioro. 
+Durante el secado, en cafes lavados el contenido inicial de agua en el grano disminuye de valores entre 50% - 55% hasta 10% - 12% obteniendo el denominado caf√© pergamino seco (cps). En los frutos de cafe utilizados para los caf√©s naturales el contenido inicial de humedad puede encontrarse en valores entre el 68% al 72% y al final del proceso el contenido es similar al del caf√© lavado, obteni√©ndose el denominado caf√© cereza seca (ccs) (Osorio et al., 2022). El proceso de secado puede realizarse de dos maneras, v√≠a solar (aprovechando la energ√≠a solar y los gradientes de humedad del aire) y v√≠a mec√°nica; para este ltimo, en Colombia los equipos m√°s utilizados son los silos de capa est√°tica (Parra et al., 2017). 
+El procesamiento de los frutos v√≠a seca implica, posterior a la recoleccin del caf√©, una clasificacin y una seleccin hidr√°ulica para retirar los frutos defectuosos e impurezas y, posteriormente, el fruto completo es sometido al proceso de secado (Bor√©m et al., 2008). El procedimiento de secado de caf√©s naturales, m√°s ampliamente difundido consta de una primera etapa de secado solar donde se disminuye la humedad a valores comprendidos entre el 30% - 35%, seguido de una finalizacin en secado mec√°nico alcanzando valores finales del 13,0% de humedad (Guimar√£ et al., 1998). Durante el proceso de secado de capa est√°tica (sin movimiento de la masa), se recomienda la rotacin del caf√© a intervalos regulares de 3,0 horas, debido a que este procedimiento reduce la humedad en la masa del grano (Finzer et al., 2007). Las recomendaciones m√°s frecuentes durante esta etapa son el uso de alturas de capa de secado inferiores a 50 cm y temperaturas del aire de secado m√°ximo de 50¬∞C, controlando que la temperatura de la masa no sea superior a 40¬∞C. 
 
 Procesos y tiempos de secado 
-Durante el proceso de secado de cafÈ natural se producen cambios que se reflejan en las caracterÌsticas de calidad del grano y de la bebida. Por esta razn, se realizaron dos investigaciones asociadas a la obtencin de cafÈs naturales, en las instalaciones del Beneficiadero Experimental de CenicafÈ, ubicado en Manizales (Caldas) y en las cuales se utilizcafÈ variedad CenicafÈ 1. 
-En la primera investigacin se evaluaron cinco tipos de secado hasta finalmente alcanzar una humedad entre el 10% - 12%. El primero consistien 100% secado solar (S), el segundo 100% secado mec·nico (M) con capa est·tica y en los siguientes tres tipos de secado, se realizuna disminucin inicial del contenido de humedad, mediante secado solar finalizando con secado mec·nico. De esta manera se configuraron tres tratamientos, secado solar hasta alcanzar humedades del 45% (S45M), 50% (S50M) y 55% (S55M). El testigo correspondia cafÈ procesado vÌa hmeda para obtener cafÈ lavado (CL) y secado mec·nicamente. En los tratamientos evaluados la humedad inicial promedio del fruto correspondi a 68,9% (b.h). A partir de dicho porcentaje, el tiempo de secado promedio para el secado solar (S) fue de 19 dÌas, con un m·ximo de 27 y un mÌnimo de 11 dÌas, y para el cafÈ lavado (testigo) el tiempo promedio de secado fue de 4 dÌas, siendo este tiempo diferente estadÌsticamente a los obtenidos en los dem·s tratamientos (Gallego et al., 2023). 
-La segunda investigacin tuvo como objetivo conocer el efecto del cambio del orden del tipo de secado en la calidad del cafÈ natural. Para esto se evaluaron cuatro tratamientos: secado solar 100% (S); secado mec·nico 100% (M); secado solar hasta obtener un porcentaje de humedad del 40% y finalizando con secado mec·nico (S40M); y cafÈ con secado mec·nico hasta obtener una humedad del 40% finalizando con secado solar (M40S). Todos los tratamientos finalizaron cuando se alcanzuna humedad final del 10% al 12%. La duracin del tiempo de secado entre los tratamientos evaluados, no presentdiferencias significativas. Lo anterior estuvo asociado al empleo de una menor temperatura del aire de secado mec·nico (40∞C±5,0∞C), lo que prolonglos tiempos de secado de los tratamientos. 
-El secado al sol con disminucin del porcentaje inicial de humedad al 40% y finalizando con secado mec·nico (S40M) gastun 9,5% menos de tiempo que el secado mec·nico con disminucin del porcentaje inicial de humedad al 40% finalizando con secado solar (M40S). Esta reduccin de tiempo a favor del S40M podrÌa estar asociada a la naturaleza del proceso de secado, pues en la etapa final se necesita un mayor gradiente entre la temperatura del aire y del grano, para facilitar la migracin del agua del grano (Osorio et al., 2022). Durante la ltima etapa de secado este gradiente es mayor en el tratamiento asociado a la finalizacin con secado mec·nico. En la Tabla 1 se presenta la duracin del secado para obtener cafÈ natural con una humedad del 10% al 12%. 
+Durante el proceso de secado de caf√© natural se producen cambios que se reflejan en las caracter√≠sticas de calidad del grano y de la bebida. Por esta razn, se realizaron dos investigaciones asociadas a la obtencin de caf√©s naturales, en las instalaciones del Beneficiadero Experimental de Cenicaf√©, ubicado en Manizales (Caldas) y en las cuales se utilizcaf√© variedad Cenicaf√© 1. 
+En la primera investigacin se evaluaron cinco tipos de secado hasta finalmente alcanzar una humedad entre el 10% - 12%. El primero consistien 100% secado solar (S), el segundo 100% secado mec√°nico (M) con capa est√°tica y en los siguientes tres tipos de secado, se realizuna disminucin inicial del contenido de humedad, mediante secado solar finalizando con secado mec√°nico. De esta manera se configuraron tres tratamientos, secado solar hasta alcanzar humedades del 45% (S45M), 50% (S50M) y 55% (S55M). El testigo correspondia caf√© procesado v√≠a hmeda para obtener caf√© lavado (CL) y secado mec√°nicamente. En los tratamientos evaluados la humedad inicial promedio del fruto correspondi a 68,9% (b.h). A partir de dicho porcentaje, el tiempo de secado promedio para el secado solar (S) fue de 19 d√≠as, con un m√°ximo de 27 y un m√≠nimo de 11 d√≠as, y para el caf√© lavado (testigo) el tiempo promedio de secado fue de 4 d√≠as, siendo este tiempo diferente estad√≠sticamente a los obtenidos en los dem√°s tratamientos (Gallego et al., 2023). 
+La segunda investigacin tuvo como objetivo conocer el efecto del cambio del orden del tipo de secado en la calidad del caf√© natural. Para esto se evaluaron cuatro tratamientos: secado solar 100% (S); secado mec√°nico 100% (M); secado solar hasta obtener un porcentaje de humedad del 40% y finalizando con secado mec√°nico (S40M); y caf√© con secado mec√°nico hasta obtener una humedad del 40% finalizando con secado solar (M40S). Todos los tratamientos finalizaron cuando se alcanzuna humedad final del 10% al 12%. La duracin del tiempo de secado entre los tratamientos evaluados, no presentdiferencias significativas. Lo anterior estuvo asociado al empleo de una menor temperatura del aire de secado mec√°nico (40¬∞C¬±5,0¬∞C), lo que prolonglos tiempos de secado de los tratamientos. 
+El secado al sol con disminucin del porcentaje inicial de humedad al 40% y finalizando con secado mec√°nico (S40M) gastun 9,5% menos de tiempo que el secado mec√°nico con disminucin del porcentaje inicial de humedad al 40% finalizando con secado solar (M40S). Esta reduccin de tiempo a favor del S40M podr√≠a estar asociada a la naturaleza del proceso de secado, pues en la etapa final se necesita un mayor gradiente entre la temperatura del aire y del grano, para facilitar la migracin del agua del grano (Osorio et al., 2022). Durante la ltima etapa de secado este gradiente es mayor en el tratamiento asociado a la finalizacin con secado mec√°nico. En la Tabla 1 se presenta la duracin del secado para obtener caf√© natural con una humedad del 10% al 12%. 
 
 
 Contenido de humedad y actividad de agua 
-El fruto de cafÈ iniciel proceso de secado con un contenido de humedad aproximado del 68% y con actividad de agua (aw) promedio de 0,9848, el secado finaliz una vez se alcanz un porcentaje de humedad en el rango del 10% al 12% y actividad de agua promedio de 0,5857. DespuÈs del secado, el promedio de la diferencia de humedad entre el cafÈ cereza seco (ccs) y su respectiva almendra fue de 2,2% a favor del cafÈ cereza seco, con un intervalo entre 1,3% y 3,1%. Esta diferencia en humedad se debia un mayor contenido de humedad en la c·scara seca (16,8%), cuando el cafÈ cereza seco se encontraba en el intervalo del 10% al 12% (Figura 1), explicado por la alta higroscopicidad de la c·scara debido principalmente a su contenido de pectina y azcares. 
+El fruto de caf√© iniciel proceso de secado con un contenido de humedad aproximado del 68% y con actividad de agua (aw) promedio de 0,9848, el secado finaliz una vez se alcanz un porcentaje de humedad en el rango del 10% al 12% y actividad de agua promedio de 0,5857. Despu√©s del secado, el promedio de la diferencia de humedad entre el caf√© cereza seco (ccs) y su respectiva almendra fue de 2,2% a favor del caf√© cereza seco, con un intervalo entre 1,3% y 3,1%. Esta diferencia en humedad se debia un mayor contenido de humedad en la c√°scara seca (16,8%), cuando el caf√© cereza seco se encontraba en el intervalo del 10% al 12% (Figura 1), explicado por la alta higroscopicidad de la c√°scara debido principalmente a su contenido de pectina y azcares. 
 
 
-Tratamientos  Investigaci  Tipo de secado  Humedad inicial (%)  Tiempo (dÌas)  
-MÌnimo  Promedio  M·ximo  
-100% S  Secado de cafÈs naturales  Solar  68,9  11  19,0  27  
-100% M  Mec·nico  68,9  8  10,0  12  
-S45M  Solar y Mec·nico  45,0%  9  12,0  16  
-S50M  Solar y Mec·nico  50,0%  9  12,0  15  
-S55M  Solar y Mec·nico  55,0%  9  12,0  16  
-Testigo (CL)  Mec·nico  54,0%  3  4,0  5  
-S40M  Combinaci de los procesos de secado  Solar y Mec·nico  40,0%  8  11,4  15  
-M40S  Mec·nico y Solar  40,0%  9  12,6  17  
+Tratamientos  Investigaci  Tipo de secado  Humedad inicial (%)  Tiempo (d√≠as)  
+M√≠nimo  Promedio  M√°ximo  
+100% S  Secado de caf√©s naturales  Solar  68,9  11  19,0  27  
+100% M  Mec√°nico  68,9  8  10,0  12  
+S45M  Solar y Mec√°nico  45,0%  9  12,0  16  
+S50M  Solar y Mec√°nico  50,0%  9  12,0  15  
+S55M  Solar y Mec√°nico  55,0%  9  12,0  16  
+Testigo (CL)  Mec√°nico  54,0%  3  4,0  5  
+S40M  Combinaci de los procesos de secado  Solar y Mec√°nico  40,0%  8  11,4  15  
+M40S  Mec√°nico y Solar  40,0%  9  12,6  17  
 100%S  Solar  68,9%  9  14,0  17  
-100%M  Mec·nico  68,9%  5  8,6  11  
+100%M  Mec√°nico  68,9%  5  8,6  11  
 
 Fruto: 68% - 72% CCS: 10% - 12% 
 
 
 
 
-Calidad fÌsica 
+Calidad f√≠sica 
 
-Los valores de algunas variables de calidad fÌsica determinadas para el cafÈ natural, son diferentes a los recomendados para cafÈ obtenido por un proceso de lavado. El porcentaje de merma se refiere a la cantidad de pergamino que tiene el grano seco. Para este tipo de procesamiento, donde la c·scara (conocida como pulpa) queda adherida al grano de cafÈ almendra, presenta valores mayores a los que se reportan para el cafÈ lavado (Figura 2). El cafÈ lavado tiene un porcentaje promedio de merma del 18%. En general, para los cafÈs naturales de esta investigacin, con doble clasificacin previa al secado, se obtuvo un valor promedio de merma de 54,94%. En el caso del cafÈ natural, el color general de la muestra presentun ligero cambio en las tonalidades del verde caracterÌstico del cafÈ lavado y en ocasiones se tornligeramente amarillento y/o rojizo, lo que no podrÌa definirse como un defecto fÌsico si no como una caracterÌstica propia del proceso, debido probablemente a la migracin de antocianinas desde el exocarpio al endospermo (Puertas-MejÌa et al., 2012). 
+Los valores de algunas variables de calidad f√≠sica determinadas para el caf√© natural, son diferentes a los recomendados para caf√© obtenido por un proceso de lavado. El porcentaje de merma se refiere a la cantidad de pergamino que tiene el grano seco. Para este tipo de procesamiento, donde la c√°scara (conocida como pulpa) queda adherida al grano de caf√© almendra, presenta valores mayores a los que se reportan para el caf√© lavado (Figura 2). El caf√© lavado tiene un porcentaje promedio de merma del 18%. En general, para los caf√©s naturales de esta investigacin, con doble clasificacin previa al secado, se obtuvo un valor promedio de merma de 54,94%. En el caso del caf√© natural, el color general de la muestra presentun ligero cambio en las tonalidades del verde caracter√≠stico del caf√© lavado y en ocasiones se tornligeramente amarillento y/o rojizo, lo que no podr√≠a definirse como un defecto f√≠sico si no como una caracter√≠stica propia del proceso, debido probablemente a la migracin de antocianinas desde el exocarpio al endospermo (Puertas-Mej√≠a et al., 2012). 
 
 Calidad sensorial 
 
-La evaluacin sensorial del cafÈ natural obtenido se realizsiguiendo el protocolo SCA (Specialty Coffee Association SCA, 2003). En la primera investigacin asociada a la obtencin de cafÈs naturales iniciando con secado solar y finalizando con secado mec·nico, en los tratamientos S y S45M se evidenciel defecto fermento en una sola repeticin (5,5%). En los tratamientos evaluados no se presentaron diferencias en la calidad sensorial expresada como puntaje total SCA (Tabla 2). El atributo sensorial Fragancia/Aroma y sus respectivos descriptores presentaron diferencias estadÌsticas mediante el an·lisis de minerÌa de texto (Gallego et al., 2023). 
+La evaluacin sensorial del caf√© natural obtenido se realizsiguiendo el protocolo SCA (Specialty Coffee Association SCA, 2003). En la primera investigacin asociada a la obtencin de caf√©s naturales iniciando con secado solar y finalizando con secado mec√°nico, en los tratamientos S y S45M se evidenciel defecto fermento en una sola repeticin (5,5%). En los tratamientos evaluados no se presentaron diferencias en la calidad sensorial expresada como puntaje total SCA (Tabla 2). El atributo sensorial Fragancia/Aroma y sus respectivos descriptores presentaron diferencias estad√≠sticas mediante el an√°lisis de miner√≠a de texto (Gallego et al., 2023). 
 
 Para el tratamiento S, el descriptor que presentuna mayor frecuencia (22%) fue el frutal, que tiene una correspondencia directa con los descriptores vinosos, malta, uvas y pasas, que representan en conjunto el 60,6%. 
 .	En el tratamiento S45M el descriptor sobresaliente fue el chocolate con 16,7% y una correspondencia directa con el caramelo y frutal con un 40,1%. 
-.	Para el tratamiento S50M el principal descriptor fue frutal con una frecuencia del 11,4% con una correspondencia con araz· y manzana, que representan en conjunto el 31,4%. 
+.	Para el tratamiento S50M el principal descriptor fue frutal con una frecuencia del 11,4% con una correspondencia con araz√° y manzana, que representan en conjunto el 31,4%. 
 .	En el tratamiento S55M su mayor descriptor fue caramelo con un 26,3% y sus correspondencias a miel y cereza, con un 42,1%. 
-.	El secado M el descriptor caracterÌstico fue miel, con una correspondencia con pasas y uvas, que representa en conjunto el 20,5% de frecuencia. 
-.	Para el cafÈ lavado, el descriptor que se presentcon mayor frecuencia fue al 12% (Figura 1), explicado por la alta higroscopicidad de la c·scara debido principalmente a su contenido de pectina y azcares. almendra con 20% y su correspondencia directa fue con miel y dulce con un 50%. 
+.	El secado M el descriptor caracter√≠stico fue miel, con una correspondencia con pasas y uvas, que representa en conjunto el 20,5% de frecuencia. 
+.	Para el caf√© lavado, el descriptor que se presentcon mayor frecuencia fue al 12% (Figura 1), explicado por la alta higroscopicidad de la c√°scara debido principalmente a su contenido de pectina y azcares. almendra con 20% y su correspondencia directa fue con miel y dulce con un 50%. 
 
-Es importante resaltar que en los tratamientos evaluados los descriptores caracterÌsticos del cafÈ procesado vÌa seca fueron frutales, chocolate, caramelo y miel (Figura 3). Los colores y el grosor de las lÌneas interpretan una correspondencia directa con los descriptores de mayor relacin. 
-En la segunda investigacin que evaluel efecto del cambio en el orden del tipo de secado de cafÈs naturales, las muestras de todos los tratamientos presentaron calidad sin defectos sensoriales y no se encontrincidencia de la combinacin del secado mec·nico y solar en el puntaje total SCA (Tabla 2). Los atributos sabor, sabor residual, acidez, balance y cuerpo no presentaron diferencias por tratamientos; lo anterior puede ser explicado por la seleccin y clasificacin previa de la materia prima, en todos los tratamientos y a las temperaturas utilizadas, que para el caso de los que incluÌan secado mec·nico no fueron superiores a 40∞C, lo que evitdaos en el grano que se reflejaran en la calidad sensorial (Osorio et al., 2022). El atributo Fragancia/Aroma fue mayor en el tratamiento 100% secado mec·nico diferenci·ndose estadÌsticamente del secado solar 100% (S). 
+Es importante resaltar que en los tratamientos evaluados los descriptores caracter√≠sticos del caf√© procesado v√≠a seca fueron frutales, chocolate, caramelo y miel (Figura 3). Los colores y el grosor de las l√≠neas interpretan una correspondencia directa con los descriptores de mayor relacin. 
+En la segunda investigacin que evaluel efecto del cambio en el orden del tipo de secado de caf√©s naturales, las muestras de todos los tratamientos presentaron calidad sin defectos sensoriales y no se encontrincidencia de la combinacin del secado mec√°nico y solar en el puntaje total SCA (Tabla 2). Los atributos sabor, sabor residual, acidez, balance y cuerpo no presentaron diferencias por tratamientos; lo anterior puede ser explicado por la seleccin y clasificacin previa de la materia prima, en todos los tratamientos y a las temperaturas utilizadas, que para el caso de los que inclu√≠an secado mec√°nico no fueron superiores a 40¬∞C, lo que evitdaos en el grano que se reflejaran en la calidad sensorial (Osorio et al., 2022). El atributo Fragancia/Aroma fue mayor en el tratamiento 100% secado mec√°nico diferenci√°ndose estad√≠sticamente del secado solar 100% (S). 
 
 
-Composici quÌmica 
-Los diferentes compuestos quÌmicos del cafÈ almendra tienen incidencia en la configuracin de los atributos sensoriales de la bebida. Los cafÈs naturales con una disminucin inicial del contenido de humedad a valores del 45%, 50% y 55% vÌa secado solar finalizando con secado mec·nico (S45M, S50M y S55M) no mostraron diferencias en los compuestos quÌmicos como lÌpidos, ·cidos grasos libres (palmÌtico, linoleico, oleico, este·rico y araquÌdico), ·cidos org·nicos (acÈtico, cÌtrico, l·ctico, m·lico, ox·lico, quÌnico y tart·rico), cafeÌna, trigonelina, teobromina, ·cidos clorogÈnicos totales y proteÌna. Sin embargo, se observaron diferencias significativas por tipo de procesamiento (cafÈ lavado versus cafÈ natural), con relacin a los azcares reductores. 
+Composici qu√≠mica 
+Los diferentes compuestos qu√≠micos del caf√© almendra tienen incidencia en la configuracin de los atributos sensoriales de la bebida. Los caf√©s naturales con una disminucin inicial del contenido de humedad a valores del 45%, 50% y 55% v√≠a secado solar finalizando con secado mec√°nico (S45M, S50M y S55M) no mostraron diferencias en los compuestos qu√≠micos como l√≠pidos, √°cidos grasos libres (palm√≠tico, linoleico, oleico, este√°rico y araqu√≠dico), √°cidos org√°nicos (ac√©tico, c√≠trico, l√°ctico, m√°lico, ox√°lico, qu√≠nico y tart√°rico), cafe√≠na, trigonelina, teobromina, √°cidos clorog√©nicos totales y prote√≠na. Sin embargo, se observaron diferencias significativas por tipo de procesamiento (caf√© lavado versus caf√© natural), con relacin a los azcares reductores. 
 Las concentraciones promedio de glucosa fueron de 1,42 g kg-1 en los tratamientos asociados al procesamiento 
 
-Investigaci 1: Secados de cafÈ naturales  
+Investigaci 1: Secados de caf√© naturales  
 Tratamiento  Puntaje total SCA  
 Promedio  Desv. Est.  
-Secado de cafÈs naturales  
+Secado de caf√©s naturales  
 S: 100 % Solar  83,52  1,2  
-S45M: Solar y mec·nico  84,09  1,0  
-S50M: Solar y mec·nico  83,90  0,9  
-S55M: Solar y mec·nico  83,65  0,7  
-M: 100 % mec·nico  82,92  0,8  
-CL: CafÈ lavado  82,93  0,8  
+S45M: Solar y mec√°nico  84,09  1,0  
+S50M: Solar y mec√°nico  83,90  0,9  
+S55M: Solar y mec√°nico  83,65  0,7  
+M: 100 % mec√°nico  82,92  0,8  
+CL: Caf√© lavado  82,93  0,8  
 Investigaci 2: Combinaci de los procesos de secado  
 S: 100 % solar  82,82  0,82  
-M: 100 % mec·nico  83,38  1,13  
-S40M: Solar y mec·nico  82,70  1,06  
-M40S: Mec·nico y solar  82,68  0,98  
+M: 100 % mec√°nico  83,38  1,13  
+S40M: Solar y mec√°nico  82,70  1,06  
+M40S: Mec√°nico y solar  82,68  0,98  
 
 
 S: 100% secado solar S45%+M 
 
 S50%+M S55%+M 
 
-M: 100% secado mec·nico CL: CafÈ lavado 
+M: 100% secado mec√°nico CL: Caf√© lavado 
 
-vÌa seca. Estos valores alcanzaron a triplicar los valores hallados en el tratamiento testigo de cafÈ lavado de 0,6 g kg-1. Este comportamiento se observtambiÈn para los contenidos de fructosa, cuyos valores fueron superiores en todas las modalidades de secado de los cafÈs naturales, con respecto a los promedios encontrados para el cafÈ lavado (Gallego et al., 2023). De los azcares, la sacarosa es el compuesto m·s abundante (Koshiro et al., 2015) y acta como precursor del aroma, originando varias sustancias en el proceso de tueste, debido a las reacciones de caramelizacin que afectan el sabor y aroma de la bebida. 
-La determinacin de la composicin quÌmica para las muestras obtenidas del tipo de secado de cafÈs naturales, se realizmediante el mÈtodo de espectroscopia de infrarrojo cercano (NIRS), estimando los contenidos de cafeÌna, ·cidos clorogÈnicos totales, lÌpidos totales, sacarosa y trigonelina presentes en el cafÈ verde de las muestras obtenidas. El contenido del ·cido graso palmÌtico fue mayor en el secado 100% solar (S) en comparacin con el 100% mec·nico (M), disminuyendo de valores del 40,11% al 38,69%. La presencia de lÌpidos y de los ·cidos grasos se asocia con el aroma y el cuerpo de la bebida. Los ·cidos grasos tienen un papel fisiolgico fundamental, dado que constituyen y garantizan las propiedades de las membranas celulares. El palmÌtico se configura como uno de los ·cidos grasos mayoritarios y una mayor concentracin en el secado solar podrÌa estar asociado a la necesidad de proteccin de las membranas celulares como respuesta a condiciones de secado m·s fluctuantes, en comparacin con el secado mec·nico donde estas son m·s homogÈneas y constantes (Osorio et al., 2022). 
-
-
-Condiciones del proceso para la obtenci de cafÈ natural 
-Los procesos de secado solar tienen una mayor dependencia de las condiciones de clima y esto genera mayores tiempos de duracin del secado, que a su vez implican mayores ·reas de secado en la finca. En Colombia, los caficultores con promedios de produccin inferiores a 2.500 kg ha-1 de cps al ao pueden realizar el secado del cafÈ lavado de manera solar. Para secar 60 kg de cafÈ lavado se requiere un ·rea de 3,3 m2 solar (Oliveros et al., 2006). 
-Cuando se realiza el proceso para obtener cafÈs naturales se lleva al ·rea de secado un peso adicional promedio de 58,2%, asociado a la pulpa y al mucÌlago (Osorio et al., 2022). Un estimado inicial de ·rea de secado para obtener la misma cantidad de almendra sana proveniente de 54,9 kg de ccs es de 5,2 m2 (2,3 veces m·s). Esta ·rea fue calculada realizando una correccin por densidad del fruto y por el tiempo adicional de secado, que es aproximadamente un 50% m·s, comparado con la duracin del secado de un cafÈ lavado, bajo las condiciones clim·ticas en las que se desarrollla investigacin y en el tipo de secadores solares utilizados. Con el empleo de secado mec·nico, que es recomendable para la obtencin de naturales, debe garantizarse que el aire recorra toda la capa de cafÈ (invirtiendo los flujos) y que el ventilador tenga la capacidad de suministrar caudal de aire durante el secado. 
+v√≠a seca. Estos valores alcanzaron a triplicar los valores hallados en el tratamiento testigo de caf√© lavado de 0,6 g kg-1. Este comportamiento se observtambi√©n para los contenidos de fructosa, cuyos valores fueron superiores en todas las modalidades de secado de los caf√©s naturales, con respecto a los promedios encontrados para el caf√© lavado (Gallego et al., 2023). De los azcares, la sacarosa es el compuesto m√°s abundante (Koshiro et al., 2015) y acta como precursor del aroma, originando varias sustancias en el proceso de tueste, debido a las reacciones de caramelizacin que afectan el sabor y aroma de la bebida. 
+La determinacin de la composicin qu√≠mica para las muestras obtenidas del tipo de secado de caf√©s naturales, se realizmediante el m√©todo de espectroscopia de infrarrojo cercano (NIRS), estimando los contenidos de cafe√≠na, √°cidos clorog√©nicos totales, l√≠pidos totales, sacarosa y trigonelina presentes en el caf√© verde de las muestras obtenidas. El contenido del √°cido graso palm√≠tico fue mayor en el secado 100% solar (S) en comparacin con el 100% mec√°nico (M), disminuyendo de valores del 40,11% al 38,69%. La presencia de l√≠pidos y de los √°cidos grasos se asocia con el aroma y el cuerpo de la bebida. Los √°cidos grasos tienen un papel fisiolgico fundamental, dado que constituyen y garantizan las propiedades de las membranas celulares. El palm√≠tico se configura como uno de los √°cidos grasos mayoritarios y una mayor concentracin en el secado solar podr√≠a estar asociado a la necesidad de proteccin de las membranas celulares como respuesta a condiciones de secado m√°s fluctuantes, en comparacin con el secado mec√°nico donde estas son m√°s homog√©neas y constantes (Osorio et al., 2022). 
 
 
-Recomendaciones para la obtenci de cafÈs naturales 
-.	Clasifique los frutos de cafÈ, eliminando 
+Condiciones del proceso para la obtenci de caf√© natural 
+Los procesos de secado solar tienen una mayor dependencia de las condiciones de clima y esto genera mayores tiempos de duracin del secado, que a su vez implican mayores √°reas de secado en la finca. En Colombia, los caficultores con promedios de produccin inferiores a 2.500 kg ha-1 de cps al ao pueden realizar el secado del caf√© lavado de manera solar. Para secar 60 kg de caf√© lavado se requiere un √°rea de 3,3 m2 solar (Oliveros et al., 2006). 
+Cuando se realiza el proceso para obtener caf√©s naturales se lleva al √°rea de secado un peso adicional promedio de 58,2%, asociado a la pulpa y al muc√≠lago (Osorio et al., 2022). Un estimado inicial de √°rea de secado para obtener la misma cantidad de almendra sana proveniente de 54,9 kg de ccs es de 5,2 m2 (2,3 veces m√°s). Esta √°rea fue calculada realizando una correccin por densidad del fruto y por el tiempo adicional de secado, que es aproximadamente un 50% m√°s, comparado con la duracin del secado de un caf√© lavado, bajo las condiciones clim√°ticas en las que se desarrollla investigacin y en el tipo de secadores solares utilizados. Con el empleo de secado mec√°nico, que es recomendable para la obtencin de naturales, debe garantizarse que el aire recorra toda la capa de caf√© (invirtiendo los flujos) y que el ventilador tenga la capacidad de suministrar caudal de aire durante el secado. 
+
+
+Recomendaciones para la obtenci de caf√©s naturales 
+.	Clasifique los frutos de caf√©, eliminando 
 aquellos de baja calidad. 
 .	Procese frutos 100% maduros. 
-.	Asegure la integridad de los frutos, evitando secar aquellos que no estÈn completos. 
-.	Durante el secado, mezcle el cafÈ para 
+.	Asegure la integridad de los frutos, evitando secar aquellos que no est√©n completos. 
+.	Durante el secado, mezcle el caf√© para 
 contribuir a la uniformidad final del grano. 
 .	No interrumpa el proceso de secado. 
 .	Realice operaciones de seguimiento para 
 asegurar el porcentaje de humedad final 
 de grano. 
-.	Recuerde que la humedad de la almendra ser· menor a la humedad del cafÈ con la c·scara seca (ccs). 
-.	Para el secado solar utilice capas de secado de 2,0 cm y revuelva el cafÈ cuatro veces al dÌa. 
-.	En el secado mec·nico utilice temperaturas 
-del aire inferiores a 40∞C y el caudal de aire adecuado, adem·s invierta el flujo del aire en las capas en el secador. 
+.	Recuerde que la humedad de la almendra ser√° menor a la humedad del caf√© con la c√°scara seca (ccs). 
+.	Para el secado solar utilice capas de secado de 2,0 cm y revuelva el caf√© cuatro veces al d√≠a. 
+.	En el secado mec√°nico utilice temperaturas 
+del aire inferiores a 40¬∞C y el caudal de aire adecuado, adem√°s invierta el flujo del aire en las capas en el secador. 
 
 
 
 
 Literatura citada 
 
-BorÈm, F. M., Coradi, P. C., Saath, R., & Oliveira, J. A. (2008). Qualidade do cafÈ natural e despolpado ap secagem em terreiro e com altas temperaturas. CiÍncia e Agrotecnologia, 32(5), 1609ñ 1615. https://doi.org/10.1590/S1413≠
+Bor√©m, F. M., Coradi, P. C., Saath, R., & Oliveira, J. A. (2008). Qualidade do caf√© natural e despolpado ap secagem em terreiro e com altas temperaturas. Ci√™ncia e Agrotecnologia, 32(5), 1609‚Äì 1615. https://doi.org/10.1590/S1413¬≠
 70542008000500038 
-Finzer, J. R. D., Sfredo, M. A., Sousa, G. D. B., & Limaverde, J. R. (2007). Dispersion coefficient of coffee berries in vibrated bed dryer. Journal of Food Engineering, 79(3), 905ñ912. https://doi.org/10.1016/j. jfoodeng.2006.03.011 
-Gallego, C. P., ImbachÌ, L. C., & Osorio, V. (2023). Influencia del proceso de secado del cafÈ natural en las caracterÌsticas 69(1), 53ñ62. https://doi.org/10.1006/ jaer.1997.0222 
-Oliveros, C., RamÌrez, C. A., Sanz, J. R., & Peela, A. E. (2006). Secador solar de tel para cafÈ pergamino. Avances TÈcnicos CenicafÈ, 353, 1ñ8. http://hdl. handle.net/10778/402 
-Osorio, V., Pab, J., Shuler, J., & Fern·ndez-Alduenda, M. R. (2022). Efecto de la combinaci de procesos de secado en la calidad del cafÈ natural obtenido vÌa seca. Revista CenicafÈ, 73(1), e73101. https://doi.org/10.38141/10778/73101 
+Finzer, J. R. D., Sfredo, M. A., Sousa, G. D. B., & Limaverde, J. R. (2007). Dispersion coefficient of coffee berries in vibrated bed dryer. Journal of Food Engineering, 79(3), 905‚Äì912. https://doi.org/10.1016/j. jfoodeng.2006.03.011 
+Gallego, C. P., Imbach√≠, L. C., & Osorio, V. (2023). Influencia del proceso de secado del caf√© natural en las caracter√≠sticas 69(1), 53‚Äì62. https://doi.org/10.1006/ jaer.1997.0222 
+Oliveros, C., Ram√≠rez, C. A., Sanz, J. R., & Peela, A. E. (2006). Secador solar de tel para caf√© pergamino. Avances T√©cnicos Cenicaf√©, 353, 1‚Äì8. http://hdl. handle.net/10778/402 
+Osorio, V., Pab, J., Shuler, J., & Fern√°ndez-Alduenda, M. R. (2022). Efecto de la combinaci de procesos de secado en la calidad del caf√© natural obtenido v√≠a seca. Revista Cenicaf√©, 73(1), e73101. https://doi.org/10.38141/10778/73101 
 Parra, A., Roa, G., Oliveros, C. E., & Sanz, J. 
 R. (2017). Optimizaci operacional de 
 
